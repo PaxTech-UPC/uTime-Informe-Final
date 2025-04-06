@@ -21,6 +21,7 @@
 
 | Nombre                              | Código     |
 |-------------------------------------|------------|
+| Falcon Hilarion, Fred Wilber        | U202422331 |
 | Julca Cruz, Renso Anthony           | U202121579 |
 | Rivera Sosa, Eduardo Gael           | U202312222 |
 | Varela Bustinza, Marcelo Alessandro | U202319668 |
