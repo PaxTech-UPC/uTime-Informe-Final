@@ -58,6 +58,11 @@
    2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
    2.3. [Needfinding](#23-needfinding)<br>
    2.3.1. [User Personas](#231-user-personas)<br>
+   Segmento objetivo #1: Salones de belleza y barberías
+   <div align="center">
+      <img src="img/Andrea_Mercedes_user_persona.png" alt="Andrea Mercedes"/>
+   </div>
+   Segmento objetivo #2: Clientes de servicios de belleza
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
