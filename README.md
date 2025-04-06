@@ -158,6 +158,32 @@
 
 ### 2.2.1. Diseño de entrevistas.
 
+### Preguntas para el Segmento Objetivo 01 (Dueños de salones de belleza o barberías)
+
+1. ¿Cuánto tiempo lleva en el rubro de la belleza/barbería y qué lo motivó a dedicarse a este negocio?
+2. ¿Cómo suelen agendar las citas sus clientes y qué método prefieren ellos? (WhatsApp, llamadas, redes sociales, otros).
+3. ¿Cuán flexible es su agenda diaria y qué tan difícil es manejar cambios de última hora en las reservas?
+4. ¿Usan algún sistema o aplicación para gestionar reservas y pagos? Si no, ¿cómo lo hacen actualmente?
+5. ¿Cuáles son los principales canales de comunicación que usan para confirmar o recordar citas?
+6. ¿Cuáles son los principales desafíos que enfrenta al gestionar las reservas y la relación con los clientes?
+7. ¿Con qué frecuencia enfrentan cancelaciones o clientes que no se presentan? ¿Cómo manejan estas situaciones?
+8. ¿Qué estrategias usan para que los clientes regresen a su negocio y qué tan efectivas han sido?
+9. ¿Qué tan abiertos están a implementar nuevas herramientas digitales que les ayuden a organizar mejor su negocio?
+10. ¿Qué mejoras le gustaría implementar en su negocio en el corto y mediano plazo?
+
+### Preguntas para el Segmento Objetivo 02 (Clientes de salones de belleza o barberías)
+
+1. ¿Con qué frecuencia visitas un salón de belleza o barbería y qué servicios sueles solicitar?
+2. ¿Qué factores consideras más importantes al elegir un salón de belleza o barbería? (Ubicación, precio, reputación, servicio, etc.)
+3. ¿Sueles atenderte con el mismo estilista/barbero? ¿Por qué?
+4. ¿Cómo prefieres agendar tus citas? (WhatsApp, llamadas, página web, aplicación, presencialmente).
+5. ¿Qué tan importante es para ti que te atiendan a la hora exacta de tu cita? ¿Has tenido experiencias negativas con largas esperas?
+6. Si necesitas cancelar o reprogramar tu cita, ¿qué tan fácil o difícil suele ser el proceso?
+7. ¿Qué métodos de pago prefieres al momento de pagar por el servicio? (Efectivo, tarjeta, transferencias, apps de pago).
+8. ¿Cómo te gusta recibir recordatorios de tu cita o promociones? (Mensajes de WhatsApp, correos, redes sociales, llamadas).
+9. ¿Has utilizado alguna aplicación o plataforma para reservar citas en salones de belleza/barberías? ¿Cómo fue tu experiencia?
+10. ¿Qué aspecto te gustaría que mejoraran los salones de belleza/barberías para una mejor experiencia como cliente?
+
 ### 2.2.2. Registro de entrevistas.
 
 ### 2.2.3. Análisis de entrevistas.
