@@ -41,33 +41,9 @@
    1.1. [Startup Profile](#11-startup-profile)<br>
    1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)<br>
    1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
-   Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto.
    1.2. [Solution Profile](#12-solution-profile)<br>
    1.2.1 [Antecedentes y problemática](#121-antecedentes-y-problemática)<br>
    1.2.2 [Lean UX Process](#122-lean-ux-process)<br>
-   **How much (Cuánto)**
-
-   ##### Estadísticas que sustentan la problemática.
-
-   Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
-
-<div align="center">
-<img src="img/img.png" alt="dato_estadistico_1" />
-</div>
-
-   De acuerdo a los salones de belleza que operan en Tegucigalpa, el 53,3% de las mujeres esperan ser atendidas por orden de llegada en salones de belleza. Sin embargo, en su mayoría estos servicios no cuentan con un servicio via web que les permita administrar sus servicios de forma eficiente.
-
-<div align="center">
-<img src="img/img_1.png" alt="dato_estadistico_2" />
-</div>
-
-   Según Giselle Spa en La Molina (2021), se realizo una encuesta a 205 cliente respecto a la calidad de servicio que ofrece el salon de belleza se identifico que el 53,4% admiten que dicha calidad se manifiesta de forma regular, debido al poco interés que se percibe respecto a los cronogramas, comunicación activa y organización laboral.
-
-<div align="center">
-<img src="img/img_2.png" alt="dato_estadistico_3" />
-<img src="img/img_3.png" alt="dato_estadistico_4" />
-</div>
-
    1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
    1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
    1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)<br>
@@ -83,25 +59,9 @@
    2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
    2.3. [Needfinding](#23-needfinding)<br>
    2.3.1. [User Personas](#231-user-personas)<br>
-   Segmento objetivo #1: Salones de belleza y barberías
-   <div align="center">
-      <img src="img/Andrea_Mercedes_user_persona.png" alt="Andrea Mercedes"/>
-   </div>
-   Segmento objetivo #2: Clientes de servicios de belleza
-   <div align="center">
-      <img src="img/Camila_Cortez_user_persona.png" alt="Camila Corte"/>
-   </div>
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
-      Segmento objetivo #1: Salones de belleza y barberías
-   <div align="center">
-      <img src="img/Andrea_Mercedes_empathy_mapping.png" alt="Andrea Mercedes mapping"/>
-   </div>
-     Segmento objetivo #2: Clientes de servicios de belleza
-   <div align="center">
-      <img src="img/Camila_Cortez_empathy_mapping.png" alt="Camila Corte mapping"/>
-   </div>
    2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
    2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
@@ -168,10 +128,34 @@
 ### 1.1.1. Descripción de la Startup
 
 ### 1.1.2. Perfiles de integrantes del equipo
+Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto.
 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+
+**How much (Cuánto)**
+
+##### Estadísticas que sustentan la problemática.
+
+Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
+
+<div align="center">
+<img src="img/img.png" alt="dato_estadistico_1" />
+</div>
+
+De acuerdo a los salones de belleza que operan en Tegucigalpa, el 53,3% de las mujeres esperan ser atendidas por orden de llegada en salones de belleza. Sin embargo, en su mayoría estos servicios no cuentan con un servicio via web que les permita administrar sus servicios de forma eficiente.
+
+<div align="center">
+<img src="img/img_1.png" alt="dato_estadistico_2" />
+</div>
+
+Según Giselle Spa en La Molina (2021), se realizo una encuesta a 205 cliente respecto a la calidad de servicio que ofrece el salon de belleza se identifico que el 53,4% admiten que dicha calidad se manifiesta de forma regular, debido al poco interés que se percibe respecto a los cronogramas, comunicación activa y organización laboral.
+
+<div align="center">
+<img src="img/img_2.png" alt="dato_estadistico_3" />
+<img src="img/img_3.png" alt="dato_estadistico_4" />
+</div>
 
 ### 1.2.2 Lean UX Process
 
@@ -254,11 +238,29 @@ Finalmente, considera que una mejora importante para los salones de belleza ser�
 
 ### 2.3.1. User Personas.
 
+Segmento objetivo #1: Salones de belleza y barberías
+   <div align="center">
+      <img src="img/Andrea_Mercedes_user_persona.png" alt="Andrea Mercedes"/>
+   </div>
+Segmento objetivo #2: Clientes de servicios de belleza
+   <div align="center">
+      <img src="img/Camila_Cortez_user_persona.png" alt="Camila Corte"/>
+   </div>
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
+
+Segmento objetivo #1: Salones de belleza y barberías
+   <div align="center">
+      <img src="img/Andrea_Mercedes_empathy_mapping.png" alt="Andrea Mercedes mapping"/>
+   </div>
+Segmento objetivo #2: Clientes de servicios de belleza
+   <div align="center">
+      <img src="img/Camila_Cortez_empathy_mapping.png" alt="Camila Corte mapping"/>
+   </div>
 
 ### 2.3.5. As-is Scenario Mapping.
 
