@@ -33,6 +33,18 @@
 
 # Registro de Versiones del Informe
 
+| Version | Fecha      | Autor                                   | Descripción de modificación                          |
+| ------- |------------|-----------------------------------------| ------------------------------------------------------ |
+| 1.0     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán    | Creación del documento de trabajo en formato markdown |
+| 1.1     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.2     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.3     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.4     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.5     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.6     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.8     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+
 # Project Report Collaboration Insights
 
 # Contenido
@@ -59,11 +71,6 @@
    2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
    2.3. [Needfinding](#23-needfinding)<br>
    2.3.1. [User Personas](#231-user-personas)<br>
-   Segmento objetivo #1: Salones de belleza y barberías
-   <div align="center">
-      <img src="img/Andrea_Mercedes_user_persona.png" alt="Andrea Mercedes"/>
-   </div>
-   Segmento objetivo #2: Clientes de servicios de belleza
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
@@ -159,6 +166,8 @@
 ## 2.1. Competidores.
 
 ### 2.1.1. Análisis competitivo.
+
+### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas.
 
