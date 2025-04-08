@@ -33,6 +33,8 @@
 
 # Registro de Versiones del Informe
 
+<div>
+
 | Version | Fecha      | Autor                                   | Descripción de modificación                          |
 | ------- |------------|-----------------------------------------| ------------------------------------------------------ |
 | 1.0     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán    | Creación del documento de trabajo en formato markdown |
@@ -45,7 +47,47 @@
 | 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
 | 1.8     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
 
+</div align='center'>
+
 # Project Report Collaboration Insights
+
+URL del repositorio para el proyecto: https://github.com/UPC-PaxTech/uTime/
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
+
+
+| Integrantes    | Tareas Asignadas |
+|----------------| ---------------- |
+| Fred Falcon    |                  |
+| Renso Julca    |                  |
+| Gael Rivera    |                  |
+| Marcelo Varela |                  |
+| Angie Yalán    |                  |
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Fred Falcon (barry-91)
+- Renso Julca (rajc02)
+- Gael Rivera (gael-rs)
+- Marcelo Varela (VarBus)
+- Angie Yalán (aaaaangie)
+
+Se explican las ramas más prominentes:
+
+**main:** Es la rama principal del proyecto, donde se almacenan los distintos entregables. Se actualiza para cada entrega oficial del proyecto.<br>
+
+**develop:** Es la rama principal para el proceso de desarrollo del proyecto. En ella se integran las funcionalidades completadas antes de ser fusionadas a la rama main.<br>
+
+**feature/Nombre-del-integrante:** Es una rama creada por cada miembro del equipo para trabajar en una nueva funcionalidad o tarea específica. Se basa en develop y, una vez terminada la tarea, se fusiona nuevamente con develop para integrar los cambios al proyecto principal.<br>
 
 # Contenido
 
