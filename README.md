@@ -65,7 +65,7 @@
    </div>
    Segmento objetivo #2: Clientes de servicios de belleza
    <div align="center">
-      <img src="img/Camila_Cortez_user_persona.png" alt="Camila Cortez"/>
+      <img src="img/Camila_Cortez_user_persona.png" alt="Camila Corte"/>
    </div>
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
