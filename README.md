@@ -51,7 +51,7 @@
 
 # Project Report Collaboration Insights
 
-URL del repositorio para el proyecto: https://github.com/UPC-PaxTech/uTime/
+URL del repositorio para el proyecto: https://github.com/PaxTech-UPC/uTime-Informe-Final
 
 **TB1**
 
