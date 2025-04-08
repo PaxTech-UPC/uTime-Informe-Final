@@ -224,6 +224,311 @@ Se explican las ramas más prominentes:
 
 ### 2.1.1. Análisis competitivo.
 
+El análisis competitivo es una herramienta clave para la toma de decisiones estratégicas, ya que permite identificar oportunidades, amenazas y desarrollar ventajas competitivas sostenibles en el mercado. Su importancia radica en ayudar a las empresas a adaptarse a un entorno dinámico y a tomar decisiones fundamentadas. A continuación, se presenta la aplicación de esta herramienta en el desarrollo del proyecto y el análisis de los competidores:
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
+  </tr>
+  <tr>
+    <td colspan="5"  align="center">Gracias al análisis de la competencia en el mercado, es posible entender el entorno en el que nuestro producto operará. Esto permite identificar a los competidores directos e indirectos y desarrollar estrategias basadas en la información obtenida sobre su posicionamiento actual.</td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">Nombre y logo</th>
+    <td colspan="1" align="center">
+    <p><b>uTime</b></p>
+    <img src="https://i.imgur.com/imQZJ60.png" alt="uTime Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Salon Pro</b></p>
+    <img src="https://i.imgur.com/WKnzVAz.png" alt="Salon Pro Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Beauty Salon</b></p>
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/02795c3d-7e17-493f-8521-b882a567e37a.png?w=90&h=90&fit=max&dpr=3&auto=format&q=50" alt="Beauty Salon Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Calendly</b></p>
+    <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00729585bbce36f008c5_302eb91f-a193-5bfd-a8dc-d33abe7c9c40.svg" alt="Calendly Logo" width="80">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" rowspan="2" align="center">Perfil</th>
+    <td colspan="1" align="center" >Overview</td>
+    <td colspan="1">Plataforma de gestión de citas en tiempo real, altamente personalizable, con marketplace y pagos en línea.</td>
+    <td colspan="1">Software para gestión de citas en salones con recordatorios y pagos integrados.</td>
+    <td colspan="1">Aplicación móvil para reservas en salones de belleza con sistema de recomendaciones.</td>
+    <td colspan="1">Plataforma de programación de reuniones con integración a calendarios digitales.</td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td colspan="1">
+    <ul>
+    <li>Alta personalización en precios, tiempos y servicios.</li>
+    <li>Marketplace para generar ingresos adicionales.</li>
+    <li>Asesoramiento exclusivo en el plan premium.</li>
+    <li>Calendario en tiempo real, optimizado para equipos con múltiples trabajadores.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Automatización de citas con recordatorios.</li>
+    <li>Integración con pagos para facilitar transacciones.</li>
+    <li>Interfaz sencilla y amigable para salones de belleza.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Sistema de recomendaciones basado en preferencias del usuario.</li>
+    <li>Experiencia optimizada en móvil.</li>
+    <li>Ofertas y promociones exclusivas dentro de la app.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Integración con herramientas empresariales (Google Calendar, Outlook, Zoom).</li>
+    <li>Automatización de programación para equipos y clientes.</li>
+    <li>Fácil uso y amplia adopción en el mercado corporativo.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="2">Perfil de marketing</th>
+    <td colspan="1" align="center">Mercado objetivo</td>
+    <td colspan="1">
+    <ul>
+    <li>Peluquerías y barberías.</li>
+    <li>Clientes que buscan reservar servicios de belleza.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Salones de belleza y spas.</li>
+    <li>Negocios que quieren digitalizar sus citas.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Clientes que buscan servicios de belleza.</li>
+    <li>Salones de belleza y spas.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Empresas y freelancers que necesitan agendar reuniones.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Estrategias de marketing</td>
+    <td colspan="1">
+    <ul>
+    <li>Modelo freemium con 10 reservas mensuales gratis.</li>
+    <li>Marketplace para generar ingresos extra.</li>
+    <li>Publicidad en redes sociales.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Publicidad dirigida en redes sociales.</li>
+    <li>Ofertas promocionales y descuentos.</li>
+    <li>Integración con herramientas de gestión empresarial.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Fuerte presencia en App Store y Google Play.</li>
+    <li>Alianzas con salones para promociones.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>SEO y marketing de contenido.</li>
+    <li>Integración con múltiples herramientas de productividad.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="3">Perfil del producto</th>
+    <td colspan="1" align="center">Productos & Servicios</td>
+    <td colspan="1">
+    <ul>
+    <li>Gestión de citas en tiempo real.</li>
+    <li>Marketplace.</li>
+    <li>Pagos en línea.</li>
+    <li>Asesoramiento en plan premium.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Software de gestión para salones.</li>
+    <li>Recordatorios automáticos.</li>
+    <li>Pagos integrados.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Aplicación para reservas.</li>
+    <li>Sistema de recomendaciones.</li>
+    <li>Promociones para usuarios.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Programación de reuniones.</li>
+    <li>Integraciones con calendarios.</li>
+    <li>Automatización de agendas.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Precios y Costos</td>
+    <td colspan="1">
+    <ul>
+    <li>Plan gratuito con 10 reservas/mes.</li>
+    <li>Plan intermedio con más personalización.</li>
+    <li>Plan premium con marketplace ilimitado y asesoramiento.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Suscripción mensual según el tamaño del negocio.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Comisiones por reservas.</li>
+    <li>Posible suscripción premium.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Modelo freemium con suscripción mensual.</li>
+    <li>Costos según el tamaño del equipo.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1">El servicio, de forma momentánea, se brindará en plataforma web</td>
+    <td colspan="1">Dispone de plataforma web y aplicación móvil</td>
+    <td colspan="1">Solo aplicación móvil</td>
+    <td colspan="1">Plataforma web y aplicación móvil</td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="4">Análisis SWOT</th>
+    <td colspan="1" align="center">Fortalezas</td>
+    <td colspan="1">
+    <ul>
+    <li>Personalización avanzada.</li>
+    <li>Diferenciación con marketplace.</li>
+    <li>Modelo accesible y flexible.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Automatización de citas.</li>
+    <li>Fácil de usar.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Interfaz atractiva.</li>
+    <li>Buen enfoque en clientes finales.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Gran cantidad de integraciones.</li>
+    <li>Posicionamiento sólido en el mercado.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Debilidades</td>
+    <td colspan="1">
+    <ul>
+    <li>Necesidad de atraer clientes masivos.</li>
+    <li>Puede ser complejo para algunos usuarios.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Alta competencia.</li>
+    <li>Funcionalidades limitadas.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <li>Dependencia de afiliaciones con salones.</li>
+    <li>Competencia con otras apps.</li>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Costos elevados para algunas funciones.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Oportunidades</td>
+    <td colspan="1">
+    <ul>
+    <li>Expansión en Latinoamérica.</li>
+    <li>Alianzas con marcas de belleza.</li>
+    <li>Expansión del marketplace.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Crecimiento del sector digital.</li>
+    <li>Mayor uso de pagos en línea.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Aumento de reservas digitales en belleza.</li>
+    <li>Integración con plataformas de bienestar.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Crecimiento del trabajo remoto.</li>
+    <li>Expansión en herramientas digitales.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Amenazas</td>
+    <td colspan="1">
+    <ul>
+    <li>Competencia con plataformas consolidadas.</li>
+    <li>Costos de adquisición de clientes.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Opciones más económicas en el mercado.</li>
+    <li>Cambios en tendencias de consumo.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Nuevos competidores en el sector.</li>
+    <li>Alternativas con más funcionalidades.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Empresas más grandes en el sector.</li>
+    <li>Alternativas gratuitas en crecimiento.</li>
+    </ul>
+    </td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas.
