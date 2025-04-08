@@ -70,6 +70,10 @@
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
+      Segmento objetivo #1: Salones de belleza y barberías
+   <div align="center">
+      <img src="img/Andrea_Mercedes_empathy_mapping.png" alt="Andrea Mercedes mapping"/>
+   </div>
    2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
    2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
