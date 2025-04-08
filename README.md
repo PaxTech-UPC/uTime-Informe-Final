@@ -33,7 +33,7 @@
 
 # Registro de Versiones del Informe
 
-<div>
+<div align='center'>
 
 | Version | Fecha      | Autor                                   | Descripción de modificación                          |
 | ------- |------------|-----------------------------------------| ------------------------------------------------------ |
@@ -47,7 +47,7 @@
 | 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
 | 1.8     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
 
-</div align='center'>
+</div>
 
 # Project Report Collaboration Insights
 
@@ -189,6 +189,14 @@ Se explican las ramas más prominentes:
 ### 1.1.1. Descripción de la Startup
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Foto**                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Falcon Hilarion, Fred Wilber**<br> *Descripción breve*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ![Foto Fred](URL_DE_LA_FOTO)                                                  |
+| **Julca Cruz, Renso Anthony**<br> *Descripción breve*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | ![Foto Renso](URL_DE_LA_FOTO)                                                 |
+| **Rivera Sosa, Eduardo Gael**<br>Yo soy Gael Rivera. Soy un estudiante de Ingeniería de Software comprometido con la responsabilidad en cada tarea que asumo. Poseo habilidades de liderazgo que facilitan la comunicación y el trabajo colaborativo. Siempre estoy dispuesto a abordar desafíos y encontrar soluciones en equipo.                                                                                                                                                                                                       | <img src="https://files.catbox.moe/fvs4da.jpg" alt="gael image" width="200">  |
+| **Varela Bustinza, Marcelo Alessandro**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="https://files.catbox.moe/w88eqj.jpeg" alt="kevin image" width="200">|
+| **Yalán Zhang, Angie Christina**<br>Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                                                                           | ![Angie](URL_DE_LA_FOTO)                                                      |
 
 ## 1.2. Solution Profile
 
