@@ -74,6 +74,10 @@
    <div align="center">
       <img src="img/Andrea_Mercedes_empathy_mapping.png" alt="Andrea Mercedes mapping"/>
    </div>
+     Segmento objetivo #2: Clientes de servicios de belleza
+   <div align="center">
+      <img src="img/Camila_Cortez_empathy_mapping.png" alt="Camila Corte mapping"/>
+   </div>
    2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
    2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
