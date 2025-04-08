@@ -175,6 +175,13 @@ Se explican las ramas más prominentes:
 
 # Student Outcomes
 
+**Student Outcome 3**
+
+| Criterio específico                                                | Acciones realizadas                                                                      | Conclusiones |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Fred Falcon:<br> Renso Julca:<br> Gael Rivera:<br> Marcelo Varela:<br> Angie Talán:<br>  |      |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Fred Falcon:<br> Renso Julca:<br> Gael Rivera:<br> Marcelo Varela:<br> Angie Talán:<br>      |      |
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
