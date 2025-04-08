@@ -707,6 +707,8 @@ En cuanto a métodos de pago, Allison prefiere transferencias bancarias o apps d
 
 Finalmente, considera que una mejora importante para los salones de belleza sería acelerar el tiempo de respuesta al agendar citas vía WhatsApp, ya que a veces hay demoras que afectan su experiencia como cliente.
 
+#### Datos del Entrevistado #2
+
 - **Nombre completo:** Allison Naomi Galindo Palomino
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 20 años
