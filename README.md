@@ -33,7 +33,61 @@
 
 # Registro de Versiones del Informe
 
+<div align='center'>
+
+| Version | Fecha      | Autor                                   | Descripción de modificación                          |
+| ------- |------------|-----------------------------------------| ------------------------------------------------------ |
+| 1.0     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán    | Creación del documento de trabajo en formato markdown |
+| 1.1     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.2     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.3     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.4     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.5     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.6     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| 1.8     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+
+</div>
+
 # Project Report Collaboration Insights
+
+URL del repositorio para el proyecto: https://github.com/PaxTech-UPC/uTime-Informe-Final
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
+
+
+| Integrantes    | Tareas Asignadas |
+|----------------| ---------------- |
+| Fred Falcon    |                  |
+| Renso Julca    |                  |
+| Gael Rivera    |                  |
+| Marcelo Varela |                  |
+| Angie Yalán    |                  |
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Fred Falcon (barry-91)
+- Renso Julca (rajc02)
+- Gael Rivera (gael-rs)
+- Marcelo Varela (VarBus)
+- Angie Yalán (aaaaangie)
+
+Se explican las ramas más prominentes:
+
+**main:** Es la rama principal del proyecto, donde se almacenan los distintos entregables. Se actualiza para cada entrega oficial del proyecto.<br>
+
+**develop:** Es la rama principal para el proceso de desarrollo del proyecto. En ella se integran las funcionalidades completadas antes de ser fusionadas a la rama main.<br>
+
+**feature/Nombre-del-integrante:** Es una rama creada por cada miembro del equipo para trabajar en una nueva funcionalidad o tarea específica. Se basa en develop y, una vez terminada la tarea, se fusiona nuevamente con develop para integrar los cambios al proyecto principal.<br>
 
 # Contenido
 
@@ -121,6 +175,13 @@
 
 # Student Outcomes
 
+**Student Outcome 3**
+
+| Criterio específico                                                | Acciones realizadas                                                                      | Conclusiones |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Fred Falcon:<br> Renso Julca:<br> Gael Rivera:<br> Marcelo Varela:<br> Angie Talán:<br>  |      |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Fred Falcon:<br> Renso Julca:<br> Gael Rivera:<br> Marcelo Varela:<br> Angie Talán:<br>      |      |
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -129,6 +190,14 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto.
+
+| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Foto**                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Falcon Hilarion, Fred Wilber**<br> *Descripción breve*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ![Foto Fred](URL_DE_LA_FOTO)                                                  |
+| **Julca Cruz, Renso Anthony**<br> *Descripción breve*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | ![Foto Renso](URL_DE_LA_FOTO)                                                 |
+| **Rivera Sosa, Eduardo Gael**<br>Yo soy Gael Rivera. Soy un estudiante de Ingeniería de Software comprometido con la responsabilidad en cada tarea que asumo. Poseo habilidades de liderazgo que facilitan la comunicación y el trabajo colaborativo. Siempre estoy dispuesto a abordar desafíos y encontrar soluciones en equipo.                                                                                                                                                                                                       | <img src="https://files.catbox.moe/fvs4da.jpg" alt="gael image" width="200">  |
+| **Varela Bustinza, Marcelo Alessandro**<br>Mi nombre es Marcelo Varela. Soy un estudiante de la carrera de Ingeniería De Software, tengo 20 años y actualmente me encuentro cursando el quinto ciclo de la carrera. Me caracterizo por ser una persona responsable, resiliente y proactiva, al cual le gusta aprender sobre tecnología y el desarrollo de software. Mi compromiso como miembro de este equipo es brindar mi apoyo y participación para enfrentar lo desafíos así como dar lo mejor de mí para el éxito de este proyecto. | <img src="https://files.catbox.moe/w88eqj.jpeg" alt="kevin image" width="200">|
+| **Yalán Zhang, Angie Christina**<br>Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                                                                           | ![Angie](URL_DE_LA_FOTO)                                                      |
 
 ## 1.2. Solution Profile
 
@@ -178,6 +247,412 @@ Según Giselle Spa en La Molina (2021), se realizo una encuesta a 205 cliente re
 ## 2.1. Competidores.
 
 ### 2.1.1. Análisis competitivo.
+
+El análisis competitivo es una herramienta clave para la toma de decisiones estratégicas, ya que permite identificar oportunidades, amenazas y desarrollar ventajas competitivas sostenibles en el mercado. Su importancia radica en ayudar a las empresas a adaptarse a un entorno dinámico y a tomar decisiones fundamentadas. A continuación, se presenta la aplicación de esta herramienta en el desarrollo del proyecto y el análisis de los competidores:
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
+  </tr>
+  <tr>
+    <td colspan="5"  align="center">Gracias al análisis de la competencia en el mercado, es posible entender el entorno en el que nuestro producto operará. Esto permite identificar a los competidores directos e indirectos y desarrollar estrategias basadas en la información obtenida sobre su posicionamiento actual.</td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">Nombre y logo</th>
+    <td colspan="1" align="center">
+    <p><b>uTime</b></p>
+    <img src="https://i.imgur.com/imQZJ60.png" alt="uTime Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Salon Pro</b></p>
+    <img src="https://i.imgur.com/WKnzVAz.png" alt="Salon Pro Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Beauty Salon</b></p>
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/02795c3d-7e17-493f-8521-b882a567e37a.png?w=90&h=90&fit=max&dpr=3&auto=format&q=50" alt="Beauty Salon Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Calendly</b></p>
+    <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00729585bbce36f008c5_302eb91f-a193-5bfd-a8dc-d33abe7c9c40.svg" alt="Calendly Logo" width="80">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" rowspan="2" align="center">Perfil</th>
+    <td colspan="1" align="center" >Overview</td>
+    <td colspan="1">Plataforma de gestión de citas en tiempo real, altamente personalizable, con marketplace y pagos en línea.</td>
+    <td colspan="1">Software para gestión de citas en salones con recordatorios y pagos integrados.</td>
+    <td colspan="1">Aplicación móvil para reservas en salones de belleza con sistema de recomendaciones.</td>
+    <td colspan="1">Plataforma de programación de reuniones con integración a calendarios digitales.</td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td colspan="1">
+    <ul>
+    <li>Alta personalización en precios, tiempos y servicios.</li>
+    <li>Marketplace para generar ingresos adicionales.</li>
+    <li>Asesoramiento exclusivo en el plan premium.</li>
+    <li>Calendario en tiempo real, optimizado para equipos con múltiples trabajadores.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Automatización de citas con recordatorios.</li>
+    <li>Integración con pagos para facilitar transacciones.</li>
+    <li>Interfaz sencilla y amigable para salones de belleza.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Sistema de recomendaciones basado en preferencias del usuario.</li>
+    <li>Experiencia optimizada en móvil.</li>
+    <li>Ofertas y promociones exclusivas dentro de la app.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Integración con herramientas empresariales (Google Calendar, Outlook, Zoom).</li>
+    <li>Automatización de programación para equipos y clientes.</li>
+    <li>Fácil uso y amplia adopción en el mercado corporativo.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="2">Perfil de marketing</th>
+    <td colspan="1" align="center">Mercado objetivo</td>
+    <td colspan="1">
+    <ul>
+    <li>Peluquerías y barberías.</li>
+    <li>Clientes que buscan reservar servicios de belleza.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Salones de belleza y spas.</li>
+    <li>Negocios que quieren digitalizar sus citas.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Clientes que buscan servicios de belleza.</li>
+    <li>Salones de belleza y spas.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Empresas y freelancers que necesitan agendar reuniones.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Estrategias de marketing</td>
+    <td colspan="1">
+    <ul>
+    <li>Modelo freemium con 10 reservas mensuales gratis.</li>
+    <li>Marketplace para generar ingresos extra.</li>
+    <li>Publicidad en redes sociales.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Publicidad dirigida en redes sociales.</li>
+    <li>Ofertas promocionales y descuentos.</li>
+    <li>Integración con herramientas de gestión empresarial.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Fuerte presencia en App Store y Google Play.</li>
+    <li>Alianzas con salones para promociones.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>SEO y marketing de contenido.</li>
+    <li>Integración con múltiples herramientas de productividad.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="3">Perfil del producto</th>
+    <td colspan="1" align="center">Productos & Servicios</td>
+    <td colspan="1">
+    <ul>
+    <li>Gestión de citas en tiempo real.</li>
+    <li>Marketplace.</li>
+    <li>Pagos en línea.</li>
+    <li>Asesoramiento en plan premium.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Software de gestión para salones.</li>
+    <li>Recordatorios automáticos.</li>
+    <li>Pagos integrados.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Aplicación para reservas.</li>
+    <li>Sistema de recomendaciones.</li>
+    <li>Promociones para usuarios.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Programación de reuniones.</li>
+    <li>Integraciones con calendarios.</li>
+    <li>Automatización de agendas.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Precios y Costos</td>
+    <td colspan="1">
+    <ul>
+    <li>Plan gratuito con 10 reservas/mes.</li>
+    <li>Plan intermedio con más personalización.</li>
+    <li>Plan premium con marketplace ilimitado y asesoramiento.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Suscripción mensual según el tamaño del negocio.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Comisiones por reservas.</li>
+    <li>Posible suscripción premium.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Modelo freemium con suscripción mensual.</li>
+    <li>Costos según el tamaño del equipo.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1">El servicio, de forma momentánea, se brindará en plataforma web</td>
+    <td colspan="1">Dispone de plataforma web y aplicación móvil</td>
+    <td colspan="1">Solo aplicación móvil</td>
+    <td colspan="1">Plataforma web y aplicación móvil</td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="4">Análisis SWOT</th>
+    <td colspan="1" align="center">Fortalezas</td>
+    <td colspan="1">
+    <ul>
+    <li>Personalización avanzada.</li>
+    <li>Diferenciación con marketplace.</li>
+    <li>Modelo accesible y flexible.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Automatización de citas.</li>
+    <li>Fácil de usar.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Interfaz atractiva.</li>
+    <li>Buen enfoque en clientes finales.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Gran cantidad de integraciones.</li>
+    <li>Posicionamiento sólido en el mercado.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Debilidades</td>
+    <td colspan="1">
+    <ul>
+    <li>Necesidad de atraer clientes masivos.</li>
+    <li>Puede ser complejo para algunos usuarios.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Alta competencia.</li>
+    <li>Funcionalidades limitadas.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <li>Dependencia de afiliaciones con salones.</li>
+    <li>Competencia con otras apps.</li>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Costos elevados para algunas funciones.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Oportunidades</td>
+    <td colspan="1">
+    <ul>
+    <li>Expansión en Latinoamérica.</li>
+    <li>Alianzas con marcas de belleza.</li>
+    <li>Expansión del marketplace.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Crecimiento del sector digital.</li>
+    <li>Mayor uso de pagos en línea.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Aumento de reservas digitales en belleza.</li>
+    <li>Integración con plataformas de bienestar.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Crecimiento del trabajo remoto.</li>
+    <li>Expansión en herramientas digitales.</li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Amenazas</td>
+    <td colspan="1">
+    <ul>
+    <li>Competencia con plataformas consolidadas.</li>
+    <li>Costos de adquisición de clientes.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Opciones más económicas en el mercado.</li>
+    <li>Cambios en tendencias de consumo.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Nuevos competidores en el sector.</li>
+    <li>Alternativas con más funcionalidades.</li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li>Empresas más grandes en el sector.</li>
+    <li>Alternativas gratuitas en crecimiento.</li>
+    </ul>
+    </td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+A partir del análisis competitivo previamente realizado, se logró determinar con precisión las principales fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información es fundamental para diseñar estrategias y tácticas que permitan posicionarse de manera efectiva frente a la competencia, especialmente durante el ingreso del servicio al mercado. A continuación, se presentan las estrategias y tácticas definidas con el objetivo de lograr un lanzamiento exitoso y rentable.
+
+#### Afrontando las fortalezas de nuestros competidores:
+
+- Salon Pro cuenta con una interfaz sencilla y automatización de citas, lo que facilita la experiencia del usuario.
+- Beauty Salon posee una fuerte presencia en dispositivos móviles y un sistema de recomendaciones personalizado.
+- Calendly domina el mercado con su integración con herramientas empresariales y automatización avanzada.
+
+#### Comprendemos que nuestras fortalezas son:
+
+- Personalización avanzada de precios, tiempos y servicios para cada trabajador.
+- Integración de un marketplace para generar ingresos adicionales.
+- Asesoramiento premium para ayudar a los negocios a optimizar su uso de la plataforma.
+- Plan gratuito accesible con 10 reservas mensuales
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+
+- Destacar la personalización de uTime como una ventaja clave en nuestra comunicación y campañas de marketing.
+- Enfatizar el valor del marketplace como una fuente de ingresos adicional para las peluquerías.
+- Promover el plan de asesoramiento como un servicio exclusivo que nuestros competidores no ofrecen.
+
+#### Tácticas
+
+- Campañas en redes sociales mostrando cómo se personaliza la plataforma para distintos negocios.
+- Casos de éxito de pequeñas peluquerías que optimizaron sus citas y ventas con uTime.
+- Videos explicativos sobre el uso del calendario por trabajador.
+
+#### Afrontando las debilidades de nuestros competidores:
+
+- Salon Pro tiene funcionalidades limitadas y enfrenta alta competencia.
+- Beauty Salon depende de afiliaciones con salones y tiene competencia en el sector.
+- Calendly tiene costos elevados para funciones avanzadas.
+
+Requieren configuraciones técnicas complicadas en algunos casos
+
+#### Comprendemos que nuestras debilidades son:
+
+- Necesidad de atraer clientes masivos rápidamente.
+- Puede ser complejo para usuarios sin experiencia en plataformas digitales.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+
+- Implementar una estrategia de adquisición de clientes con modelos freemium y pruebas gratuitas.
+- Diseñar una interfaz intuitiva con tutoriales y soporte personalizado.
+
+#### Tácticas
+
+- Ofrecer un plan gratuito con funcionalidades limitadas para atraer usuarios y generar confianza en el producto.
+- Incluir asesoría personalizada en el plan completo para ayudar a negocios grandes a configurar y personalizar la plataforma según sus necesidades, especialmente si no están familiarizados con herramientas tecnológicas.
+
+#### Afrontando las oportunidades de nuestros competidores:
+
+- Salon Pro y Beauty Salon se benefician del crecimiento del sector digital en el ámbito de la belleza.
+- Calendly aprovecha el aumento del trabajo remoto y la digitalización de agendas.
+
+#### Comprendemos que nuestras oportunidades son:
+
+- Expansión del mercado digital en Latinoamérica.
+- Alianzas estratégicas con marcas de belleza y distribuidores.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+
+- Expandir la presencia de uTime en mercados emergentes y ofrecer soporte en múltiples idiomas.
+- Establecer alianzas con proveedores de productos de belleza y herramientas de gestión empresarial.
+
+#### Tácticas
+
+- Lanzar campañas de publicidad específicas para nuevos mercados.
+- Contactar con marcas y distribuidores para ofrecer descuentos exclusivos a usuarios de uTime.
+- Desarrollar una función de recomendaciones de productos dentro del marketplace.
+
+#### Afrontando las amenazas de nuestros competidores:
+
+- Existen plataformas consolidadas con una base de clientes establecida.
+- La adquisición de clientes puede ser costosa debido a la alta competencia.
+
+#### Comprendemos que nuestras amenazas son:
+
+- Posicionamiento de grandes marcas en el sector.
+- Costos de adquisición de usuarios y retención de clientes.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+
+- Diferenciar uTime con características únicas y servicios adicionales.
+- Fidelizar clientes con programas de recompensas y beneficios exclusivos.
+
+#### Tácticas
+
+- Implementar un sistema de referidos con descuentos para clientes actuales y nuevos usuarios.
+- Crear un programa de fidelización con beneficios progresivos según el tiempo de uso de la plataforma.
 
 ## 2.2. Entrevistas.
 
