@@ -726,7 +726,107 @@ Le gusta recibir recordatorios por WhatsApp y prefiere pagar con aplicaciones o 
 
 Finalmente, sugiere que los salones mejoren en puntualidad, atención al cliente y faciliten más el uso de herramientas digitales.
 
+#### Datos del Entrevistado #3
+
+- **Nombre completo:** Miguel Alonso Talledo García
+- **Segmento Objetivo:** Dueño de un salón de belleza
+- **Edad:** 28 años
+- **Distrito:** Chorrillos
+- **Screenshot del cuadro de video:** *![Entrevista 03](img/Entrevista-03.png)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422331_upc_edu_pe/EX6HOo8EDoFKiK3cbKkCFq4BQQgEUFMl3gwRdQJXpIRp-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t7YgF4)*
+- **Inicio de la entrevista:** 00:21 minutos
+- **Duración:** 5:11 minutos
+
+Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es propietario de un salón de belleza ubicado en Barranco, con más de cinco años de experiencia en el rubro. Su motivación por este oficio nació gracias a su hermana, quien desde joven demostraba una gran pasión por el estilismo y un trato excepcional con sus clientas. 
+
+Su ejemplo fue fundamental para que decidiera seguir este camino. Sus clientes, en su mayoría recurrentes, se contactan por llamadas o WhatsApp para agendar citas. Su agenda se llena rápidamente, lo que en ocasiones le genera pérdida de citas o malestar cuando los clientes desean cambiar su hora a último minuto. 
+
+Las reservas se anotan manualmente en un cuaderno, y los pagos se realizan en efectivo o mediante QR. Utiliza principalmente WhatsApp como canal de atención. La gestión de citas puede volverse complicada cuando está atendiendo o fuera de línea, lo que a veces le lleva a perder clientes. La cancelación de citas le afecta directamente sus ingresos diarios. Como estrategia de fidelización, ofrece promociones y obsequios de accesorios, lo cual le ha dado buenos resultados.
+
+Finalmente, una propuesta de mejora sería implementar una herramienta digital para gestionar sus reservas de manera eficiente, especialmente en momentos donde no puede estar disponible. Agilizar la comunicación con sus clientes mediante recordatorios o confirmaciones, para evitar cancelaciones y pérdidas, y a su vez mejorar la experiencia del cliente. A mediano y largo plazo, aumentar la rentabilidad del negocio y trabajar en la apertura de nuevas sucursales.
+
+#### Datos del Entrevistado #4
+
+- **Nombre completo:** Alya Fernandez Ruiz
+- **Segmento Objetivo:** Dueña de un salón de belleza
+- **Edad:** 24 años
+- **Distrito:** Surco
+- **Screenshot del cuadro de video:** *![Entrevista 04](img/Entrevista-04.png)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 04](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422331_upc_edu_pe/EdpoA01wVfZOmQqbKErKpjYBa0r1t2gufqmlN0z-A214dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=29PtzE)*
+- **Inicio de la entrevista:** 00:22 minutos
+- **Duración:** 3:49 minutos
+
+Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. Desde niña sintió pasión por el estilismo, lo que la llevó a emprender en este rubro hace tres años. A lo largo de este tiempo, ha aprendido a combinar técnicas, atención personalizada y gestión eficiente para brindar una experiencia de calidad a sus clientes.
+
+Se comunica con sus clientes a través de WhatsApp y llamadas, trabaja con una agenda flexible, aunque los cambios de última hora afectan su organización. Acepta pagos en efectivo, transferencias y QR. Su gestión de citas es manual, lo que le demanda tiempo, pero garantiza atención personalizada. Llama a clientes ocasionalmente y ofrece promociones para primeras visitas.
+
+Finalmente, una propuesta de mejora sería el implementar una herramienta digital para reservas y gestión de citas. Crear un historial de clientes para mejorar la personalización del servicio. Desarrollar campañas de fidelización y reactivación con beneficios especiales. A largo plazo, proyectar la apertura de una segunda sede.
+
 ### 2.2.3. Análisis de entrevistas.
+
+- **Análisis del Segmento Objetivo 01** 
+
+  - Características Objetivas:
+
+    - Demografía y Experiencia: 
+      + Jóvenes emprendedores (24-28 años).
+      + Con experiencia en el rubro (3-5 años).
+      + Propietarios de salones de belleza en áreas urbanas (Chorrillos, Barranco, Surco).
+    - Gestión del Negocio:
+      + Agenda de citas gestionada manualmente (cuaderno).
+      + Pagos en efectivo, transferencias y QR.
+      + Comunicación con clientes vía llamadas y WhatsApp.
+      + Sufren de cancelaciones de citas que afectan sus ingresos.
+    - Estrategias de Fidelización:
+      + Ofrecen promociones y obsequios.
+      + Ofrecen promociones para primeras visitas.
+
+  - Características Subjetivas:
+
+    - Motivación y Pasión:
+      + Pasión por el estilismo desde jóvenes.
+      + Deseo de brindar una experiencia de calidad a sus clientes.
+      + Búsqueda de la personalización en el servicio al cliente.
+    - Desafíos y Necesidades:
+      + Dificultad para gestionar citas, especialmente fuera de línea.
+      + Problemas con cambios de citas de última hora.
+      + Necesidad de optimizar la comunicación con los clientes.
+      + Búsqueda de la gestión eficiente de sus negocios.
+    - Visión a Futuro:
+      + Deseo de aumentar la rentabilidad del negocio.
+      + Planes de expansión (apertura de nuevas sucursales).
+      + Crear historial de clientes.
+      + Desarrollar campañas de fidelización.
+
+- **Análisis del Segmento Objetivo 02**
+
+  - Características Objetivas:
+
+    - Demografía:
+      + Jóvenes universitarias de 20 años. (100% de las entrevistadas)
+      + Residentes en áreas urbanas (Cercado de Lima). (50% de las entrevistadas)
+    - Comportamiento de Consumo:
+      + Visitan salones de belleza aproximadamente una vez al mes. (100% de las entrevistadas)
+      + Servicios más frecuentes: manicura, corte de cabello, tratamientos capilares, depilación de cejas y mascarillas faciales.
+    - Preferencias de Comunicación y Pago:
+      + Prefieren agendar citas y recibir recordatorios/promociones vía WhatsApp y redes sociales. (100% de las entrevistadas)
+      + Prefieren pagos con transferencias bancarias o aplicaciones de pago, evitando el efectivo. (100% de las entrevistadas)
+
+  - Características Subjetivas:
+
+    - Valores y Prioridades:
+      + Priorizan la calidad del servicio y la reputación del salón. (100% de las entrevistadas)
+      + La puntualidad es un factor crítico. (100% de las entrevistadas)
+      + Confianza en el estilista: prefieren atenderse siempre con el mismo profesional. (100% de las entrevistadas)
+      + La comodidad y la buena atención son puntos muy importantes para ellas. (100% de las entrevistadas)
+    - Actitudes y Expectativas:
+      + Actitud práctica y confiada.
+      + Buscan procesos de reprogramación de citas sencillos. (100% de las entrevistadas)
+      + Abiertas a utilizar aplicaciones o plataformas de reservas si mejoran la rapidez de respuesta. (50% de las entrevistadas)
+    - Necesidades y Deseos:
+      + Respuestas rápidas al agendar citas vía WhatsApp.
+      + Mejora en la puntualidad y la atención al cliente.
+      + Facilitar el uso de herramientas digitales.
 
 ## 2.3. Needfinding.
 
