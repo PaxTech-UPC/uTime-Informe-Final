@@ -811,6 +811,21 @@ Segmento objetivo #2: Clientes de servicios de belleza
     <th colspan="1" align="center">RFU-008</th>
     <td colspan="1">El sistema debe mostrar un mensaje de error si el correo o la contraseña ingresados son incorrectos.</td>
    </tr>
+   <tr>
+   <th colspan="2" align="center">Grupo Funcional: Recuperación de Contraseña</th>
+   </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-009</th>
+    <td colspan="1">El sistema debe permitir a los usuarios recuperar su contraseña ingresando su correo electrónico.</td>
+   </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-010</th>
+    <td colspan="1">El sistema debe enviar un código de recuperación al correo registrado.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-011</th>
+    <td colspan="1">El sistema debe permitir que el usuario ingrese el código y establezca una nueva contraseña.</td>
+  </tr>
 </table>
 
 ### 3.2.2. Requisitos No Funcionales
