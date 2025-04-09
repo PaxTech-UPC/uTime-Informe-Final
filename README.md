@@ -826,6 +826,30 @@ Segmento objetivo #2: Clientes de servicios de belleza
     <th colspan="1" align="center">RFU-011</th>
     <td colspan="1">El sistema debe permitir que el usuario ingrese el código y establezca una nueva contraseña.</td>
   </tr>
+   <tr>
+   <th colspan="2" align="center">Grupo Funcional: Perfil de Usuario</th>
+   </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-012</th>
+    <td colspan="1">El sistema debe permitir a los clientes editar su nombre, apellido, descripción y foto de perfil.</td>
+   </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-013</th>
+    <td colspan="1">El sistema debe permitir que los clientes editen sus datos personales después del registro.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-014</th>
+    <td colspan="1">El sistema debe permitir que los salones de belleza editen su foto de perfil, nombre y descripción.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-015</th>
+    <td colspan="1">El sistema debe restringir la modificación del nombre del salón a una vez cada 15 días, salvo en planes de suscripciones superiores al básico.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-016</th>
+    <td colspan="1">El sistema debe permitir mayor personalización del perfil a los salones según su plan de suscripción.</td>
+  </tr>
+   <tr>
 </table>
 
 ### 3.2.2. Requisitos No Funcionales
