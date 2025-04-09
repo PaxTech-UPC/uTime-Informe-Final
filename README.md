@@ -850,6 +850,12 @@ Segmento objetivo #2: Clientes de servicios de belleza
     <td colspan="1">El sistema debe permitir mayor personalización del perfil a los salones según su plan de suscripción.</td>
   </tr>
    <tr>
+   <th colspan="2" align="center">Grupo Funcional: Cierre de Sesión</th>
+   </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-017</th>
+    <td colspan="1">El sistema debe permitir que los usuarios cierren sesión desde cualquier dispositivo.</td>
+   </tr>
 </table>
 
 ### 3.2.2. Requisitos No Funcionales
