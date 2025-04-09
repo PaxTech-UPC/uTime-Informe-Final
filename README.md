@@ -768,6 +768,36 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 ### 3.2.1. Requisitos Funcionales
 
+<table>
+  <tr>
+    <th>Código</th>
+    <th>Requisitos</th>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">Grupo Funcional: Registro de Usuarios</th>
+  </tr>
+  <tr>
+    <th colspan="1" align="center">RFU-001</th>
+    <td colspan="1">El sistema debe permitir que un cliente complete un formulario de registro con los siguientes datos: nombre, correo electrónico, DNI, teléfono y contraseña.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-002</th>
+    <td colspan="1">El sistema debe permitir que un salón de belleza/barbería se registre proporcionando datos del representante y datos del local (nombre del salón, dirección, etc.).</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-003</th>
+    <td colspan="1">El sistema debe validar que el correo ingresado no esté previamente registrado.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-004</th>
+    <td colspan="1">El sistema debe permitir que, tras el registro, se cree una cuenta de tipo cliente o peluquería según corresponda.</td>
+  </tr>
+   <tr>
+    <th colspan="1" align="center">RFU-005</th>
+    <td colspan="1">El sistema debe enviar un código de verificación al correo electrónico para confirmar el registro.</td>
+  </tr>
+</table>
+
 ### 3.2.2. Requisitos No Funcionales
 
 ## 3.3. Impact Mapping.
