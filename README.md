@@ -726,6 +726,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 8. ¿Qué estrategias usan para que los clientes regresen a su negocio y qué tan efectivas han sido?
 9. ¿Qué tan abiertos están a implementar nuevas herramientas digitales que les ayuden a organizar mejor su negocio?
 10. ¿Qué mejoras le gustaría implementar en su negocio en el corto y mediano plazo?
+11. ¿Qué tan importante es para usted tener un control visual de la disponibilidad y ocupación de su equipo de trabajo?
+12. ¿Cómo maneja las situaciones de insatisfacción de los clientes y qué acciones toma para evitar que se repitan?
 
 ### Preguntas para el Segmento Objetivo 02 (Clientes de salones de belleza o barberías)
 
@@ -739,6 +741,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 8. ¿Cómo te gusta recibir recordatorios de tu cita o promociones? (Mensajes de WhatsApp, correos, redes sociales, llamadas).
 9. ¿Has utilizado alguna aplicación o plataforma para reservar citas en salones de belleza/barberías? ¿Cómo fue tu experiencia?
 10. ¿Qué aspecto te gustaría que mejoraran los salones de belleza/barberías para una mejor experiencia como cliente?
+11. ¿Qué tan importante es para ti que el salón o barbería tenga una presencia activa en redes sociales o en línea?
+12. ¿Cuánto valoras la opción de poder hacer pagos anticipados o de forma digital para evitar el manejo de efectivo?
 
 ### 2.2.2. Registro de entrevistas.
 
