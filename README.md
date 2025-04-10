@@ -450,6 +450,47 @@ Para los profesionales de la belleza:
 
 ## 1.3. Segmentos objetivo.
 
+Los segmentos objetivos son las personas o entidades a las cuales está destinada nuestra solución. A continuación se nombraran los que abarca nuestra propuesta.
+
+## Segmento objetivo #1: Salones de belleza y barberías
+
+###  Aspectos Demográficos
+
+- Rango de edad: Mayores de 20 años
+- Sexo: Masculino y femenino
+- Nivel socioeconómico: clases A, B (alta y media-alta)
+
+### Aspectos geográficos:
+
+- Nacionalidad: Peruana o extranjera
+- Zona geográfica de residencia: urbana
+- Departamento: Lima Metropolitana
+
+### Aspectos psicográficos:
+
+- Uso frecuente de medios de comunicación, tales como WhatsApp y llamadas telefónicas, para interactuar con los clientes.
+- Un día a día con la agenda apretada por las reservas de los clientes y poca flexibilidad.
+
+
+## Segmento objetivo #2: Clientes de servicios de belleza
+
+### Aspectos Demográficos
+
+- Rango de edad: Mayores de 18 años
+- Sexo: Masculino y femenino
+- Nivel socioeconómico: clases A, B y C (alta, media-alta y media)
+
+### Aspectos geográficos:
+
+- Nacionalidad: Peruana o extranjera
+- Zona geográfica de residencia: urbana
+- Departamento: Lima Metropolitana
+
+### Aspectos psicográficos:
+
+- Van frecuentemente a salones de belleza para estar a la moda o estar presentable para un evento importante.
+- Tienden a preferir tratarse con el mismo estilista o barbero debido a experiencias anteriores o por la técnica del especialista.
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
