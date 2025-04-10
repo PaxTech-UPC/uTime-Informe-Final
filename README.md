@@ -290,6 +290,7 @@ Según Giselle Spa en La Molina (2021), se realizo una encuesta a 205 cliente re
 </div>
 
 ### 1.2.2 Lean UX Process
+El enfoque de Lean UX se basa en la colaboración para crear productos de alta calidad, priorizando la optimización de la experiencia del usuario y la satisfacción del cliente sobre la perfección del diseño. Esta metodología permite obtener mejores resultados al integrar una comprensión profunda de la visión del negocio, lo que brinda flexibilidad en la combinación de ideas y eficiencia en la entrega de soluciones (Lean UX y Lean Startup: potencia experiencia y diseño de producto, 2023).
 
 #### 1.2.2.1. Lean UX Problem Statements
 
