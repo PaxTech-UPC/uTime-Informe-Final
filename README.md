@@ -1169,11 +1169,11 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 | Term                                             | Definition                                                                       |
 |--------------------------------------------------|----------------------------------------------------------------------------------|
-| **Scheduled Appointment (Cita Agendada)**        | Una reserva previamente agendada por un cliente en un horario específio          |
-| **Available Slot (Horario Disponible)**          | Un periodo de tiempo donee no hau citas agendadas.                               |
+| **Scheduled Appointment (Cita Agendada)**        | Una reserva previamente agendada por un cliente en un horario específico         |
+| **Available Slot (Horario Disponible)**          | Un periodo de tiempo donede no hay citas agendadas.                              |
 | **Frequent Client (Cliente frecuente)**          | Cliente que acude regularmente a al salon o barberia.                            |
-| **Time Block (Bloque de tiempo)**                | Unidad de duración en la plataforma. Se usan para estandarizar las citas         |
-| **Cancellation (Cancelcación)**                  | Cancelar una cita programada. Esto libera el bloque de tiempo que le corresponde |
+| **Time Block (Bloque de tiempo)**                | Unidad de duración en la plataforma. Se usan para estandarizar las citas.        |
+| **Cancellation (Cancelación)**                   | Cancelar una cita programada. Esto libera el bloque de tiempo que le corresponde |
 | **Rescheduling (Reprogramación)**                | Cambia la fecha de una cita ya agendada.                                         |
 | **Appointment Reminder (Recordatorio de Cita)**  | Notificación al usuario para confirmar su cita.                                  |
 | **High-Demand Period (Periodo de alta demanda)** | Fechas en las cuales existe una mayor cantidad de clientes realiando citas.      |
