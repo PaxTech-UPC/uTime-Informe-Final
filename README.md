@@ -1015,6 +1015,7 @@ Se comunica con sus clientes a través de WhatsApp y llamadas, trabaja con una a
 
 Finalmente, una propuesta de mejora sería el implementar una herramienta digital para reservas y gestión de citas. Crear un historial de clientes para mejorar la personalización del servicio. Desarrollar campañas de fidelización y reactivación con beneficios especiales. A largo plazo, proyectar la apertura de una segunda sede.
 
+
 ### 2.2.3. Análisis de entrevistas.
 
 - **Análisis del Segmento Objetivo 01** 
@@ -1352,6 +1353,20 @@ El tono se adapta según el contexto: amigable en bienvenidas, eficiente en form
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
+-Landing Page Diagram:
+<div align="center">
+   <img src="img/diagram_1_fix.png" alt="diagram-1"/>
+</div>
+-Home System Diagram:
+<div align="center">
+   <img src="img/Homepage_system.png" alt="diagram-1-sign-in"/>
+</div>
+-Dashboard Diagram:
+<div align="center">
+   <img src="img/dashboard_1.png" alt="dash_1"/>
+   <img src="img/dashboard_2.png" alt="dash_2"/>
+</div>
+Los diagramas del sistema han sido divididos y organizados mediante el uso de colores distintivos, con el propósito de representar claramente la funcionalidad específica de cada sección: landing page, home system y dashboard. Esta diferenciación visual permite identificar rápidamente el propósito de cada componente y entender su rol dentro de la estructura general del sistema. La jerarquía de elementos se mantiene mediante una distribución ordenada, donde cada bloque se relaciona con funciones concretas, lo que facilita tanto el análisis como futuras modificaciones.
 
 ### 4.2.2. Labeling Systems.
 
