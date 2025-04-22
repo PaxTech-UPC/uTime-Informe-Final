@@ -1322,7 +1322,7 @@ uTime es una plataforma digital diseñada para transformar la manera en que los 
 La plataforma está pensada para brindar una experiencia visual sofisticada y funcional, adaptable tanto para usuarios del sector belleza como para sus clientes. Para asegurar una presentación coherente y unificada en todo el ecosistema digital de uTime, este documento establece una guía centralizada de estilo que cubre desde elementos visuales hasta principios de diseño para web y móviles. Las Style Guidelines de uTime están divididas en tres secciones: General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines, asegurando que el diseño sea intuitivo, atractivo y accesible tanto en entornos web como móviles.
 
 ### 4.1.1. General Style Guidelines.
-
+El branding de uTime es el núcleo de su identidad visual, diseñado para transmitir profesionalismo, modernidad y accesibilidad. La marca representa la fusión entre tecnología y bienestar, ofreciendo una experiencia elegante tanto para salones de belleza como para sus clientes. A través de una estética limpia, neutra y equilibrada, uTime busca establecer una conexión de confianza y eficiencia. Los elementos visuales —logo, tipografía y paleta de colores— reflejan organización, claridad y cuidado, capturando la esencia de un servicio puntual, estilizado y personalizado. El sistema visual está cuidadosamente alineado con el mundo de la belleza, sin perder su enfoque en la simplicidad y funcionalidad, generando una experiencia coherente y agradable.
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
