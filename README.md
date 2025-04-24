@@ -1698,6 +1698,255 @@ Para este Sprint, se han identificado los principales aspectos del desarrollo de
 
 #### 5.2.1.3. Sprint Backlog 1.
 
+El primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint es construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+
+![Trello-Sprint-Backlog-1](img/Trello-Sprint-Backlog-1.jpg)
+
+Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invite/b/68097c416c01112f478fcd49/ATTIce689cd7d2ceabb0f986544f256268e63E38CDCA/utime-sprint)
+
+<table>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 1</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="3">US29</td>
+      <td rowspan="3">Visualización general de los servicios</td>
+      <td>T1</td>
+      <td>Redacción de contenido</td>
+      <td>Redactar los textos que describen los servicios ofrecidos.</td>
+      <td>2</td>
+      <td>Angie Yán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Maquetación Inicial</td>
+      <td>Implementar estructuras básicas en HTML/CSS</td>
+      <td>2</td>
+      <td>Angie Yán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Estilización</td>
+      <td>Aplicar estilos CSS según el diseño aprobado.</td>
+      <td>2</td>
+      <td>Angie Yán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US30</td>
+      <td rowspan="2">Visualización de beneficios</td>
+      <td>T4</td>
+      <td>Redacción de beneficios</td>
+      <td>Redactar los beneficios principales de la plataforma</td>
+      <td>2</td>
+      <td>Renzo Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T5</td>
+      <td>Diseño Gráfico</td>
+      <td>Utilizar íconos o elementos visuales para loa beneficios</td>
+      <td>1.5</td>
+      <td>Renzo Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US31</td>
+      <td rowspan="2">Planes y precios</td>
+      <td>T6</td>
+      <td>Redacción de contenido</td>
+      <td>Redacción de los planes y precios para mostrar</td>
+      <td>1</td>
+      <td>Fred Falcon</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T7</td>
+      <td>Implementación UI</td>
+      <td>Codificar la sección de precios y planes</td>
+      <td>2</td>
+      <td>Fred Falcon</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">TS06</td>
+      <td rowspan="1">Diseño responsive y accesible</td>
+      <td>T8</td>
+      <td>Diseño responsive y accesible</td>
+      <td>Ajustar estilos para móviles y tablets.</td>
+      <td>2.5</td>
+      <td>Angie Yán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US32</td>
+      <td rowspan="2">Testimonios</td>
+      <td>T9</td>
+      <td>Recolección de testimonios</td>
+      <td>Buscar testimonios reales de usuarios anteriores (ficticios o reales)</td>
+      <td>1</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T10</td>
+      <td>Codificar la sección de testimonios</td>
+      <td>Codificar la sección de testimonios en la landing page</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US33</td>
+      <td rowspan="2">Call to Action</td>
+      <td>T11</td>
+      <td>Diseño de botones CTA</td>
+      <td>Diseñar visualmente los botones de llamada a la acción.</td>
+      <td>0.5</td>
+      <td>Fred Falcon</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T12</td>
+      <td>Implementación de botones</td>
+      <td>Añadir los botones CTA en secciones clave del sitio.</td>
+      <td>1</td>
+      <td>Fred Falcon</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US34</td>
+      <td rowspan="2">Contacto y soporte</td>
+      <td>T13</td>
+      <td>Redacción del mensaje de contacto</td>
+      <td>Escribir el texto base para contacto</td>
+      <td>0.5</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T14</td>
+      <td>Maquetación del Formulario</td>
+      <td>Implementar el formulario de contacto</td>
+      <td>1.5</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US01</td>
+      <td rowspan="3">Registro de un cliente</td>
+      <td>T16</td>
+      <td>Maquetado del formulario</td>
+      <td>Crear el formulario con campos como nombre, correo y contraseña</td>
+      <td>3</td>
+      <td>Renzo Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T17</td>
+      <td>Validación de Campos</td>
+      <td>Validar que los campos del formulario estén correctamente llenados</td>
+      <td>2</td>
+      <td>Renzo Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T18</td>
+      <td>Estilo y responsive</td>
+      <td>Aplicar diseño responsive y estilos visuales</td>
+      <td>2</td>
+      <td>Renzo Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US02</td>
+      <td rowspan="3">Registro del salón/barbería</td>
+      <td>T19</td>
+      <td>Maquetado del formulario</td>
+      <td>Crear el formulario con campos para el registro del negocio (nombre, RUC, dirección, etc.)</td>
+      <td>3</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T20</td>
+      <td>Validación de Campos</td>
+      <td>Validar que los campos del formulario estén correctamente llenados</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T21</td>
+      <td>Estilo y responsive</td>
+      <td>Aplicar diseño responsive y estilos visuales</td>
+      <td>1</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US03</td>
+      <td rowspan="2">Inicio de sesión</td>
+      <td>T22</td>
+      <td>Formulario de login</td>
+      <td>Crear formulario para correo y contraseña</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T23</td>
+      <td>Diseño y feedback</td>
+      <td>Aplicar estilos y mostrar mensajes de error/éxito</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US38</td>
+      <td rowspan="4">Información sobre uTime</td>
+      <td>T19</td>
+      <td>Redacción de contenido</td>
+      <td>Explicar quiénes son los creadores(PaxTech)</td>
+      <td>2</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T20</td>
+      <td>Perfil del equipo</td>
+      <td>Mostrar integrantes de PaxTech</td>
+      <td>2</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T21</td>
+      <td>Diseño de sección</td>
+      <td>Maquetar y aplicar estilos a la sección About Us</td>
+      <td>2</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
