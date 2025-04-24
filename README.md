@@ -1484,6 +1484,10 @@ Los diagramas del sistema han sido divididos y organizados mediante el uso de co
 
 ### 4.8.1. Database Diagram.
 
+<div align="center">
+   <img src="img/erd-diagram.png" alt="erd-diagram"/>
+</div>
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
