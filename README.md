@@ -1405,19 +1405,88 @@ Los diagramas del sistema han sido divididos y organizados mediante el uso de co
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+<div align="center">
+   <img src="img/c4-context.png" alt="c4-context"/>
+</div>
+
 ### 4.6.2. Software Architecture Container Diagrams.
 
+<div align="center">
+   <img src="img/c4-container.png" alt="c4-context"/>
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+#### Single Page Application Diagram:
+
+<div align="center">
+   <img src="img/c4-component-spa.png" alt="c4-context"/>
+</div>
+
+#### User Diagram:
+
+<div align="center">
+   <img src="img/c4-component-user.png" alt="c4-context"/>
+</div>
+
+
+#### Schedule Diagram:
+
+<div align="center">
+   <img src="img/c4-component-schedule.png" alt="c4-context"/>
+</div>
+
+#### Authentication Diagram:
+
+<div align="center">
+   <img src="img/c4-component-authentication.png" alt="c4-context"/>
+</div>
+
+#### Payment Diagram:
+
+<div align="center">
+   <img src="img/c4-component-payment.png" alt="c4-context"/>
+</div>
 
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
+<div align="center">
+   <img src="img/class-diagram-uTime.png" alt="class-diagram"/>
+</div>
+
 ### 4.7.2. Class Dictionary.
+
+| **Class**        | **Definition**                                                         |
+|------------------|------------------------------------------------------------------------|
+| `AccountId`      | Identificador único para una cuenta de usuario.                        |
+| `ReservationId`  | ID que representa una reserva dentro del sistema.                      |
+| `PaymentId`      | Identificador usado para cada pago.                                    |
+| `Money`          | Representa un monto con su moneda.                                     |
+| `Account`        | Es la cuenta de un usuario, guarda su correo, clave y estado.          |
+| `AuthToken`      | Token que se genera cuando un usuario inicia sesión.                   |
+| `AuthAdapter`    | Conecta el sistema con el servicio de Google para autenticar.          |
+| `User`           | Usuario del sistema, vinculado a una cuenta.                           |
+| `Client`         | Usuario que agenda citas en salones.                                   |
+| `Salon`          | Negocio que ofrece servicios, son los salones de belleza or barberias. |
+| `ContactInfo`    | Guarda los datos de contacto de un salón, como teléfono o redes.       |
+| `Worker`         | Persona que trabaja en el salón y tiene horarios disponibles.          |
+| `Schedule`       | Representa el horario de un trabajador para un día específico.         |
+| `TimeSlot`       | Bloques de tiempo en los que un trabajador está disponible.            |
+| `TimeSlotId`     | Identificador de un bloque horario.                                    |
+| `Reservation`    | Reserva que une a un cliente, un trabajador y un horario.              |
+| `Payment`        | Representa el pago hecho por una reserva.                              |
+| `Invoice`        | Factura que se genera cuando un pago es completado.                    |
+| `PaymentAdapter` | Adaptador que se encarga de procesar el pago con un servicio externo.  |
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+
+<div align="center">
+   <img src="img/erd-diagram.png" alt="erd-diagram"/>
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
