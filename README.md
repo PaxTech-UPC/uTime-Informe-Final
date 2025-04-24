@@ -1970,6 +1970,14 @@ Enlace para acceder a la landing page:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+| **Alumno**                             | **Actividad**                                                       |
+|----------------------------------------|---------------------------------------------------------------------|
+| Julca Cruz, Renso Anthony              | Implementación del Registro de la Landing Page                      |
+| Rivera Sosa, Eduardo Gael              | Implementación del Inicio de Sessión de la Landing Page             |
+| Varela Bustinza, Marcelo Alessandro    | Implementación del Contacto y Soporte y About Us de la Landing Page |
+| Yalán Zhang, Angie Christina           | Implementación de Testimonio de la Landing Page                     |
+| Falcon Hilarion, Fred Wilber           | Implementación de Planes y Precios de la Landing Page               |
+
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
