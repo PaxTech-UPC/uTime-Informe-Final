@@ -65,7 +65,7 @@ para cada integrante del equipo:
 | Integrantes    | Tareas Asignadas |
 |----------------| ---------------- |
 | Fred Falcon    |                  |
-| Renso Julca    |                  |
+| Renso Julca    |  Entrevistas, Preguntas de las entrevistas, Registro de Entrevistas, Software Configuration Managment, User Stories, Gherkin.                |
 | Gael Rivera    |  Análisis de competidores, Estrategias y tácticas frente a competidores, Entrevistas, Ubiquitous Language, User Stories, Product Backlog, Database Diagram, Landing Page, Sprint 1.                |
 | Marcelo Varela |                  |
 | Angie Yalán    |                  |
