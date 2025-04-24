@@ -1685,6 +1685,17 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
+Para este Sprint, se han identificado los principales aspectos del desarrollo de la landing page de Utime. Con el fin de mejorar la organización y la comunicación del equipo, se ha elaborado la matriz Leadership and Collaboration Matrix (LACX), donde se define quién asume el rol de Líder (L) y quiénes participan como Colaboradores (C) en cada uno de estos aspectos clave. Esta distribución facilita una ejecución más clara y eficiente de las tareas asignadas.
+
+| **Team Member**                                   | **GitHub Username** | **Servicios** | **Beneficios** | **Planes y Precios** | **Responsive** | **Soporte** | **Testimonios** | **CTA's** |
+|---------------------------------------------------|---------------------|---------------|----------------|----------------------|----------------|-------------|-----------------|-----------|
+| Falcon Hilarion, Fred Wilber                      | barry-91            | C             | C              | C                    | C              | L           | C               | C         |
+| Julca Cruz, Renso Anthony                         | rajc02              | L             | C              | C                    | C              | C           | C               | C         |
+| Rivera Sosa, Eduardo Gael                         | gael-rs             | C             | C              | C                    | L              | C           | L               | C         |
+| Varela Bustinza, Marcelo Alessandro               | VarBus              | C             | L              | C                    | C              | C           | C               | C         |
+| Yalán Zhang, Angie Christina                      | aaaaangie           | C             | C              | L                    | C              | C           | C               | C         |
+
+
 #### 5.2.1.3. Sprint Backlog 1.
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
