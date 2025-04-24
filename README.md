@@ -1417,6 +1417,12 @@ Los diagramas del sistema han sido divididos y organizados mediante el uso de co
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
+#### Single Page Application Diagram:
+
+<div align="center">
+   <img src="img/c4-component-spa.png" alt="c4-context"/>
+</div>
+
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
