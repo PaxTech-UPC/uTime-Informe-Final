@@ -1423,12 +1423,30 @@ Los diagramas del sistema han sido divididos y organizados mediante el uso de co
    <img src="img/c4-component-spa.png" alt="c4-context"/>
 </div>
 
-#### User diagram:
+#### User Diagram:
 
 <div align="center">
    <img src="img/c4-component-user.png" alt="c4-context"/>
 </div>
 
+
+#### Schedule Diagram:
+
+<div align="center">
+   <img src="img/c4-component-schedule.png" alt="c4-context"/>
+</div>
+
+#### Authentication Diagram:
+
+<div align="center">
+   <img src="img/c4-component-authentication.png" alt="c4-context"/>
+</div>
+
+#### Payment Diagram:
+
+<div align="center">
+   <img src="img/c4-component-payment.png" alt="c4-context"/>
+</div>
 
 ### 4.7. Software Object-Oriented Design.
 
