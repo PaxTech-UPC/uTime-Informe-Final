@@ -1423,6 +1423,13 @@ Los diagramas del sistema han sido divididos y organizados mediante el uso de co
    <img src="img/c4-component-spa.png" alt="c4-context"/>
 </div>
 
+#### User diagram:
+
+<div align="center">
+   <img src="img/c4-component-user.png" alt="c4-context"/>
+</div>
+
+
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
