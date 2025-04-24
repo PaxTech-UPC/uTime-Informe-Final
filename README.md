@@ -1537,9 +1537,87 @@ Ruta de referencia: https://cucumber.io/docs/gherkin/
 
 ### 5.1.2. Source Code Management.
 
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como WorkFlow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page.
+
+**Repositorios de GitHub:**
+
+- Enlace para acceder a la organización de GitHub: https://github.com/PaxTech-UPC
+- Enlace para acceder a repositorio de la Landing Page: https://github.com/PaxTech-UPC/uTime-Landing-Page
+
+**Flujo de trabajo GitFlow:** El flujo a utilizar para le desarrollo del proyecto fue el planteado por Vicent Driessen en "A successful Git branching model".
+
+
+![GitFlowDiagram](img/GitFlowDiagram.svg)
+
+
+**Estructura de branches (Ramas):**
+
+1. **Main branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+
+**Versionamiento Semántico:** Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+`git commit -m "<type>[optional scope]: <description">`
+
+
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
+siguientes:
+
+1. Cerrar todos los elementos HTML.
+
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido.
+   <br>Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
+
 ### 5.1.4. Software Deployment Configuration.
+
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada **docs** para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas **index.html**, para la landing page; **style.css** para los estilos y una carpeta llamada **img** que contenga las imágenes.
+3. Carga los archivos al repositorio mediante las imágenes.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master."
+5. Especificar la carpeta **/docs** como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page Desplegado.
+
+![GitHubPages](img/GitHub-Pages.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
