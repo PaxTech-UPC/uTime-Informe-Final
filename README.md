@@ -2019,3 +2019,9 @@ Enlace para acceder a la landing page:
 # Bibliografía
 
 # Anexos
+
+**Anexo A:**<br>
+URL del Needfinding Interviews:
+
+**Anexo B:**<br>
+URL del Prototypes Navigation / Product Navigation::
