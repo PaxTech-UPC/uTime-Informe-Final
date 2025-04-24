@@ -66,7 +66,7 @@ para cada integrante del equipo:
 |----------------| ---------------- |
 | Fred Falcon    |                  |
 | Renso Julca    |                  |
-| Gael Rivera    |                  |
+| Gael Rivera    |  Análisis de competidores, Estrategias y tácticas frente a competidores, Entrevistas, Ubiquitous Language, User Stories, Product Backlog, Database Diagram, Landing Page, Sprint 1.                |
 | Marcelo Varela |                  |
 | Angie Yalán    |                  |
 
