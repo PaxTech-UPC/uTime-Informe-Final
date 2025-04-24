@@ -1949,11 +1949,24 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invi
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+En el Sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestra algunas evidencias.
+
+1. **Sección Home:** La sección principal, el usuario al ingresar a nuestra landing page sera esta sección lo primero que podrá visualizar.
+2. **Sección de Planes:** En esta sección, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+3. **Sección de Contacto:** En la sección de contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos.
+4. **Sección About us:** En esta sección, el usuario podrá visualizar información sobre la startup creadora del producto **uTime** y los miembros de la startup.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint número 1, se desplegó la landing page completa en GitPage. Donde configuramos que la rama que tomará sera main que se encuentra en la carpeta docs, ya que seguimos una estructura de carpetas y archivos.
+
+![GitPage](img/GitHub-Pages.png)
+
+Enlace para acceder a la landing page:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
