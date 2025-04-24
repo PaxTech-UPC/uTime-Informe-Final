@@ -1625,6 +1625,64 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 #### 5.2.1.1. Sprint Planning 1.
 
+Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado **Product Goal** (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la plataforma de uTime, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #1 tiene como fecha de inicio el 10/04/2025 y como meta plantea elaborar una landing page atractiva para uTime que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto.
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 1</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-04-10</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Falcon Hilarion, Fred Wilber, Julca Cruz, Renso Anthony, Gael Rivera, Marcelo Varela, Angie Yalán</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1">Este es el primer spint del proyecto, por lo tanto, no hay resultados de un sprint anterior para revisar.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1">Al tratarse del primer sprint, no se cuenta con una retrospectiva previa. La retroalimentación y oportunidades de mejora se evaluarán al finalizarse este sprint.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> delivering a functional and engaging landing page for uTime.<br><b>We believe it delivers</b> a clear value proposition and generates user interest and trust to potential customers.<br><b>This will be confirmed when</b> visitors can access the site and interact with all key landing pages section (services overview, benefits, pricing, testimonials, CTA's and support) on both desktop and mobile devices</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
+      <td colspan="1">13</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">13</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 #### 5.2.1.3. Sprint Backlog 1.
