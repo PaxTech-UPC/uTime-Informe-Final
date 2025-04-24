@@ -1411,6 +1411,10 @@ Los diagramas del sistema han sido divididos y organizados mediante el uso de co
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+<div align="center">
+   <img src="img/c4-container.png" alt="c4-context"/>
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams.
 
 ### 4.7. Software Object-Oriented Design.
