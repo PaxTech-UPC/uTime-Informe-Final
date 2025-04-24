@@ -35,17 +35,20 @@
 
 <div align='center'>
 
-| Version | Fecha      | Autor                                   | Descripción de modificación                          |
-| ------- |------------|-----------------------------------------| ------------------------------------------------------ |
-| 1.0     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán    | Creación del documento de trabajo en formato markdown |
-| 1.1     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.2     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.3     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.4     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.5     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.6     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
-| 1.8     |            | Falcon, Julca, Rivera, Varela, Yalán    |                                                        |
+| Version | Fecha      | Autor                                    | Descripción de modificación                             |
+|---------|------------|------------------------------------------|---------------------------------------------------------|
+| 1.0     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación del documento de trabajo en formato markdown   |
+| 1.1     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
+| 1.2     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
+| 1.3     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
+| 1.4     | 09/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación de los requisitos funcionales y no funcionales |
+| 1.5     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
+| 1.6     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
+| 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
+| 1.8     | 16/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación de los User Stories y Technical Stories        |
+| 1.9     | 17/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación del Product Backlog                            |
+| 1.10    | 20/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Elaboración del Sprint 1                                |
+| 1.11    | 22/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Elaboración de las Conclusiones y Recomendaciones       |
 
 </div>
 
@@ -63,7 +66,7 @@ para cada integrante del equipo:
 |----------------| ---------------- |
 | Fred Falcon    |                  |
 | Renso Julca    |                  |
-| Gael Rivera    |                  |
+| Gael Rivera    |  Análisis de competidores, Estrategias y tácticas frente a competidores, Entrevistas, Ubiquitous Language, User Stories, Product Backlog, Database Diagram, Landing Page, Sprint 1.                |
 | Marcelo Varela |                  |
 | Angie Yalán    |                  |
 
