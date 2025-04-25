@@ -1548,6 +1548,82 @@ Al pie de la página, se incluye un enlace para quienes ya tienen cuenta, con el
 
 ### 4.3.2. Landing Page Mock-up.
 
+<div align="center">
+<img src="img/muw1.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw2.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw3.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw4.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw5.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw6.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw7.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw8.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw9.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw10.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw11.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw12.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw13.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw14.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw15.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw16.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw17.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw18.png" alt="landing_page_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw19.png" alt="landing_page_mock-up" width="600" />
+</div>
+
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
