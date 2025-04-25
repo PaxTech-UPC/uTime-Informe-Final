@@ -1545,6 +1545,83 @@ La sección "Let the glam begin!" es la página de registro de uTime, dirigida t
 Al pie de la página, se incluye un enlace para quienes ya tienen cuenta, con el texto "Already have an account? Click here", que dirige a la página de inicio de sesión. Este diseño facilita un acceso claro y directo al proceso de registro, con alternativas sencillas para iniciar sesión o crear una nueva cuenta.
 
 ### 4.3.1. Landing Page Wireframe.
+**Desktop Web Browser**
+<div align="center">
+<img src="img/lpw1.png" alt="main_screen" width="600" />
+</div>
+Primera sección del landing page, con el botón de "Start today!".
+<div align="center">
+<img src="img/lpw2.png" alt="feature_1" width="600" />
+</div>
+Segunda sección, en la que hay un carrusel o slider vertical donde se exponen los beneficios y principales features de la aplicación.
+<div align="center">
+<img src="img/lpw3.png" alt="feature_2" width="600" />
+</div>
+<div align="center">
+<img src="img/lpw4.png" alt="feature_3" width="600" />
+</div>
+<div align="center">
+<img src="img/lpw5.png" alt="feature_4" width="600" />
+</div>
+<div align="center">
+<img src="img/lpw6.png" alt="feature_5" width="600" />
+</div>
+
+Esta sección muestra dos bloques que animan a ambos segmentos objetivos a usar uTime.
+<div align="center">
+<img src="img/lpw7.png" alt="for_clients_and_business" width="600" />
+</div>
+
+Esta sección se muestra al presionar "Book now!" de la sección anterior. Se explica en términos generales cómo funciona uTime para los clientes.
+<div align="center">
+<img src="img/lpw8.png" alt="steps_clients" width="600" />
+</div>
+
+En esta parte del landing page se muestran los planes de subscripción con sus respectivos precios y características.
+<div align="center">
+<img src="img/lpw9.png" alt="pricing" width="600" />
+</div>
+
+Cuando seleccionas un plan, se detalla en una pantalla toda la información respectiva.
+<div align="center">
+<img src="img/lpw10.png" alt="essential_info" width="600" />
+</div>
+<div align="center">
+<img src="img/lpw11.png" alt="prostyle_info" width="600" />
+</div>
+<div align="center">
+<img src="img/lpw12.png" alt="deluxe_studio_info" width="600" />
+</div>
+
+En la barra de navegación superior se muestra un menú desplegable que te puede derivar o a ABOUT US o a CONTACT US
+<div align="center">
+<img src="img/lpw13.png" alt="more_tab" width="600" />
+</div>
+
+<div align="center">
+<img src="img/lpw14.png" alt="about_us" width="600" />
+</div>
+En esta sección del landing page, se encuentra el about us.
+<div align="center">
+<img src="img/lpw16.png" alt="contact_us" width="600" />
+</div>
+En esta última parte del landing page, se encuentra la sección de contacto.
+<div align="center">
+<img src="img/lpw17.png" alt="sign_in" width="600" />
+</div>
+Se presenta el formulario de inicio de sesión.
+<div align="center">
+<img src="img/lpw18.png" alt="register_clients" width="600" />
+</div>
+Se presenta el formulario de registro pero para clientes.
+<div align="center">
+<img src="img/lpw19.png" alt="register_business_subscription" width="600" />
+</div>
+Se presenta la primera ventana del formulario de registro para los salones/barberías, donde tienen que escoger el plan de subscripción. 
+<div align="center">
+<img src="img/lpw20.png" alt="register_business_info" width="600" />
+</div>
+Se presenta la segunda ventana del formulario de registro para los salones/barberías, donde tienen que rellenar sus datos del salón/barbería.
 
 ### 4.3.2. Landing Page Mock-up.
 
