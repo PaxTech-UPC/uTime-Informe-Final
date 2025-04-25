@@ -1879,6 +1879,10 @@ La sección Profile en la interfaz de salones de uTime permite personalizar y ge
 
 ## 4.5. Web Applications Prototyping.
 
+Web Applications Prototyping web view: *[Web Applications Prototyping](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=159-4024&t=7a0gTd0f0bacMsU5-1)*
+
+Web Applications Prototyping web view: *[Web Applications Prototyping](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=7a0gTd0f0bacMsU5-1)*
+
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
