@@ -1705,6 +1705,19 @@ La sección Profile en la interfaz de salones de uTime permite personalizar y ge
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+**Segmento objetivo #1: Salones de belleza y barberías**
+* **User Goal:** Como propietario de un salón, quiero gestionar las reservas de clientes de manera eficiente para optimizar mi tiempo y brindar un buen servicio.
+* Task flow:
+<div align="center">
+<img src="img/wireflow1.jpeg" alt="wireflow_salones" width="450" />
+</div>
+
+**Segmento objetivo #1: Clientes de servicios de belleza**
+* **User Goal:** Como cliente de un salón, quiero agendar mi cita rápidamente con mi estilista de confianza para asegurarme de ser atendido a tiempo.
+* Task flow:
+<div align="center">
+<img src="img/wireflow2.jpeg" alt="wireflow_clientes" width="450" />
+</div>
 
 ### 4.4.2. Web Applications Mock-ups.
 
