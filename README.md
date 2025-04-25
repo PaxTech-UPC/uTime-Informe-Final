@@ -1360,7 +1360,7 @@ La paleta de colores de uTime está cuidadosamente seleccionada para transmitir 
 Los colores como el #B497F3 y #513A84 evocan creatividad, lujo y calma, atributos ideales para un entorno estético como los salones de belleza. El #2D3142, un tono oscuro sobrio, aporta contraste y elegancia, útil para reforzar la legibilidad y el enfoque profesional.
 * Color claro #F7F8FA:
   Se utiliza como fondo neutro y aireado para equilibrar los colores más saturados, manteniendo una apariencia limpia y moderna.
-  **Paleta secundaria:**
+**Paleta secundaria:**
   Complementa la paleta principal con tonos suaves y equilibrados como el #E8C7EF y el #BFAFAF, que añaden un toque femenino y acogedor, sin perder el estilo sobrio. Colores como el #B0B8C1 y el #3F3D56 ayudan a construir jerarquía visual sin sobrecargar el diseño.
 <p>Esta combinación de colores logra una experiencia visual armoniosa, elegante y tecnológica, ideal para una plataforma que busca destacar en el sector de servicios de belleza.</p>
 
@@ -1370,11 +1370,13 @@ Los colores como el #B497F3 y #513A84 evocan creatividad, lujo y calma, atributo
 </div>
 La iconografía de uTime está diseñada para mantener una interfaz limpia, moderna y altamente intuitiva. Los íconos comunican de forma rápida y visual las funciones principales de la plataforma, lo que facilita la navegación tanto para clientes como para profesionales. Se utiliza un estilo lineal (outline) con trazos uniformes, redondeados y amigables, lo cual transmite una sensación de cercanía y profesionalismo, alineada con el tono general de la marca.
 Se han definido tres tamaños estándar de íconos, cada uno con su respectivo grosor de trazo (stroke), para adaptarse a diferentes jerarquías visuales dentro del producto:
+
 * **Íconos grandes:** 96 x 90 px con un trazo de 4 px. Usados en secciones destacadas como navegación principal o pantallas de bienvenida.
 * **Íconos medianos:** 48 x 45 px con un trazo de 3 px. Utilizados en menús y encabezados secundarios.
 * **Íconos pequeños:** 32 x 30 px con un trazo de 2 px. Ideales para botones de acción, menús desplegables o elementos en listas.
+
 Además del ícono base (hogar), se ha desarrollado una biblioteca de íconos adicionales que incluyen representaciones claras de funciones comunes en la plataforma, como agendamiento, pagos, perfil, servicios, notificaciones y redes sociales. Esta colección asegura consistencia visual en todas las plataformas, permitiendo escalabilidad y rápida comprensión sin sacrificar estética.
-Todos los íconos mantienen proporciones balanceadas y utilizan un sistema de grid para asegurar coherencia en su diseño y alineación en interfaces tanto web como móviles.
+<p>Todos los íconos mantienen proporciones balanceadas y utilizan un sistema de grid para asegurar coherencia en su diseño y alineación en interfaces tanto web como móviles.</p>
 
 #### 4.1.1.5. Tono de comunicación y lenguaje aplicado
 El tono de uTime es cercano, claro y profesional. Busca conectar tanto con los salones de belleza como con sus clientes, transmitiendo confianza, facilidad y modernidad. La comunicación evita tecnicismos, optando por un lenguaje directo, positivo y accesible. Para los clientes, se prioriza la comodidad y simplicidad con frases como “Tu cita, a tu ritmo” o “Agenda en segundos”. Para los salones, el enfoque es práctico y enfocado en crecimiento, con mensajes como “Optimiza tu agenda” o “Haz crecer tu negocio”. <br>
