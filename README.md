@@ -1103,7 +1103,6 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 ### 2.3.2. User Task Matrix.
 
-
 | **Tarea**                                             | **Frecuencia (Andrea)** | **Importancia (Andrea)** | **Frecuencia (Camila)** | **Importancia (Camila)** |
 |-------------------------------------------------------|--------------------------|----------------------------|--------------------------|----------------------------|
 | Revisar la disponibilidad de la agenda                | Alta                     | Alta                       | Alta                     | Alta                       |
@@ -1702,7 +1701,7 @@ El primer sprint backlog, el equipo tuvo la intención de comenzar y completar l
 
 ![Trello-Sprint-Backlog-1](img/Trello-Sprint-Backlog-1.jpg)
 
-Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invite/b/68097c416c01112f478fcd49/ATTIce689cd7d2ceabb0f986544f256268e63E38CDCA/utime-sprint)
+Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invite/b/N848Nsqq/ATTIbf675ae8e86a38ec44997499f61ba49a056C9D6D/utime-sprint)
 
 <table>
    <tr>
