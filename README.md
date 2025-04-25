@@ -1721,6 +1721,66 @@ La sección Profile en la interfaz de salones de uTime permite personalizar y ge
 
 ### 4.4.2. Web Applications Mock-ups.
 
+<div align="center">
+<img src="img/muw20.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw21.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw22.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw23.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw24.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw25.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw26.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw27.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw28.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw29.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw30.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw31.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw32.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw33.png" alt="web_applications_mock-up" width="600" />
+</div>
+
+<div align="center">
+<img src="img/muw34.png" alt="web_applications_mock-up" width="600" />
+</div>
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping.
