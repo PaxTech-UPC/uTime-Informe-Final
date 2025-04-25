@@ -1335,8 +1335,13 @@ El branding de uTime es el núcleo de su identidad visual, diseñado para transm
 <img src="img/tipografia.png" alt="tipografia" width="400" />
 </div>
 La elección tipográfica de uTime es fundamental para reflejar la personalidad moderna, profesional y accesible de la marca. Se ha optado por un sistema tipográfico limpio, claro y versátil, que transmite orden, puntualidad y estilo, cualidades esenciales dentro del mundo de la belleza y la gestión. Esta combinación proporciona una experiencia visual coherente tanto para usuarios como para profesionales, manteniendo legibilidad en todos los tamaños de pantalla.
+
 ##### 4.1.1.1.1. Tipografía del logo
+<div align="center">
+<img src="img/logoutime.png" alt="logo_utime" width="400" />
+</div>
 Para el logotipo de uTime se ha utilizado Roboto SemiBold, una tipografía sans-serif moderna y equilibrada que combina líneas limpias con una presencia firme. Su estructura geométrica le otorga un aspecto tecnológico y contemporáneo, mientras que el grosor "SemiBold" aporta fuerza visual sin perder elegancia. Esta elección representa la seriedad y confiabilidad del sistema, a la vez que proyecta una marca sólida, accesible y con visión a futuro.
+
 ##### 4.1.1.1.2. Tipografía del texto regular
 Para el cuerpo de texto, títulos, botones y elementos de navegación, se ha seleccionado Poppins, una tipografía sans-serif geométrica que destaca por su legibilidad, suavidad y estilo actual. Se utiliza en sus distintas variaciones de peso —Light, Regular, Medium, SemiBold y Bold— según el contexto:
 * **Poppins Light:** textos secundarios o de apoyo.
@@ -1368,11 +1373,13 @@ Se han definido tres tamaños estándar de íconos, cada uno con su respectivo g
 * **Íconos grandes:** 96 x 90 px con un trazo de 4 px. Usados en secciones destacadas como navegación principal o pantallas de bienvenida.
 * **Íconos medianos:** 48 x 45 px con un trazo de 3 px. Utilizados en menús y encabezados secundarios.
 * **Íconos pequeños:** 32 x 30 px con un trazo de 2 px. Ideales para botones de acción, menús desplegables o elementos en listas.
-  Además del ícono base (hogar), se ha desarrollado una biblioteca de íconos adicionales que incluyen representaciones claras de funciones comunes en la plataforma, como agendamiento, pagos, perfil, servicios, notificaciones y redes sociales. Esta colección asegura consistencia visual en todas las plataformas, permitiendo escalabilidad y rápida comprensión sin sacrificar estética.
-  Todos los íconos mantienen proporciones balanceadas y utilizan un sistema de grid para asegurar coherencia en su diseño y alineación en interfaces tanto web como móviles.
+Además del ícono base (hogar), se ha desarrollado una biblioteca de íconos adicionales que incluyen representaciones claras de funciones comunes en la plataforma, como agendamiento, pagos, perfil, servicios, notificaciones y redes sociales. Esta colección asegura consistencia visual en todas las plataformas, permitiendo escalabilidad y rápida comprensión sin sacrificar estética.
+Todos los íconos mantienen proporciones balanceadas y utilizan un sistema de grid para asegurar coherencia en su diseño y alineación en interfaces tanto web como móviles.
+
 #### 4.1.1.5. Tono de comunicación y lenguaje aplicado
 El tono de uTime es cercano, claro y profesional. Busca conectar tanto con los salones de belleza como con sus clientes, transmitiendo confianza, facilidad y modernidad. La comunicación evita tecnicismos, optando por un lenguaje directo, positivo y accesible. Para los clientes, se prioriza la comodidad y simplicidad con frases como “Tu cita, a tu ritmo” o “Agenda en segundos”. Para los salones, el enfoque es práctico y enfocado en crecimiento, con mensajes como “Optimiza tu agenda” o “Haz crecer tu negocio”. <br>
 El tono se adapta según el contexto: amigable en bienvenidas, eficiente en formularios y proactivo en notificaciones. Se evita el uso excesivo de mayúsculas o jergas, manteniendo siempre una voz coherente, profesional y empática. Este tono homogéneo y accesible permite que uTime mantenga una identidad sólida y reconocible, acompañando a los usuarios desde el primer contacto hasta su uso cotidiano, sin fricciones ni confusiones.
+
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
