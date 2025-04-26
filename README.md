@@ -1051,9 +1051,9 @@ Allison Galindo, una universitaria de 20 años que vive en el Cercado de Lima, v
   - Características Objetivas:
 
     - Demografía y Experiencia: 
-      + Jóvenes emprendedores (24-28 años).
-      + Con experiencia en el rubro (3-5 años).
-      + Propietarios de salones de belleza en áreas urbanas (Chorrillos, Barranco, Surco).
+      + Luis Fernando Farfán, 29 años, barbero con 8 años de experiencia en Chiclayo. 
+      + María Ysabel Sosa Rodríguez, 45 años, dueña de un salón de belleza en San Juan de Lurigancho. 
+      + Vianka Aracelli Graciel Diaz Dueñas, 19 años, recepcionista de un salón de belleza en San Juan de Lurigancho.
     - Gestión del Negocio:
       + Agenda de citas gestionada manualmente (cuaderno).
       + Pagos en efectivo, transferencias y QR.
@@ -1085,8 +1085,9 @@ Allison Galindo, una universitaria de 20 años que vive en el Cercado de Lima, v
   - Características Objetivas:
 
     - Demografía:
-      + Jóvenes universitarias de 20 años. (100% de las entrevistadas)
-      + Residentes en áreas urbanas (Cercado de Lima). (50% de las entrevistadas)
+      + Luis Andrés Alva Abanto, 19 años, cliente de servicio de belleza en San Borja. 
+      + Doris Yolanda Tello, 60 años, cliente de servicio de belleza en La Molina. 
+      + Allison Naomi Galindo Palomino, 20 años, cliente de servicio de belleza en Cercado de Lima.
     - Comportamiento de Consumo:
       + Visitan salones de belleza aproximadamente una vez al mes. (100% de las entrevistadas)
       + Servicios más frecuentes: manicura, corte de cabello, tratamientos capilares, depilación de cejas y mascarillas faciales.
