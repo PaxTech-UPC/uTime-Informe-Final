@@ -2461,6 +2461,252 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invi
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
+<table>
+        <thead>
+            <tr>
+                <th>Repository</th>
+                <th>Branch</th>
+                <th>Commit ID</th>
+                <th>Commit Message</th>
+                <th>Commit Message Body</th>
+                <th>Committed on (Date)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>2f0e266</td>
+                <td>Merge branch 'develop' of https://github.com/PaxTech-UPC/uTime-Landing-Page into develop</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>433f6a9</td>
+                <td>Merge branch 'feature/pricing' into develop</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>2e911e1</td>
+                <td>docs: add complementary information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>2d4457e</td>
+                <td>docs: add pro style information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>87ecf12</td>
+                <td>docs: add body essential information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>38d9368</td>
+                <td>docs: add nav essential info</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>7a26ead</td>
+                <td>docs: body information and footer deluxe</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>ce13b85</td>
+                <td>docs: add section deluxe</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>aceabae</td>
+                <td>docs: add navbar deluxe</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>8d2fafa</td>
+                <td>docs: add footer information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>dff0bd1</td>
+                <td>docs: add plan subscriptions</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>25e3237</td>
+                <td>docs: add pricing information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>5961bcb</td>
+                <td>Merge branch 'feature/registration' into develop</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>40ff223</td>
+                <td>docs: add register information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>c11e063</td>
+                <td>docs: add sign in information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>e087d18</td>
+                <td>docs: add navbar information registration</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>ffaaab9</td>
+                <td>fix: registration user interface information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>559ecc5</td>
+                <td>Merge branch 'feature/more-section' into develop</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>503ea3d</td>
+                <td>docs: add about and contact information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>6d45681</td>
+                <td>docs: add navbar information about and contact</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>a55d5fb</td>
+                <td>docs: add style information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>a08255e</td>
+                <td>Merge branch 'feature/home' into develop</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>6d10e87</td>
+                <td>docs: add footer part</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>83e695a</td>
+                <td>docs: add section body</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>c5d1440</td>
+                <td>docs: add nav information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>0febb13</td>
+                <td>docs: add style information</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>dfff629</td>
+                <td>chore: add gitignore files</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>18ac354</td>
+                <td>docs: add images</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+            <tr>
+                <td>uTime-Landing-Page</td>
+                <td>develop</td>
+                <td>9cfa4f8</td>
+                <td>docs: integrated idea file</td>
+                <td></td>
+                <td>Apr 25, 2025</td>
+            </tr>
+        </tbody>
+    </table>
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
