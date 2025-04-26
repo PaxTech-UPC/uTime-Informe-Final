@@ -2452,12 +2452,35 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invi
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
+
+#### 5.2.1.5 Execution Evidence for Sprint Review.
+
+
 En el Sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestra algunas evidencias.
 
-1. **Sección Home:** La sección principal, el usuario al ingresar a nuestra landing page sera esta sección lo primero que podrá visualizar.
-2. **Sección de Planes:** En esta sección, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
-3. **Sección de Contacto:** En la sección de contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos.
-4. **Sección About us:** En esta sección, el usuario podrá visualizar información sobre la startup creadora del producto **uTime** y los miembros de la startup.
+##### **Sección Home:** La sección principal, el usuario al ingresar a nuestra landing page sera esta sección lo primero que podrá visualizar.
+![Home](img/home.png)
+
+
+##### **Sección de Planes:** En esta sección, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+![Planes](img/planes.png)
+
+
+##### **Sección de Contacto:** En la sección de contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos.
+![Contacto](img/contact-us.png)
+
+
+##### **Seccion de Registro:** En esta sección, el usuario podrá registrarse como cliente o como salón/barbería.
+![Registro](img/register.png)
+
+
+##### **Sección de Inicio de sesión:** En esta sección, el usuario podrá iniciar sesión en su cuenta de uTime.
+![InicioSesion](img/sign-in.png)
+
+
+##### **Sección About us:** En esta sección, el usuario podrá visualizar información sobre la startup creadora del producto **uTime** y los miembros de la startup.
+![AboutUs](img/about-us.png)
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2521,10 +2544,19 @@ Enlace para acceder a la landing page:
 
 # Bibliografía
 
+<div style="text-indent: 30px;">
+Araya, F., Balestrini, M., Blandón, C., Henriquez P. & Torrico, B. (2025). El poder de los datos: Impulsando la transformación digital de las pymes de América Latina. https://blogs.iadb.org/innovacion/es/el-poder-de-los-datos-impulsando-la-transformacion-digital-de-las-pymes-de-america-latina/
+
+Expo Belleza Fest. (2016). Más del 60% de los estilistas en México trabajan de manera independiente. https://bellezafest.blogspot.com/2016/12/mas-del-60-de-los-estilistas-en-mexico.html
+
+Telefónica. (2022). La digitalización de las empresas repercute hasta un 25% en su productividad. https://www.telefonica.com/es/sala-comunicacion/blog/la-digitalizacion-de-las-empresas-repercute-hasta-un-25-en-su-productividad/
+
+</div>
+
 # Anexos
 
 **Anexo A:**<br>
 URL del Needfinding Interviews:
 
 **Anexo B:**<br>
-URL del Prototypes Navigation / Product Navigation::
+URL del Prototypes Navigation / Product Navigation: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=0-1&t=NPXJtI3GloAbxeeU-1
