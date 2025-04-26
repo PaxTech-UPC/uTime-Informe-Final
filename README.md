@@ -83,13 +83,13 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 para cada integrante del equipo:
 
 
-| Integrantes    | Tareas Asignadas |
-|----------------| ---------------- |
-| Fred Falcon    |                  |
-| Renso Julca    |  Entrevistas, Preguntas de las entrevistas, Registro de Entrevistas, Software Configuration Managment, User Stories, Gherkin.                |
-| Gael Rivera    |  Análisis de competidores, Estrategias y tácticas frente a competidores, Entrevistas, Ubiquitous Language, User Stories, Product Backlog, Database Diagram, Landing Page, Sprint 1.                |
-| Marcelo Varela |                  |
-| Angie Yalán    |                  |
+| Integrantes    | Tareas Asignadas                                                                                                                                                                   |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fred Falcon    | Análisis de Entrevistas, Entrevistas, Gherkin, Sprint 1, User Tasks Matrix                                                                                                         |
+| Renso Julca    | Entrevistas, Preguntas de las entrevistas, Registro de Entrevistas, Software Configuration Managment, User Stories, Gherkin.                                                       |
+| Gael Rivera    | Análisis de competidores, Estrategias y tácticas frente a competidores, Entrevistas, Ubiquitous Language, User Stories, Product Backlog, Database Diagram, Landing Page, Sprint 1. |
+| Marcelo Varela | Antecedentes y problemática, Registro de entrevistas, User persona, Empathy mapping, Impact mapping, User stories, Functional requirements, Organization systems, Labeling System  |
+| Angie Yalán    | Startup Profile, Solution Profile, Segmento Objetivo, Lean UX Process, Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping.        |
 
 **Github Collaboration Insights**
 
