@@ -967,18 +967,18 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### Datos del Entrevistado #1
 
-- **Nombre completo:** Allison Milagros Rivera Quispe
-- **Segmento Objetivo:** Clientes de servicio de belleza
-- **Edad:** 20 años
-- **Distrito:** San Martín de Porres
-- **Inicio de la entrevista:** 00:20 minutos
-- **Duración:** 3:59 minutos
-- **Screenshot del cuadro de video:** *![Entrevista 01](img/Entrevista-01.png)*
-- **URL del video (Microsoft Stream):**  *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121579_upc_edu_pe/EeoQkyackMpHjzBXjZNIML0Bu8Bmb_quTgE2bXnkrwnptA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hgJtIF)*
-
+- **Nombre completo:** Alya Fernandez Ruiz
+- **Segmento Objetivo:** Dueña de un salón de belleza
+- **Edad:** 24 años
+- **Distrito:** Surco
+- **Inicio de la entrevista:** 00:22 minutos
+- **Duración:** 3:49 minutos
+- **Screenshot del cuadro de video:** *![Entrevista 01](img/Entrevista-04.png)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422331_upc_edu_pe/EdpoA01wVfZOmQqbKErKpjYBa0r1t2gufqmlN0z-A214dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=29PtzE)*
 
 **Resumen:**
-Allison Rivera, de 20 años, es una joven universitaria que visita salones de belleza aproximadamente una vez al mes. Sus servicios más frecuentes son la manicura, el corte de cabello y tratamientos capilares. Su personalidad se refleja en una actitud práctica y confiada: valora la calidad del servicio y la reputación del salón por encima de otros factores como el precio o la ubicación. Prefiere atenderse siempre con el mismo estilista, ya que confía en esa persona y se siente segura con los resultados que obtiene. La puntualidad es un aspecto crítico para ella, ya que busca que el servicio no interfiera con otras actividades de su día, aunque menciona que nunca ha tenido experiencias negativas respecto a esperas. Agenda sus citas por WhatsApp, canal que también prefiere para recibir recordatorios o promociones, junto con las redes sociales. A pesar de ser nativa digital, nunca ha utilizado una aplicación o plataforma especializada para reservas, aunque está abierta a esa posibilidad si mejorará la rapidez de respuesta al momento de agendar. En cuanto a métodos de pago, Allison prefiere transferencias bancarias o apps de pago, evitando el uso de efectivo. También valora que los procesos de reprogramación de citas sean sencillos, experiencia que ha sido positiva para ella hasta ahora. Finalmente, considera que una mejora importante para los salones de belleza sería acelerar el tiempo de respuesta al agendar citas vía WhatsApp, ya que a veces hay demoras que afectan su experiencia como cliente.
+Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. Desde niña sintió pasión por el estilismo, lo que la llevó a emprender en este rubro hace tres años. A lo largo de este tiempo, ha aprendido a combinar técnicas, atención personalizada y gestión eficiente para brindar una experiencia de calidad a sus clientes. Se comunica con sus clientes a través de WhatsApp y llamadas, trabaja con una agenda flexible, aunque los cambios de última hora afectan su organización. Acepta pagos en efectivo, transferencias y QR. Su gestión de citas es manual, lo que le demanda tiempo, pero garantiza atención personalizada. Llama a clientes ocasionalmente y ofrece promociones para primeras visitas. Finalmente, una propuesta de mejora sería el implementar una herramienta digital para reservas y gestión de citas. Crear un historial de clientes para mejorar la personalización del servicio. Desarrollar campañas de fidelización y reactivación con beneficios especiales. A largo plazo, proyectar la apertura de una segunda sede.
+
 
 #### Datos del Entrevistado #2
 
@@ -1015,17 +1015,18 @@ Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es pr
 
 #### Datos del Entrevistado #1
 
-- **Nombre completo:** Alya Fernandez Ruiz
-- **Segmento Objetivo:** Dueña de un salón de belleza
-- **Edad:** 24 años
-- **Distrito:** Surco
-- **Inicio de la entrevista:** 00:22 minutos
-- **Duración:** 3:49 minutos
-- **Screenshot del cuadro de video:** *![Entrevista 01](img/Entrevista-04.png)*
-- **URL del video (Microsoft Stream):**  *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422331_upc_edu_pe/EdpoA01wVfZOmQqbKErKpjYBa0r1t2gufqmlN0z-A214dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=29PtzE)*
+- **Nombre completo:** Luis Andrés Alva Abanto
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 19 años
+- **Distrito:** San Borja
+- **Screenshot del cuadro de video:** *![interview_1.jpeg](img/entrevista1s2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv)*
+- **Inicio de la entrevista:** 20:00 minutos
+- **Duración:** 33:54 minutos
 
-**Resumen:**
-Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. Desde niña sintió pasión por el estilismo, lo que la llevó a emprender en este rubro hace tres años. A lo largo de este tiempo, ha aprendido a combinar técnicas, atención personalizada y gestión eficiente para brindar una experiencia de calidad a sus clientes. Se comunica con sus clientes a través de WhatsApp y llamadas, trabaja con una agenda flexible, aunque los cambios de última hora afectan su organización. Acepta pagos en efectivo, transferencias y QR. Su gestión de citas es manual, lo que le demanda tiempo, pero garantiza atención personalizada. Llama a clientes ocasionalmente y ofrece promociones para primeras visitas. Finalmente, una propuesta de mejora sería el implementar una herramienta digital para reservas y gestión de citas. Crear un historial de clientes para mejorar la personalización del servicio. Desarrollar campañas de fidelización y reactivación con beneficios especiales. A largo plazo, proyectar la apertura de una segunda sede.
+**Resumen:** Luis visita el salón o barbería una vez al mes, principalmente para cortes de cabello y afeitado de barba, valorando sobre todo la puntualidad, ubicación cercana y buena atención. Prefiere agendar citas por WhatsApp y pagar mediante aplicaciones digitales como Yape o transferencias, ya que no suele usar efectivo. Aunque no ha utilizado plataformas para reservas, considera útil un sistema que recuerde su perfil e historial de servicios. Destaca la amabilidad del personal como un factor clave para volver, y valora recibir recordatorios por WhatsApp y promociones por correo. Además, le parece importante que los salones tengan presencia activa en redes sociales, especialmente por las promociones que publican.
+
+
 
 #### Datos del Entrevistado #2
 
