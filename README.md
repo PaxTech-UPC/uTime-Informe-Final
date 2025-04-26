@@ -967,49 +967,46 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### Datos del Entrevistado #1
 
-- **Nombre completo:** Alya Fernandez Ruiz
-- **Segmento Objetivo:** Dueña de un salón de belleza
-- **Edad:** 24 años
-- **Distrito:** Surco
-- **Inicio de la entrevista:** 00:22 minutos
-- **Duración:** 3:49 minutos
-- **Screenshot del cuadro de video:** *![Entrevista 01](img/Entrevista-04.png)*
-- **URL del video (Microsoft Stream):**  *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422331_upc_edu_pe/EdpoA01wVfZOmQqbKErKpjYBa0r1t2gufqmlN0z-A214dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=29PtzE)*
-
-**Resumen:**
-Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. Desde niña sintió pasión por el estilismo, lo que la llevó a emprender en este rubro hace tres años. A lo largo de este tiempo, ha aprendido a combinar técnicas, atención personalizada y gestión eficiente para brindar una experiencia de calidad a sus clientes. Se comunica con sus clientes a través de WhatsApp y llamadas, trabaja con una agenda flexible, aunque los cambios de última hora afectan su organización. Acepta pagos en efectivo, transferencias y QR. Su gestión de citas es manual, lo que le demanda tiempo, pero garantiza atención personalizada. Llama a clientes ocasionalmente y ofrece promociones para primeras visitas. Finalmente, una propuesta de mejora sería el implementar una herramienta digital para reservas y gestión de citas. Crear un historial de clientes para mejorar la personalización del servicio. Desarrollar campañas de fidelización y reactivación con beneficios especiales. A largo plazo, proyectar la apertura de una segunda sede.
-
-
-#### Datos del Entrevistado #2
-
 - **Nombre completo:** Maria Ysabel Sosa Rodriguez
 - **Segmento Objetivo:** Dueña de un Salón de belleza
 - **Edad:** 45 años
 - **Distrito:** San Juan de Lurigancho
-- **Inicio de la entrevista:**
-- **Duración:**
+- **Inicio de la entrevista:** 0:18 minutos
+- **Duración:** 25:48 minutos
 - **Screenshot del cuadro de video:** ![Entrevista 02](img/Entrevista3-Segmento1.jpg)
 
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
-
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hiRhHI)*
 
 **Resumen:**
 María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y actualmente enfrenta retos en la gestión de sus citas. Durante la entrevista, expresó su interés en implementar un sistema automatizado para agendar citas, ya que considera que las cancelaciones de último momento resultan frustrantes y afectan su negocio. Además, destacó que los métodos tradicionales como llamadas o mensajes son poco prácticos, ya que demandan tiempo y a menudo generan incomodidad tanto para ella como para sus clientas. María Ysabel ve en la tecnología una oportunidad para optimizar este proceso y mejorar la eficiencia en la atención al cliente.
 
-
-#### Datos del Entrevistado #3
+#### Datos del Entrevistado #2
 
 - **Nombre completo:** Miguel Alonso Talledo García
 - **Segmento Objetivo:** Dueño de un salón de belleza
 - **Edad:** 28 años
 - **Distrito:** Chorrillos
-- **Inicio de la entrevista:** 00:21 minutos
-- **Duración:** 5:11 minutos
+- **Inicio de la entrevista:** 4:40 minutos
+- **Duración:** 25:48 minutos
 - **Screenshot del cuadro de video:** *![Entrevista 03](img/Entrevista-03.png)*
-- **URL del video (Microsoft Stream):**  *[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422331_upc_edu_pe/EX6HOo8EDoFKiK3cbKkCFq4BQQgEUFMl3gwRdQJXpIRp-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t7YgF4)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hiRhHI)*
+  **Resumen:**
+  Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es propietario de un salón de belleza ubicado en Barranco, con más de cinco años de experiencia en el rubro. Su motivación por este oficio nació gracias a su hermana, quien desde joven demostraba una gran pasión por el estilismo y un trato excepcional con sus clientas. Su ejemplo fue fundamental para que decidiera seguir este camino. Sus clientes, en su mayoría recurrentes, se contactan por llamadas o WhatsApp para agendar citas. Su agenda se llena rápidamente, lo que en ocasiones le genera pérdida de citas o malestar cuando los clientes desean cambiar su hora a último minuto. Las reservas se anotan manualmente en un cuaderno, y los pagos se realizan en efectivo o mediante QR. Utiliza principalmente WhatsApp como canal de atención. La gestión de citas puede volverse complicada cuando está atendiendo o fuera de línea, lo que a veces le lleva a perder clientes. La cancelación de citas le afecta directamente sus ingresos diarios. Como estrategia de fidelización, ofrece promociones y obsequios de accesorios, lo cual le ha dado buenos resultados. Finalmente, una propuesta de mejora sería implementar una herramienta digital para gestionar sus reservas de manera eficiente, especialmente en momentos donde no puede estar disponible. Agilizar la comunicación con sus clientes mediante recordatorios o confirmaciones, para evitar cancelaciones y pérdidas, y a su vez mejorar la experiencia del cliente. A mediano y largo plazo, aumentar la rentabilidad del negocio y trabajar en la apertura de nuevas sucursales.
+
+#### Datos del Entrevistado #3
+
+- **Nombre completo:** Alya Fernandez Ruiz
+- **Segmento Objetivo:** Dueña de un salón de belleza
+- **Edad:** 24 años
+- **Distrito:** Surco
+- **Inicio de la entrevista:** 9:52 minutos
+- **Duración:** 25:48 minutos
+- **Screenshot del cuadro de video:** *![Entrevista 01](img/Entrevista-04.png)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hiRhHI)*
 
 **Resumen:**
-Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es propietario de un salón de belleza ubicado en Barranco, con más de cinco años de experiencia en el rubro. Su motivación por este oficio nació gracias a su hermana, quien desde joven demostraba una gran pasión por el estilismo y un trato excepcional con sus clientas. Su ejemplo fue fundamental para que decidiera seguir este camino. Sus clientes, en su mayoría recurrentes, se contactan por llamadas o WhatsApp para agendar citas. Su agenda se llena rápidamente, lo que en ocasiones le genera pérdida de citas o malestar cuando los clientes desean cambiar su hora a último minuto. Las reservas se anotan manualmente en un cuaderno, y los pagos se realizan en efectivo o mediante QR. Utiliza principalmente WhatsApp como canal de atención. La gestión de citas puede volverse complicada cuando está atendiendo o fuera de línea, lo que a veces le lleva a perder clientes. La cancelación de citas le afecta directamente sus ingresos diarios. Como estrategia de fidelización, ofrece promociones y obsequios de accesorios, lo cual le ha dado buenos resultados. Finalmente, una propuesta de mejora sería implementar una herramienta digital para gestionar sus reservas de manera eficiente, especialmente en momentos donde no puede estar disponible. Agilizar la comunicación con sus clientes mediante recordatorios o confirmaciones, para evitar cancelaciones y pérdidas, y a su vez mejorar la experiencia del cliente. A mediano y largo plazo, aumentar la rentabilidad del negocio y trabajar en la apertura de nuevas sucursales.
+Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. Desde niña sintió pasión por el estilismo, lo que la llevó a emprender en este rubro hace tres años. A lo largo de este tiempo, ha aprendido a combinar técnicas, atención personalizada y gestión eficiente para brindar una experiencia de calidad a sus clientes. Se comunica con sus clientes a través de WhatsApp y llamadas, trabaja con una agenda flexible, aunque los cambios de última hora afectan su organización. Acepta pagos en efectivo, transferencias y QR. Su gestión de citas es manual, lo que le demanda tiempo, pero garantiza atención personalizada. Llama a clientes ocasionalmente y ofrece promociones para primeras visitas. Finalmente, una propuesta de mejora sería el implementar una herramienta digital para reservas y gestión de citas. Crear un historial de clientes para mejorar la personalización del servicio. Desarrollar campañas de fidelización y reactivación con beneficios especiales. A largo plazo, proyectar la apertura de una segunda sede.
+
 
 ### Segmento Objetivo 1 (Clientes)
 
@@ -1019,10 +1016,10 @@ Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es pr
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 19 años
 - **Distrito:** San Borja
+- - **Inicio de la entrevista:** 13:44 minutos
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/entrevista1s2.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv)*
-- **Inicio de la entrevista:** 20:00 minutos
-- **Duración:** 33:54 minutos
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=53ZZzK)*
+- **Duración:** 25:48 minutos
 
 **Resumen:** Luis visita el salón o barbería una vez al mes, principalmente para cortes de cabello y afeitado de barba, valorando sobre todo la puntualidad, ubicación cercana y buena atención. Prefiere agendar citas por WhatsApp y pagar mediante aplicaciones digitales como Yape o transferencias, ya que no suele usar efectivo. Aunque no ha utilizado plataformas para reservas, considera útil un sistema que recuerde su perfil e historial de servicios. Destaca la amabilidad del personal como un factor clave para volver, y valora recibir recordatorios por WhatsApp y promociones por correo. Además, le parece importante que los salones tengan presencia activa en redes sociales, especialmente por las promociones que publican.
 
@@ -1030,19 +1027,28 @@ Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es pr
 
 #### Datos del Entrevistado #2
 
+- **Nombre completo:** Allison Milagros Rivera Quispe
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20 años
+- **Distrito:** San Martín de Porres
+- **Inicio de la entrevista:** 17:19 minutos
+- **Duración:** 25:48 minutos
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/Entrevista_2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hiRhHI)*
+**Resumen:**
+  Allison Rivera, de 20 años, es una joven universitaria que visita salones de belleza aproximadamente una vez al mes. Sus servicios más frecuentes son la manicura, el corte de cabello y tratamientos capilares. Su personalidad se refleja en una actitud práctica y confiada: valora la calidad del servicio y la reputación del salón por encima de otros factores como el precio o la ubicación. Prefiere atenderse siempre con el mismo estilista, ya que confía en esa persona y se siente segura con los resultados que obtiene. La puntualidad es un aspecto crítico para ella, ya que busca que el servicio no interfiera con otras actividades de su día, aunque menciona que nunca ha tenido experiencias negativas respecto a esperas. Agenda sus citas por WhatsApp, canal que también prefiere para recibir recordatorios o promociones, junto con las redes sociales. A pesar de ser nativa digital, nunca ha utilizado una aplicación o plataforma especializada para reservas, aunque está abierta a esa posibilidad si mejorará la rapidez de respuesta al momento de agendar. En cuanto a métodos de pago, Allison prefiere transferencias bancarias o apps de pago, evitando el uso de efectivo. También valora que los procesos de reprogramación de citas sean sencillos, experiencia que ha sido positiva para ella hasta ahora. Finalmente, considera que una mejora importante para los salones de belleza sería acelerar el tiempo de respuesta al agendar citas vía WhatsApp, ya que a veces hay demoras que afectan su experiencia como cliente.
+#### Datos del Entrevistado #3
+
 - **Nombre completo:** Allison Naomi Galindo Palomino
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 20 años
 - **Distrito:** Cercado De Lima
-- **Inicio de la entrevista:** 00:50 minutos
-- **Duración:** 4:22 minutos
-- **Screenshot del cuadro de video:** *![Entrevista 02](img/Entrevista_2.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/personal/u202319668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202319668%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%5Fentrevista%5Fcliente%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef71f1d1a%2D48a2%2D4577%2Dbd15%2Db2109b826088)*
+- **Screenshot del cuadro de video:** *![interview_3.jpeg](img/Entrevista_2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=53ZZzK)*
+- **Inicio de la entrevista:** 21:19 minutos
+- **Duración:** 25:48 minutos
 
-**Resumen:**
-Allison Galindo, una universitaria de 20 años que vive en el Cercado de Lima, visita salones de belleza aproximadamente una vez al mes. Suele solicitar servicios como corte de cabello, depilación de cejas y mascarillas faciales. Al elegir un salón, le da importancia a la reputación, la ubicación accesible, precios razonables y una buena atención. Prefiere agendar sus citas por WhatsApp o redes sociales, ya que le resulta más práctico. Siempre se atiende con la misma estilista por confianza y comodidad. Para ella, la puntualidad es clave, ya que ha tenido malas experiencias con esperas prolongadas. Le gusta recibir recordatorios por WhatsApp y prefiere pagar con aplicaciones o tarjeta. Finalmente, sugiere que los salones mejoren en puntualidad, atención al cliente y faciliten más el uso de herramientas digitales.
-
-#### Datos del Entrevistado #3
+**Resumen:** Allison Galindo, una universitaria de 20 años que vive en el Cercado de Lima, visita salones de belleza aproximadamente una vez al mes. Suele solicitar servicios como corte de cabello, depilación de cejas y mascarillas faciales. Al elegir un salón, le da importancia a la reputación, la ubicación accesible, precios razonables y una buena atención. Prefiere agendar sus citas por WhatsApp o redes sociales, ya que le resulta más práctico. Siempre se atiende con la misma estilista por confianza y comodidad. Para ella, la puntualidad es clave, ya que ha tenido malas experiencias con esperas prolongadas. Le gusta recibir recordatorios por WhatsApp y prefiere pagar con aplicaciones o tarjeta. Finalmente, sugiere que los salones mejoren en puntualidad, atención al cliente y faciliten más el uso de herramientas digitales.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -2525,7 +2531,7 @@ Enlace para acceder a la landing page:
 # Anexos
 
 **Anexo A:**<br>
-URL del Needfinding Interviews:
+URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=53ZZzK
 
 **Anexo B:**<br>
-URL del Prototypes Navigation / Product Navigation::
+URL del Prototypes Navigation / Product Navigation: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=0-1&t=NPXJtI3GloAbxeeU-1
