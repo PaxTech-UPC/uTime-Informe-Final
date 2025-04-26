@@ -1154,12 +1154,12 @@ Para el segmento de los salones estilistas o barberos se consideró el momento d
 
 Segmento objetivo #1: Salones de belleza y barberías
    <div align="center">
-      <img src="img/Segmento%20objetivo%20%231_Salones%20de%20belleza%20y%20barberías%20Journey%20Mapping.png" alt="Salones_belleza_barberia"/>
+      <img src="img/UserJourneyMapping1.png" alt="Salones_belleza_barberia"/>
    </div>
 
 Segmento objetivo #2: Clientes de servicios de belleza
    <div align="center">
-      <img src="img/Segmento%20objetivo%20%232_%20Clientes%20de%20servicios%20de%20belleza%20Journey%20Mapping.png" alt=Clientes"/>
+      <img src="img/UserJourneyMapping2.png" alt=Clientes"/>
    </div>
 
 ### 2.3.4. Empathy Mapping.
