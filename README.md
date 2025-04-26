@@ -538,7 +538,7 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <th colspan="2" align="center">Nombre y logo</th>
     <td colspan="1" align="center">
     <p><b>uTime</b></p>
-    <img src="https://i.imgur.com/imQZJ60.png" alt="uTime Logo" width="80">
+    <img src="img/logo.png" alt="uTime Logo">
     </td>
     <td colspan="1" align="center">
     <p><b>Salon Pro</b></p>
