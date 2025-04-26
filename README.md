@@ -55,20 +55,21 @@
 
 <div align='center'>
 
-| Version | Fecha      | Autor                                    | Descripción de modificación                             |
-|---------|------------|------------------------------------------|---------------------------------------------------------|
-| 1.0     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación del documento de trabajo en formato markdown   |
-| 1.1     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
-| 1.2     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
-| 1.3     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
-| 1.4     | 09/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación de los requisitos funcionales y no funcionales |
-| 1.5     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
-| 1.6     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
-| 1.7     |            | Falcon, Julca, Rivera, Varela, Yalán     |                                                         |
-| 1.8     | 16/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación de los User Stories y Technical Stories        |
-| 1.9     | 17/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Creación del Product Backlog                            |
-| 1.10    | 20/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Elaboración del Sprint 1                                |
-| 1.11    | 22/04/2025 | Falcon, Julca, Rivera, Varela, Yalán     | Elaboración de las Conclusiones y Recomendaciones       |
+| Version | Fecha      | Autor                                     | Descripción de modificación                                                                            |
+|---------|------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1.0     | 01/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Creación del documento de trabajo en formato markdown                                                  |
+| 1.1     | 03/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Capitulo I                                                                             |
+| 1.2     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Competidores y Entrevistas                                                              |
+| 1.3     | 07/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Needfinding                                                                            |
+| 1.4     | 08/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del To-Be y Ubiquitous Language                                                            |
+| 1.5     | 09/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Creación de los requisitos funcionales y no funcionales                                                |
+| 1.6     | 11/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Culminación del Capitlo III                                                                            |
+| 1.7     | 13/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Style Guidelines y Information Architecture                                             |
+| 1.8     | 16/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
+| 1.9     | 17/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Web Application Prototyping                                                            |
+| 1.10    | 19/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
+| 1.11    | 22/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Capitulo V                                                                             |
+| 1.12    | 23/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Landing Page                                                                           |
 
 </div>
 
