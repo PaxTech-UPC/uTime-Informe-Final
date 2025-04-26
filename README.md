@@ -1,35 +1,55 @@
+# <center>Informe del Trabajo Final</center>
+<br>
+<center>Universidad Peruana de Ciencias Aplicadas</center>
+<br>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
+<br>
+<center><b>Ingeniería de software</b></center>
+<br>
+<center><b>1ASI0730 Aplicaciones Web</b></center>
+<br>
+<center><b>Sección:</b> 4363</center>
+<br>
+<center><b>Profesor:</b> Sánchez Ponce, Alex Humberto</center>
+<br>
+<center><b>Nombre del StartUp:</b> PaxTech</center>
+<br>
+<center><b>Nombre del Producto:</b> uTime</center>
+<br>
 <div align="center">
 
-# Informe del Trabajo Final
-
-**Universidad Peruana de Ciencias Aplicadas**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
-
-**Ingeniería de software**
-
-**1ASI0730 Aplicaciones Web**
-
-**Sección:** 4363
-
-**Profesor:** Sánchez Ponce, Alex Humberto
-
-**Nombre del StartUp:** PaxTech
-
-**Nombre del Producto:** uTime
-
-
-| Nombre                              | Código     |
-|-------------------------------------|------------|
-| Falcon Hilarion, Fred Wilber        | U202422331 |
-| Julca Cruz, Renso Anthony           | U202121579 |
-| Rivera Sosa, Eduardo Gael           | U202312222 |
-| Varela Bustinza, Marcelo Alessandro | U202319668 |
-| Yalán Zhang, Angie Christina        | U202312504 |
-
-**Ciclo 2025-01**
-
+   <table style="margin-left: auto; margin-right: auto;">
+      <tr>
+         <th>Nombre</th>
+         <th>Código</th>
+      </tr>
+      <tr>
+         <td>Falcon Hilarion, Fred Wilber</td>
+         <td>U202422331</td>
+      </tr>
+      <tr>
+         <td>Julca Cruz, Renso Anthony</td>
+         <td>U202121579</td>
+      </tr>
+      <tr>
+         <td>Rivera Sosa, Eduardo Gael</td>
+         <td>U202312222</td>
+      </tr>
+      <tr>
+         <td>Varela Bustinza, Marcelo Alessandro</td>
+         <td>U202319668</td>
+      </tr>
+      <tr>
+         <td>Yalán Zhang, Angie Christina</td>
+         <td>U202312504</td>
+      </tr>
+   </table>
 </div>
+
+<br>
+<center><b>Ciclo 2025-01</b></center>
+
+
 
 # Registro de Versiones del Informe
 
@@ -80,7 +100,7 @@ Los integrantes son:
 
 - Fred Falcon (barry-91)
 - Renso Julca (rajc02)
-- Gael Rivera (gael-rs)
+- Gael Rivera (gael-rs)     
 - Marcelo Varela (VarBus)
 - Angie Yalán (aaaaangie)
 
