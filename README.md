@@ -2747,7 +2747,7 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa en G
 
 ![GitPage](img/GitHub-Pages.png)
 
-Enlace para acceder a la landing page:
+Enlace para acceder a la landing page: https://paxtech-upc.github.io/uTime-Landing-Page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
