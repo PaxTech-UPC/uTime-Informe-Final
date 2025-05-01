@@ -1,4 +1,5 @@
 <div align="center">
+<div>
 
 # <center>Informe del Trabajo Final</center>
 
@@ -34,6 +35,7 @@
 
 <center><b>Nombre del Producto:</b> uTime</center>
 
+</div>
 
 
 <div align="center">
