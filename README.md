@@ -1,21 +1,41 @@
+<div align="center">
+
 # <center>Informe del Trabajo Final</center>
+
 <br>
+
 <center>Universidad Peruana de Ciencias Aplicadas</center>
+
 <br>
+
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
+
 <br>
+
 <center><b>Ingeniería de software</b></center>
+
 <br>
+
 <center><b>1ASI0730 Aplicaciones Web</b></center>
+
 <br>
+
 <center><b>Sección:</b> 4363</center>
+
 <br>
+
 <center><b>Profesor:</b> Sánchez Ponce, Alex Humberto</center>
+
 <br>
+
 <center><b>Nombre del StartUp:</b> PaxTech</center>
+
 <br>
+
 <center><b>Nombre del Producto:</b> uTime</center>
-<br>
+
+
+
 <div align="center">
 
    <table style="margin-left: auto; margin-right: auto;">
@@ -47,9 +67,10 @@
 </div>
 
 <br>
+
 <center><b>Ciclo 2025-01</b></center>
 
-
+<br>
 
 # Registro de Versiones del Informe
 
