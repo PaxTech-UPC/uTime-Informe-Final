@@ -2826,9 +2826,28 @@ Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024).
 </div>
 
 # Anexos
+**Repositorio en GitHub - uTime (PaxTech):**<br>
 
-**Anexo A:**<br>
-URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=53ZZzK
+https://github.com/UPC-PaxTech/uTime/
 
-**Anexo B:**<br>
+**Herramientas y Recursos Utilizados:**<br>
+
+URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
+
 URL del Prototypes Navigation / Product Navigation: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=0-1&t=NPXJtI3GloAbxeeU-1
+
+URL del Sprint backlog: https://trello.com/invite/b/68097c416c01112f478fcd49/ATTIce689cd7d2ceabb0f986544f256268e63E38CDCA/utime-sprin
+
+URL del diagrama base de datos: https://lucid.app/lucidchart/63a0bb3b-e0d7-4f40-a8de-06bfd352e71a/edit?viewport_loc=-282%2C-231%2C3396%2C1973%2C0_0&invitationId=inv_ea5eb19e-f86b-4c56-9960-565282314eb1
+
+**Cuentas de GitHub de los Integrantes:**<br>
+
+Kevin Chi – @Krillsom
+
+Gael Rivera – @gael-rs
+
+Marcelo Varela – @VarBus
+
+Angie Yalán – @aaaaangie
+
+Jorge Yum – @myussu
