@@ -171,9 +171,9 @@ Se explican las ramas más prominentes:
    2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
    3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)<br>
-   3.2. [User Stories](#32-user-stories)<br>
-   3.3. [Impact Mapping](#33-impact-mapping)<br>
-   3.4. [Product Backlog](#34-product-backlog)<br>
+   3.2. [User Stories](#321-user-stories)<br>
+   3.3. [Impact Mapping](#32-impact-mapping)<br>
+   3.4. [Product Backlog](#33-product-backlog)<br>
 4. [Capítulo IV: Product Design](#capítulo-iv-product-design)<br>
    4.1. [Style Guidelines](#41-style-guidelines)<br>
    4.1.1. [General Style Guidelines](#411-general-style-guidelines)<br>
