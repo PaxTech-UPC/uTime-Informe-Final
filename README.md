@@ -3084,81 +3084,43 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
-**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.
-![Dashboard](img/provider-dashboard-page.png)
-**Seccion de Calendario:** Muestra la informacion de la agenda de cada uno de los trabajadores registrados en el salon.
-![Calendario](img/provider-calendar-page.png)
-**Seccion de Reviews:** Muestra la informacion de las reseñas que han dejado los clientes.
-![Reviews](img/provider-review-page.png)
-**Seccion de Servicios:** Muestra la informacion de los servicios que ofrece el salon.
-![Servicios](img/provider-services-page.png)
-**Seccion de Subscription:** Muestra la informacion del plan de suscripcion que tiene el salon.
-![Subscription](img/provider-subscription-page.png)
-**Seccion de Configuracion:** Muestra la informacion del perfil y permite el cambio de contraseña.
-![Configuracion](img/provider-settings-page.png)
-**Seccion de Perfil:** Muestra la informacion del salon, redes sociales, rating, portfolio y reviews recientes positivas.
-![Perfil](img/provider-profile-page.png)
+**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.<br>
 
-<figure>
-  <img src="img/iam-login.png" alt="Login Page">
-  <figcaption>Pantalla de Inicio de Sesión</figcaption>
-</figure>
+![Login](img/)
 
-<figure>
-  <img src="img/iam-register.png" alt="Register Page">
-  <figcaption>Pantalla de Registro</figcaption>
-</figure>
+**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.<br>
 
-<figure>
-  <img src="img/home-provider.png" alt="Home Provider">
-  <figcaption>Inicio del Proveedor</figcaption>
-</figure>
+![Register](img/)
 
-<figure>
-  <img src="img/provider-reviews.png" alt="Provider Reviews">
-  <figcaption>Reseñas del Proveedor</figcaption>
-</figure>
+**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.<br>
 
-<figure>
-  <img src="img/provider-schedule.png" alt="Provider Schedule">
-  <figcaption>Horario del Proveedor</figcaption>
-</figure>
+![Dashboard](img/)
 
-<figure>
-  <img src="img/provider-profile.png" alt="Provider Profile">
-  <figcaption>Perfil del Proveedor</figcaption>
-</figure>
+**Seccion de Calendario:** Muestra la informacion de la agenda de cada uno de los trabajadores registrados en el salon.<br>
 
-<figure>
-  <img src="img/provider-services.png" alt="Provider Services">
-  <figcaption>Servicios del Proveedor</figcaption>
-</figure>
+![Calendario](img/)
 
-<figure>
-  <img src="img/provider-setting.png" alt="Provider Setting">
-  <figcaption>Configuración del Proveedor</figcaption>
-</figure>
+**Seccion de Reviews:** Muestra la informacion de las reseñas que han dejado los clientes.<br>
 
-<figure>
-  <img src="img/client-dashboard.png" alt="Client Dashboard">
-  <figcaption>Panel del Cliente</figcaption>
-</figure>
+![Reviews](img/)
 
-<figure>
-  <img src="img/client-appointments.png" alt="Client Appointments">
-  <figcaption>Citas del Cliente</figcaption>
-</figure>
+**Seccion de Servicios:** Muestra la informacion de los servicios que ofrece el salon.<br>
 
-<figure>
-  <img src="img/client-favorites.png" alt="Client Favorites">
-  <figcaption>Favoritos del Cliente</figcaption>
-</figure>
+![Servicios](img/)
 
-<figure>
-  <img src="img/client-profile.png" alt="Client Profile">
-  <figcaption>Perfil del Cliente</figcaption>
-</figure>
+**Seccion de Subscription:** Muestra la informacion del plan de suscripcion que tiene el salon.<br>
 
+![Subscription](img/)
+
+**Seccion de Configuracion:** Muestra la informacion del perfil y permite el cambio de contraseña.<br>
+
+![Configuracion](img/)
+
+**Seccion de Perfil:** Muestra la informacion del salon, redes sociales, rating, portfolio y reviews recientes positivas.<br>
+
+![Perfil](img/)
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
@@ -3166,9 +3128,9 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 Durante el Sprint 2, se realizó la segmentación de tareas por features y se asignaron a los miembros del equipo de acuerdo a sus habilidades y experiencia. Esto permitió una mejor distribucion de las tareas y un avance mas fluido en el desarrollo.
 
-![NetworkGraph](img/networkgraph-sprint2.png)
+![NetworkGraph]()
 
-![Contributors](img/contributors-sprint2.png)
+![Contributors]()
 
 # Conclusiones
 
@@ -3239,9 +3201,13 @@ https://github.com/PaxTech-UPC/uTime-Informe-Final
 
 https://github.com/PaxTech-UPC/Frontend-Web-Applications
 
-**Repositorio en GitHub - uTime (Paxtech) - Landing Page**<br>
+**URL de la Landing Page Deployada**<br>
 
 https://github.com/UPC-PaxTech/uTime-Landing-Page
+
+**URL de la FrontEnd Web Application**<br>
+
+
 
 URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
 
