@@ -2736,6 +2736,12 @@ Enlace para acceder a la landing page: https://paxtech-upc.github.io/uTime-Landi
 | Yalán Zhang, Angie Christina           | Implementación de Testimonio de la Landing Page                     |
 | Falcon Hilarion, Fred Wilber           | Implementación de Planes y Precios de la Landing Page               |
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2.
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #2 dio inicio el 27/04/2025, y su meta consiste en implementar la aplicación web del lado frontend utilizando Angular y Angular Material. Durante este Sprint, se desarrollaron las funcionalidades esenciales tanto para los clientes como para los proveedores: los clientes pueden explorar diferentes salones de belleza y realizar reservas de manera intuitiva, mientras que los proveedores tienen acceso a herramientas de gestión que les permiten configurar precios, administrar sus servicios y visualizar las citas asignadas a cada trabajador.
+
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
