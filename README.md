@@ -2809,6 +2809,9 @@ Para este Sprint, se han identificado los principales aspectos del frontend web 
 | Yalán Zhang, Angie Christina        | aaaaangie           | C                | C             | L             | C       | C           | C          | C           | C            | C            | C          | L                |
 
 
+#### 5.2.2.3.Sprint Backlog 2.
+
+En el segundo sprint backlog, el equipo tuvo la intención de comenzar y completar el desarrollo del frontend de la aplicación web, tanto para el rol de cliente como de proveedor. La herramienta utilizada para organizar y gestionar las tareas del equipo continuó siendo Trello, permitiendo dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades específicas. El objetivo principal del sprint fue implementar las funcionalidades clave de ambos roles, asegurando una interfaz intuitiva, responsiva y funcional utilizando Angular y Angular Material.
 
 
 # Conclusiones
