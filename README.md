@@ -2813,6 +2813,362 @@ Para este Sprint, se han identificado los principales aspectos del frontend web 
 
 En el segundo sprint backlog, el equipo tuvo la intención de comenzar y completar el desarrollo del frontend de la aplicación web, tanto para el rol de cliente como de proveedor. La herramienta utilizada para organizar y gestionar las tareas del equipo continuó siendo Trello, permitiendo dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades específicas. El objetivo principal del sprint fue implementar las funcionalidades clave de ambos roles, asegurando una interfaz intuitiva, responsiva y funcional utilizando Angular y Angular Material.
 
+<table border="1" cellspacing="0" cellpadding="5">
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 2</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Title</b></td>
+      <td><b>Id</b></td>
+      <td><b>Title</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status (To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="3">US17</td>
+      <td rowspan="3">Selección de salón</td>
+      <td>T1</td>
+      <td>Diseño de interfaz de selección</td>
+      <td>Diseñar una interfaz para que el cliente pueda buscar y seleccionar un salón de belleza o barbería.</td>
+      <td>3</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Implementación de búsqueda</td>
+      <td>Implementar funcionalidad de búsqueda de salones por nombre, ubicación o categoría.</td>
+      <td>4</td>
+      <td>Marcelo Varela</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Pruebas de selección</td>
+      <td>Realizar pruebas para asegurar que el cliente pueda seleccionar correctamente un salón.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">TS09</td>
+      <td rowspan="1">Crear endpoint para agendar citas</td>
+      <td>T1</td>
+      <td>Diseño de la estructura de datos</td>
+      <td>Definir el modelo de datos necesario para crear una cita (cliente, salón, fecha, hora, servicio).</td>
+      <td>3</td>
+      <td>Angie Yalán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US18</td>
+      <td rowspan="2">Creación de citas</td>
+      <td>T1</td>
+      <td>Interfaz de selección de fecha y hora</td>
+      <td>Diseñar e implementar la interfaz para que el cliente seleccione fecha y hora disponibles.</td>
+      <td>3</td>
+      <td>Kevin Chi</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Validación de disponibilidad</td>
+      <td>Verificar que el horario elegido esté disponible antes de agendar la cita.</td>
+      <td>2</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">TS04</td>
+      <td rowspan="1">Actualización en tiempo real de horarios y citas</td>
+      <td>T1</td>
+      <td>Actualizar interfaz de horarios</td>
+      <td>Modificar la interfaz para reflejar los cambios de disponibilidad en tiempo real.</td>
+      <td>3</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US19</td>
+      <td rowspan="3">Visualización de citas agendadas</td>
+      <td>T1</td>
+      <td>Diseñar sección de citas</td>
+      <td>Diseñar la interfaz donde se mostrarán las citas agendadas del cliente.</td>
+      <td>3</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollar componente de citas</td>
+      <td>Implementar el componente que muestra las citas futuras con fecha, hora y ubicación.</td>
+      <td>4</td>
+      <td>Angie Yalan</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Crear endpoint GET /horarios</td>
+      <td>Desarrollar el endpoint que retorna los horarios disponibles del salón.</td>
+      <td>3</td>
+      <td>Renso Julca</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Administración de servicios ofrecidos</td>
+      <td>T1</td>
+      <td>Diseño de formulario</td>
+      <td>Crear diseño para agregar, editar o eliminar servicios.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Implementación del formulario</td>
+      <td>Desarrollar el formulario en el frontend para la gestión de servicios.</td>
+      <td>3</td>
+      <td>Angie Yalán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">US23</td>
+      <td rowspan="1">Gestión de trabajadores</td>
+      <td>T1</td>
+      <td>Diseño de interfaz para gestión de trabajadores</td>
+      <td>Diseñar una vista donde se puedan agregar y eliminar trabajadores.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US10</td>
+      <td rowspan="2">Configuración de los horarios</td>
+      <td>T1</td>
+      <td>Diseño de interfaz para configuración de horarios</td>
+      <td>Diseñar la vista donde se configuren días y horas de atención por trabajador.</td>
+      <td>2</td>
+      <td>Kevin Chi</td>
+      <td>In-Proses</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Validación de horarios</td>
+      <td>Evitar que se ingresen horarios inválidos o superpuestos.</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US09</td>
+      <td rowspan="2">Visualización de los horarios</td>
+      <td>T1</td>
+      <td>Diseño de la interfaz de visualización</td>
+      <td>Crear un diseño claro y accesible para mostrar los horarios disponibles de cada trabajador.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Actualización dinámica</td>
+      <td>Permitir que los cambios en los horarios se reflejen automáticamente en la vista.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US14</td>
+      <td rowspan="3">Contratación de plan de suscripción</td>
+      <td>T1</td>
+      <td>Diseño de la vista de planes</td>
+      <td>Diseñar una interfaz donde el usuario pueda ver y seleccionar un plan disponible.</td>
+      <td>2</td>
+      <td>Angie Yalán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Integración con sistema de pagos</td>
+      <td>Conectar el sistema con la pasarela de pagos para procesar la contratación del plan.</td>
+      <td>4</td>
+      <td>Renso Julca</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Actualización de estado de suscripción</td>
+      <td>Actualizar automáticamente el estado del usuario una vez realizada la compra del plan.</td>
+      <td>2</td>
+      <td>Marcelo Varela</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US05</td>
+      <td rowspan="2">Edición del perfil del cliente</td>
+      <td>T1</td>
+      <td>Diseño del formulario de edición</td>
+      <td>Diseñar la vista del formulario para modificar nombre, correo, contraseña, número, etc.</td>
+      <td>2</td>
+      <td>Angie Yán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Actualización del fake api</td>
+      <td>Actualizar los datos del cliente en el fake api cuando se envíen los cambios.</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">US07</td>
+      <td rowspan="1">Cierre de sesión</td>
+      <td>T1</td>
+      <td>Implementación del botón "Cerrar sesión"</td>
+      <td>Agregar un botón visible en la interfaz para cerrar sesión del usuario.</td>
+      <td>1</td>
+      <td>Kevin Chi</td>
+      <td>Done</td>
+   </tr>
+ <tr>
+      <td rowspan="2">US01</td>
+      <td rowspan="2">Registro de un cliente</td>
+      <td>T1</td>
+      <td>Diseño del formulario de registro</td>
+      <td>Diseñar el formulario de registro con campos requeridos como nombre, correo y contraseña.</td>
+      <td>2</td>
+      <td>Angie Yalán</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Implementación del formulario en frontend</td>
+      <td>Codificar el formulario de registro usando Angular/AngularMaterial.</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US02</td>
+      <td rowspan="2">Registro de un salón de belleza/barbería</td>
+      <td>T1</td>
+      <td>Diseño del formulario de registro de salón</td>
+      <td>Diseñar la interfaz con campos para registrar nombre del negocio, dirección, rubro y contacto.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Implementación frontend del formulario</td>
+      <td>Codificar el formulario para el registro del salón en la plataforma.</td>
+      <td>2</td>
+      <td>Renso Julca</td>
+      <td>Done</td>
+   </tr>
+</table>
+
+Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.
+![Dashboard](img/provider-dashboard-page.png)
+**Seccion de Calendario:** Muestra la informacion de la agenda de cada uno de los trabajadores registrados en el salon.
+![Calendario](img/provider-calendar-page.png)
+**Seccion de Reviews:** Muestra la informacion de las reseñas que han dejado los clientes.
+![Reviews](img/provider-review-page.png)
+**Seccion de Servicios:** Muestra la informacion de los servicios que ofrece el salon.
+![Servicios](img/provider-services-page.png)
+**Seccion de Subscription:** Muestra la informacion del plan de suscripcion que tiene el salon.
+![Subscription](img/provider-subscription-page.png)
+**Seccion de Configuracion:** Muestra la informacion del perfil y permite el cambio de contraseña.
+![Configuracion](img/provider-settings-page.png)
+**Seccion de Perfil:** Muestra la informacion del salon, redes sociales, rating, portfolio y reviews recientes positivas.
+![Perfil](img/provider-profile-page.png)
+
+<figure>
+  <img src="img/iam-login.png" alt="Login Page">
+  <figcaption>Pantalla de Inicio de Sesión</figcaption>
+</figure>
+
+<figure>
+  <img src="img/iam-register.png" alt="Register Page">
+  <figcaption>Pantalla de Registro</figcaption>
+</figure>
+
+<figure>
+  <img src="img/home-provider.png" alt="Home Provider">
+  <figcaption>Inicio del Proveedor</figcaption>
+</figure>
+
+<figure>
+  <img src="img/provider-reviews.png" alt="Provider Reviews">
+  <figcaption>Reseñas del Proveedor</figcaption>
+</figure>
+
+<figure>
+  <img src="img/provider-schedule.png" alt="Provider Schedule">
+  <figcaption>Horario del Proveedor</figcaption>
+</figure>
+
+<figure>
+  <img src="img/provider-profile.png" alt="Provider Profile">
+  <figcaption>Perfil del Proveedor</figcaption>
+</figure>
+
+<figure>
+  <img src="img/provider-services.png" alt="Provider Services">
+  <figcaption>Servicios del Proveedor</figcaption>
+</figure>
+
+<figure>
+  <img src="img/provider-setting.png" alt="Provider Setting">
+  <figcaption>Configuración del Proveedor</figcaption>
+</figure>
+
+<figure>
+  <img src="img/client-dashboard.png" alt="Client Dashboard">
+  <figcaption>Panel del Cliente</figcaption>
+</figure>
+
+<figure>
+  <img src="img/client-appointments.png" alt="Client Appointments">
+  <figcaption>Citas del Cliente</figcaption>
+</figure>
+
+<figure>
+  <img src="img/client-favorites.png" alt="Client Favorites">
+  <figcaption>Favoritos del Cliente</figcaption>
+</figure>
+
+<figure>
+  <img src="img/client-profile.png" alt="Client Profile">
+  <figcaption>Perfil del Cliente</figcaption>
+</figure>
+
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2, se realizó la segmentación de tareas por features y se asignaron a los miembros del equipo de acuerdo a sus habilidades y experiencia. Esto permitió una mejor distribucion de las tareas y un avance mas fluido en el desarrollo.
+
+![NetworkGraph](img/networkgraph-sprint2.png)
+
+![Contributors](img/contributors-sprint2.png)
 
 # Conclusiones
 
@@ -2820,36 +3176,27 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
 
 ### Conclusiones
 
-- El proyecto uTime demostró que existe una necesidad real y no atendida en el sector de la belleza relacionada con la gestión eficiente de citas.
+- La corrección de los ítems observados en la primera entrega (TB1) permitió al equipo mejorar significativamente la calidad del proyecto, alineándose mejor con los requerimientos del curso.
 
+- La elaboración del Sprint 2, junto con su planificación y backlog, fortaleció la organización interna del equipo y permitió una gestión más efectiva de las tareas y tiempos.
 
-- La implementación del enfoque Lean UX permitió validar rápidamente hipótesis y mejorar la solución con base en retroalimentación real de usuarios.
+- La creación del diagrama de clases fue clave para definir de manera clara la estructura y relación entre los componentes del sistema, facilitando su implementación posterior.
 
+- El repositorio del proyecto FrontEnd en GitHub brindó una base organizada y accesible para el desarrollo colaborativo, asegurando el control de versiones y la trazabilidad del avance.
 
-- La colaboración multidisciplinaria dentro del equipo de PaxTech fue fundamental para abordar el proyecto de forma integral, combinando habilidades técnicas, de diseño y de análisis de usuario.
-
-
-- La documentación detallada, el uso de metodologías ágiles (Scrum) y la arquitectura basada en dominios garantizaron una solución escalable y mantenible.
-
-
-- El desarrollo de la plataforma uTime fortaleció la comprensión del ciclo completo de diseño y desarrollo de productos digitales, desde la investigación de usuarios hasta la implementación y despliegue.
-
-
-- Se ha avanzado significativamente en la construcción de una base conceptual y técnica sólida que permitirá un desarrollo más eficiente en las siguientes fases.
+- La elaboración de evidencias de ejecución, documentación de servicios y despliegue del software validaron el cumplimiento de los objetivos del sprint, reforzando la importancia de documentar cada fase del proceso.
 
 ### Recomendaciones
 
-- Profundizar en la validación de las necesidades del usuario a través de métodos adicionales como encuestas o pruebas de concepto, para reforzar la base del diseño centrado en el usuario.
+- Continuar con la documentación detallada de cada fase del desarrollo, especialmente en los próximos sprints, para mantener una trazabilidad clara del trabajo realizado.
 
+- Revisar constantemente los entregables previos para asegurar que se han corregido adecuadamente los ítems observados y no repetir los mismos errores en futuras entregas.
 
-- Continuar fortaleciendo el uso de metodologías ágiles dentro del equipo, especialmente en la planificación de sprints y la documentación de retrospectivas.
+- Mantener el uso activo y ordenado del repositorio de código, asegurando que todos los miembros del equipo sigan buenas prácticas de versionamiento y documentación de commits.
 
+- Profundizar en la planificación de sprints futuros, identificando claramente las tareas críticas y los posibles riesgos, para mejorar la eficiencia del equipo.
 
-
-- Documentar con mayor detalle las decisiones de diseño y arquitectura para facilitar la comprensión del proyecto por parte de los docentes evaluadores y compañeros.
-
-
-- Evaluar críticamente los avances realizados y contrastarlos con los entregables definidos en el sílabo del curso, asegurando que cada parte del proyecto cumpla con los criterios de evaluación establecidos.
+- Validar con los docentes y el sílabo que todas las evidencias generadas (review, services, deployment) cumplan con los criterios de evaluación establecidos, evitando omisiones en la entrega final.
 
 
 # Bibliografía
@@ -2881,28 +3228,32 @@ Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024).
 </div>
 
 # Anexos
-**Repositorio en GitHub - uTime (PaxTech):**<br>
-
-<<<<<<< HEAD
-**Anexo A:**<br>
-URL del Needfinding Interviews: *[Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/ETEnF0fv6DBJvrVz9UOYdVcBOTatWCLJbsBjg4Jb-wx66Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=53ZZzK)*
-=======
-https://github.com/UPC-PaxTech/uTime/
->>>>>>> feature/bibliography
 
 **Herramientas y Recursos Utilizados:**<br>
+
+**Repositorio en GitHub - uTime Informe (PaxTech):**<br>
+
+https://github.com/PaxTech-UPC/uTime-Informe-Final
+
+**Repositorio en GitHub - uTime (Paxtech) - Frontend Web Applications**<br>
+
+https://github.com/PaxTech-UPC/Frontend-Web-Applications
+
+**Repositorio en GitHub - uTime (Paxtech) - Landing Page**<br>
+
+https://github.com/UPC-PaxTech/uTime-Landing-Page
 
 URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
 
 URL del Prototypes Navigation / Product Navigation: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=0-1&t=NPXJtI3GloAbxeeU-1
 
-URL del Sprint backlog: https://trello.com/invite/b/68097c416c01112f478fcd49/ATTIce689cd7d2ceabb0f986544f256268e63E38CDCA/utime-sprin
+URL del Sprint backlog 1: https://trello.com/invite/b/68097c416c01112f478fcd49/ATTIce689cd7d2ceabb0f986544f256268e63E38CDCA/utime-sprin
 
 URL del diagrama base de datos: https://lucid.app/lucidchart/63a0bb3b-e0d7-4f40-a8de-06bfd352e71a/edit?viewport_loc=-282%2C-231%2C3396%2C1973%2C0_0&invitationId=inv_ea5eb19e-f86b-4c56-9960-565282314eb1
 
 **Cuentas de GitHub de los Integrantes:**<br>
 
-Kevin Chi – @Krillsom
+Renzo Julca – @Krillsom
 
 Gael Rivera – @gael-rs
 
@@ -2910,4 +3261,3 @@ Marcelo Varela – @VarBus
 
 Angie Yalán – @aaaaangie
 
-Jorge Yum – @myussu
