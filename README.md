@@ -2797,6 +2797,20 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 </tr>
 </table>
 
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+Para este Sprint, se han identificado los principales aspectos del frontend web application de Utime. Con el fin de mejorar la organización y la comunicación del equipo, se ha elaborado la matriz Leadership and Collaboration Matrix (LACX), donde se define quién asume el rol de Líder (L) y quiénes participan como Colaboradores (C) en cada uno de estos aspectos clave. Esta distribución facilita una ejecución más clara y eficiente de las tareas asignadas.
+
+| **Team Member**                     | **GitHub Username** | **Appointments** | **Dashboard** | **Favorites** | **Iam** | **Profile** | **Public** | **Reviews** | **Schedule** | **Services** | **Shared** | **Subscription** |
+|-------------------------------------|---------------------|------------------|---------------|---------------|---------|-------------|------------|-------------|--------------|--------------|------------|------------------|
+| Julca Cruz , Renso Anthony          | rajc02              | C                | C             | C             | C       | L           | C          | C           | C            | L            | C          | C                |
+| Rivera Sosa, Eduardo Gael           | gael-rs             | C                | C             | C             | L       | C           | L          | C           | C            | C            | C          | C                |
+| Varela Bustinza, Marcelo Alessandro | VarBus              | L                | C             | C             | C       | C           | C          | C           | L            | C            | C          | C                |
+| Yalán Zhang, Angie Christina        | aaaaangie           | C                | C             | L             | C       | C           | C          | C           | C            | C            | C          | L                |
+
+
+
+
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
