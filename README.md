@@ -2734,13 +2734,68 @@ Enlace para acceder a la landing page: https://paxtech-upc.github.io/uTime-Landi
 | Rivera Sosa, Eduardo Gael              | Implementación del Inicio de Sessión de la Landing Page             |
 | Varela Bustinza, Marcelo Alessandro    | Implementación del Contacto y Soporte y About Us de la Landing Page |
 | Yalán Zhang, Angie Christina           | Implementación de Testimonio de la Landing Page                     |
-| Falcon Hilarion, Fred Wilber           | Implementación de Planes y Precios de la Landing Page               |
 
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1.Sprint Planning 2.
 
 Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #2 dio inicio el 27/04/2025, y su meta consiste en implementar la aplicación web del lado frontend utilizando Angular y Angular Material. Durante este Sprint, se desarrollaron las funcionalidades esenciales tanto para los clientes como para los proveedores: los clientes pueden explorar diferentes salones de belleza y realizar reservas de manera intuitiva, mientras que los proveedores tienen acceso a herramientas de gestión que les permiten configurar precios, administrar sus servicios y visualizar las citas asignadas a cada trabajador.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 2</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-04-27</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Kevin Chi, Gael Rivera, Marcelo Varela, Angie Yalán y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 2 Review Summary</b></td>
+      <td colspan="1">Durante este sprint se implementó el frontend de la aplicación web utilizando Angular y Angular Material, incorporando las funcionalidades principales para los roles de cliente y proveedor. Además, se resolvieron pendientes del Sprint 1: se agregó el switcher de idioma en la landing page, se corrigió el renderizado del logo y se aplicaron mejoras visuales a la interfaz</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 2 Retrospective Summary</b></td>
+      <td colspan="1">Se identificó la necesidad de mejorar la planificación de tareas y la integración temprana de pruebas para evitar retrabajos. También se destacó una mayor fluidez en la comunicación del equipo respecto al sprint anterior, lo que permitió avanzar con mayor claridad en los entregables.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> developing the full web application frontend using Angular and Angular Material, addressing both customer and provider user roles.<br><b>We believe it delivers</b>a functional and responsive interface that supports key actions such as booking services for customers and managing appointments and pricing for providers.<br><b>This will be confirmed when</b> customers can successfully explore available salons and make reservations, and providers are able to configure their services, view appointments per worker, and interact with their dashboards smoothly.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Velocity</b></td>
+      <td colspan="1"></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1"></td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
 
 # Conclusiones
 
