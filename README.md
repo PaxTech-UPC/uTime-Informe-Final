@@ -82,21 +82,32 @@
 
 <div align='center'>
 
-| Version | Fecha      | Autor                                     | Descripción de modificación                                                                            |
-|---------|------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| 1.0     | 01/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Creación del documento de trabajo en formato markdown                                                  |
-| 1.1     | 03/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Capitulo I                                                                             |
-| 1.2     | 05/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Competidores y Entrevistas                                                              |
-| 1.3     | 07/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Needfinding                                                                            |
-| 1.4     | 08/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del To-Be y Ubiquitous Language                                                            |
-| 1.5     | 09/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Creación de los requisitos funcionales y no funcionales                                                |
-| 1.6     | 11/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Culminación del Capitlo III                                                                            |
-| 1.7     | 13/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Style Guidelines y Information Architecture                                             |
-| 1.8     | 16/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
-| 1.9     | 17/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Web Application Prototyping                                                            |
-| 1.10    | 19/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
-| 1.11    | 22/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Capitulo V                                                                             |
-| 1.12    | 23/04/2025 | Falcon, Julca, Rivera, Varela, Yalán      | Elaboración del Landing Page                                                                           |
+| Version | Fecha        | Autor                        | Descripción de modificación                                                                            |
+|---------|--------------|------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1.0     | 01/04/2025   | Julca, Rivera, Varela, Yalán | Creación del documento de trabajo en formato markdown                                                  |
+| 1.1     | 03/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Capitulo I                                                                             |
+| 1.2     | 05/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Competidores y Entrevistas                                                              |
+| 1.3     | 07/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Needfinding                                                                            |
+| 1.4     | 08/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del To-Be y Ubiquitous Language                                                            |
+| 1.5     | 09/04/2025   | Julca, Rivera, Varela, Yalán | Creación de los requisitos funcionales y no funcionales                                                |
+| 1.6     | 11/04/2025   | Julca, Rivera, Varela, Yalán | Culminación del Capitlo III                                                                            |
+| 1.7     | 13/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Style Guidelines y Information Architecture                                             |
+| 1.8     | 16/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
+| 1.9     | 17/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Web Application Prototyping                                                            |
+| 1.10    | 19/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
+| 1.11    | 22/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Capitulo V                                                                             |
+| 1.12    | 23/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Landing Page                                                                           |
+| 2.0     | 27/04/2025   | Julca, Rivera, Varela, Yalán | Corrección de los items mencionados en la primera entrega (TB1)                                        |
+| 2.1     | 29/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Sprint 2                                                                               |
+| 2.2     | 01/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Diagrama de clases                                                                     |
+| 2.3     | 02/04/2025   | Julca, Rivera, Varela, Yalán | Creación del Proyecto en el Repositorio de FrontEnd Web Application                                    |
+| 2.4     | 03/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Sprint Planing                                                                            |
+| 2.5     | 05/04/2025   | Julca, Rivera, Varela, Yalán | Creación del Sprint Backlog                                                                            |
+| 2.6     | 10/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Execution Evidence for Sprint Review.                                                  |
+| 2.6     | 12/04/2025   | Julca, Rivera, Varela, Yalán | Creación del Services Documentation Evidence for Sprint Review.                                        |
+| 2.6     | 14/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Software Deployment Evidence for Sprint Review.                                           |
+
+
 
 </div>
 
@@ -112,11 +123,12 @@ para cada integrante del equipo:
 
 | Integrantes    | Tareas Asignadas                                                                                                                                                                   |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Fred Falcon    | Análisis de Entrevistas, Entrevistas, Gherkin, Sprint 1, User Tasks Matrix                                                                                                         |
 | Renso Julca    | Entrevistas, Preguntas de las entrevistas, Registro de Entrevistas, Software Configuration Managment, User Stories, Gherkin.                                                       |
 | Gael Rivera    | Análisis de competidores, Estrategias y tácticas frente a competidores, Entrevistas, Ubiquitous Language, User Stories, Product Backlog, Database Diagram, Landing Page, Sprint 1. |
 | Marcelo Varela | Antecedentes y problemática, Registro de entrevistas, User persona, Empathy mapping, Impact mapping, User stories, Functional requirements, Organization systems, Labeling System  |
 | Angie Yalán    | Startup Profile, Solution Profile, Segmento Objetivo, Lean UX Process, Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping.        |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
 
 **Github Collaboration Insights**
 
@@ -126,7 +138,6 @@ de versiones.
 
 Los integrantes son:
 
-- Fred Falcon (barry-91)
 - Renso Julca (rajc02)
 - Gael Rivera (gael-rs)     
 - Marcelo Varela (VarBus)
@@ -139,6 +150,11 @@ Se explican las ramas más prominentes:
 **develop:** Es la rama principal para el proceso de desarrollo del proyecto. En ella se integran las funcionalidades completadas antes de ser fusionadas a la rama main.<br>
 
 **feature/feature-description-name:** Es una rama creada para trabajar en una nueva funcionalidad o tarea específica. Se basa en develop y, una vez terminada la tarea, se fusiona nuevamente con develop para integrar los cambios al proyecto principal.
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
+
+![NetworkGraph]()
+![Contributors]()
 
 # Contenido
 
