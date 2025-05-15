@@ -3134,7 +3134,7 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 **Seccion de Subscription:** Muestra la informacion del plan de suscripcion que tiene el salon.<br>
 
-![Subscription](img/)
+![Subscription](img/subscription.png)
 
 **Seccion de Configuracion:** Muestra la informacion del perfil y permite el cambio de contraseña.<br>
 
