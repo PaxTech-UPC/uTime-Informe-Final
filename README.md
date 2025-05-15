@@ -3128,6 +3128,9 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 ![Reviews](img/reviews.png)
 
+**Seccion de Servicios: Muestra la informacion de los servicios que ofrece el salon.
+![Services](img/services.png)
+
 **Seccion de Subscription:** Muestra la informacion del plan de suscripción que tiene el salon.<br>
 
 ![Subscription](img/subscription.png)
