@@ -3148,6 +3148,114 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+Durante este sprint, se avanzó en el desarrollo del módulo de reservas de la aplicación UTime, enfocada en conectar a clientes con proveedores de servicios de belleza y bienestar. Se implementaron funcionalidades clave como navegación por roles, simulación de consumo de datos y filtrado de citas mediante un servicio base (BaseApiService), sin necesidad de backend real.
+
+**1. Sistema de Rutas (Vue Router):**
+Se estructuraron rutas de forma modular y semántica para distintos tipos de usuarios:
+
+![codigo_3.png](img/codigo_3.png)
+
+**IAM (Gestión de autenticación):**
+/iam/login – Inicio de sesión.
+
+/iam/register – Registro de nuevos usuarios.
+
+**Cliente:**
+/client/homeClient – Pantalla principal del cliente.
+
+/client/appointments – Lista de citas agendadas.
+
+/client/favorites – Vista de salones favoritos.
+
+/client/profile – Perfil personal del cliente.
+
+/client/salonProfile/:salonId – Vista de perfil de salón específico.
+
+/client/salonProfile/:salonId/appointments – Agendamiento con proveedor.
+
+**Proveedor:**
+/provider/homeProvider – Panel de control del proveedor.
+
+/provider/schedule – Gestión de horarios.
+
+/provider/reviews – Reseñas recibidas.
+
+/provider/subscription – Gestión de suscripciones.
+
+**2. BaseApiService – Simulación de Servicios**
+Se creó una clase base (BaseApiService) que simula llamadas a una API RESTful utilizando axios, permitiendo realizar operaciones CRUD de manera abstracta:
+
+![codigo_2.png](img/codigo_2.png)
+
+export default class BaseApiService<T> {
+constructor(private endpoint: string) {}
+
+async getAll(): Promise<T[]> {
+const response = await http.get<T[]>(this.endpoint);
+return response.data;
+}
+
+async getById(id: number): Promise<T> {
+const response = await http.get<T>(`${this.endpoint}/${id}`);
+return response.data;
+}
+
+async create(item: T): Promise<T> {
+const response = await http.post<T>(this.endpoint, item);
+return response.data;
+}
+
+async update(id: number, item: T): Promise<T> {
+const response = await http.put<T>(`${this.endpoint}/${id}`, item);
+return response.data;
+}
+
+async delete(id: number): Promise<void> {
+await http.delete(`${this.endpoint}/${id}`);
+}
+}
+
+Esta clase permitió:
+
+Simular el manejo de citas (Appointment), usuarios (User), y horarios (Schedule).
+
+Reutilizar lógica común para todos los endpoints ficticios definidos.
+
+**3. Calendario Semanal Interactivo**
+Se desarrolló un componente personalizado de calendario semanal, que permite a los usuarios visualizar las reservas existentes por día de la semana y hora específica. Este calendario se renderiza como una grilla de 7 columnas (de lunes a domingo) y múltiples filas (una por hora, desde las 7:00 hasta las 23:00).
+
+Características destacadas:
+Muestra todas las reservas organizadas por trabajador, permitiendo filtrar con el botón de navegación (<, >).
+
+Cada celda del calendario representa un bloque horario de un día, y si hay una reserva en esa hora, se renderiza dinámicamente con el componente ReservationComponent.
+
+Las fechas y horas se formatean en UTC para consistencia horaria.
+
+![codigo_1.png](img/codigo_1.png) 
+
+filteredAppointments(day, hour) {
+return this.calendars.filter(appointment => {
+const appointmentDay = this.formatDay(appointment.timeSlot.start);
+const appointmentTime = this.formatTime(appointment.timeSlot.start);
+const matchesWorker = this.currentWorker === 'Todos' || appointment.worker.name === this.currentWorker;
+return appointmentDay === day && appointmentTime === hour && matchesWorker;
+});
+}
+
+Esta estructura permite al usuario visualizar rápidamente la disponibilidad y ocupación horaria, siendo ideal para servicios donde el manejo eficiente del tiempo es clave.
+
+
+
+**Logros del Sprint**
+
+Navegación completa entre interfaces de cliente y proveedor.
+
+Simulación funcional de datos sin necesidad de backend.
+
+Visualización y filtrado efectivo de citas por proveedor y calendario semanal interactivo.
+
+Modularización de servicios usando una clase genérica y reusable.
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
