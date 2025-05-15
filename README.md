@@ -3104,21 +3104,25 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
-**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.<br>
+**Seccion de Login:** Muestra el formulario de login .<br>
 
-![Login](img/)
+![Login](img/login.png)
 
-**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.<br>
+**Seccion de Register:** Muestra el formulario para que el cliente pueda registrarse.<br>
 
-![Register](img/)
+![Register](img/register_client.png)
 
-**Seccion de Dashboard:** Muestra la informacion de citas proximas, trabajadores y reseñas sin leer.<br>
+**Seccion de Dashboard:** Muestra el formulario para que el provider pueda registrarse.<br>
 
-![Dashboard](img/)
+![Dashboard](img/register_provider.png)
+
+**Seccion de Dashboard:** Muestra el dashboard del provider, la página que visualizará inicialmente.<br>
+
+![Dashboard](img/dashboard_provider.png)
 
 **Seccion de Calendario:** Muestra la informacion de la agenda de cada uno de los trabajadores registrados en el salon.<br>
 
-![Calendario](img/)
+![Calendario](img/provider_schedule.png)
 
 **Seccion de Reviews:** Muestra la informacion de las reseñas que han dejado los clientes.<br>
 
