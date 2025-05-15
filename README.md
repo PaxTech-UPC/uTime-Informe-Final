@@ -2180,11 +2180,11 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
-      <td colspan="1">13</td>
+      <td colspan="1">58</td>
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sum of Story Points</b></td>
-      <td colspan="1">13</td>
+      <td colspan="1">58</td>
    </tr>
 
    <tr>
@@ -2209,7 +2209,7 @@ Para este Sprint, se han identificado los principales aspectos del desarrollo de
 
 El primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint es construir en su totalidad la landing page, logrando que sea atractiva y funcional.
 
-![Trello-Sprint-Backlog-1](img/Trello-Sprint-Backlog-1.jpg)
+![Trello-Sprint-Backlog-2](img/Trello-Sprint-Backlog-2.jpg)
 
 Enlace para acceder al Trello: [Trello Sprint Backlog 1](https://trello.com/invite/b/N848Nsqq/ATTIbf675ae8e86a38ec44997499f61ba49a056C9D6D/utime-sprint)
 
