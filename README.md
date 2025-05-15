@@ -3098,7 +3098,6 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
    </tr>
 </table>
 
-Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
