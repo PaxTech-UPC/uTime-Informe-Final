@@ -3126,7 +3126,7 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 ![Servicios](img/)
 
-**Seccion de Subscription:** Muestra la informacion del plan de suscripcion que tiene el salon.<br>
+**Seccion de Subscription:** Muestra la informacion del plan de suscripción que tiene el salon.<br>
 
 ![Subscription](img/)
 
@@ -3140,15 +3140,15 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 *Seccion de AppointmentsClient** Muestra la información de reservas y reviews de estilistas o barberos. 
 
-![client-appointments.png](../../uTime_aplicaciones_web/uTime-Informe-Final/img/client-appointments.png)
+![client-appointments.png](img/client-appointments.png)
 
 *Seccion de FavoritesClient** Muestra los salones de belleza o barberia favoritos.
 
-![client-favorites.png](../../uTime_aplicaciones_web/uTime-Informe-Final/img/client-favorites.png)
+![client-favorites.png](img/client-favorites.png)
 
 *Seccion de ProfileClient** Muestra la información del cliente de su perfil.
 
-![client-profile.png](../../uTime_aplicaciones_web/uTime-Informe-Final/img/client-profile.png)
+![client-profile.png](img/client-profile.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
