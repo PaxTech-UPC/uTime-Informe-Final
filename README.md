@@ -3128,33 +3128,30 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 ![Reviews](img/reviews.png)
 
-**Seccion de Servicios:** Muestra la informacion de los servicios que ofrece el salon.<br>
-
-![Servicios](img/)
-
 **Seccion de Subscription:** Muestra la informacion del plan de suscripción que tiene el salon.<br>
 
 ![Subscription](img/subscription.png)
 
-**Seccion de Configuracion:** Muestra la informacion del perfil y permite el cambio de contraseña.<br>
-
-![Configuracion](img/)
-
-**Seccion de Perfil:** Muestra la informacion del salon, redes sociales, rating, portfolio y reviews recientes positivas.<br>
-
-![Perfil](img/)
-
-*Seccion de AppointmentsClient** Muestra la información de reservas y reviews de estilistas o barberos. 
+**Seccion de AppointmentsClient** Muestra la información de reservas y reviews de estilistas o barberos. 
 
 ![client-appointments.png](img/client-appointments.png)
 
-*Seccion de FavoritesClient** Muestra los salones de belleza o barberia favoritos.
+**Seccion de FavoritesClient** Muestra los salones de belleza o barberia favoritos.
 
 ![client-favorites.png](img/client-favorites.png)
 
-*Seccion de ProfileClient** Muestra la información del cliente de su perfil.
+**Seccion de ProfileClient** Muestra la información del cliente de su perfil.
 
 ![client-profile.png](img/client-profile.png)
+
+**Seccion de Client-Dashboard:** Muestra la informacion hacia el cliente en su dashboard.
+![client-dashboard.png](img/client-dashboard.png)
+
+**Seccion de SalonProfile:** Muestra el perfil del salon de belleza o barberia.
+![client-dashboard.png](img/salon-profile.png)
+
+**Seccion de Appoiments:** Muestra la seccion de appoiments para hacer la reservacion.
+![client-dashboard.png](img/appoiments.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -3360,7 +3357,7 @@ https://github.com/UPC-PaxTech/uTime-Landing-Page
 
 **URL de la FrontEnd Web Application**<br>
 
-
+https://utime-project.web.app/iam/login
 
 URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
 
@@ -3372,7 +3369,7 @@ URL del diagrama base de datos: https://lucid.app/lucidchart/63a0bb3b-e0d7-4f40-
 
 **Cuentas de GitHub de los Integrantes:**<br>
 
-Renzo Julca – @Krillsom
+Renso Julca – @rajc02
 
 Gael Rivera – @gael-rs
 
