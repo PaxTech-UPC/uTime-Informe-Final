@@ -3126,7 +3126,7 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 **Seccion de Reviews:** Muestra la informacion de las reseñas que han dejado los clientes.<br>
 
-![Reviews](img/)
+![Reviews](img/reviews.png)
 
 **Seccion de Servicios:** Muestra la informacion de los servicios que ofrece el salon.<br>
 
