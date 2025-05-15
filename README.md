@@ -3102,6 +3102,155 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 2]()
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
+| Repo | Branch               | Commit | Message                                                                                         | Date |
+|------|----------------------|--------|-------------------------------------------------------------------------------------------------|------|
+| Frontend-Web-Applications | feature/deploy       | d69bbccf | feat: add logo and title windows page                                                           | 14/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | bd0ee270 | fear: add home provider page                                                                    | 14/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 4337a206 | feat: add new functionality for appointments and dashboard                                      | 14/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 36c66180 | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 14/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 1e215b7c | fix: remove merge conflict markers and resolve code conflict                                    | 14/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 10f4a8fb | feat: update router link about the siderbar provider                                            | 14/05/2025 |
+| Frontend-Web-Applications | develop              | d69bbccf | feat: add logo and title windows page                                                           | 14/05/2025 |
+| Frontend-Web-Applications | develop              | bd0ee270 | fear: add home provider page                                                                    | 14/05/2025 |
+| Frontend-Web-Applications | develop              | 9fe60df3 | feat: added and improved appointments in dashboard and salonProfile                             | 14/05/2025 |
+| Frontend-Web-Applications | develop              | 4337a206 | feat: add new functionality for appointments and dashboard                                      | 14/05/2025 |
+| Frontend-Web-Applications | develop              | 36c66180 | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 14/05/2025 |
+| Frontend-Web-Applications | develop              | 1e215b7c | fix: remove merge conflict markers and resolve code conflict                                    | 14/05/2025 |
+| Frontend-Web-Applications | develop              | 10f4a8fb | feat: update router link about the siderbar provider                                            | 14/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | f019a0bb | feat: add changes appointment structure                                                         | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | e2b9362e | fix: solve merging                                                                              | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | bed5732b | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | a32a86ef | feat: add changes pages                                                                         | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 91149886 | feat: add changes pages appointments                                                            | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 5103988e | Merge branch 'feature/base-service' into develop                                                | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 30a436aa | fix: update base service                                                                        | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 16bbb640 | feat: review entity                                                                             | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 0e8092b4 | fix: conflic problem                                                                            | 12/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 16bbb640 | feat: review entity                                                                             | 12/05/2025 |
+| Frontend-Web-Applications | develop              | f019a0bb | feat: add changes appointment structure                                                         | 12/05/2025 |
+| Frontend-Web-Applications | develop              | e2b9362e | fix: solve merging                                                                              | 12/05/2025 |
+| Frontend-Web-Applications | develop              | bed5732b | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 12/05/2025 |
+| Frontend-Web-Applications | develop              | a32a86ef | feat: add changes pages                                                                         | 12/05/2025 |
+| Frontend-Web-Applications | develop              | 91149886 | feat: add changes pages appointments                                                            | 12/05/2025 |
+| Frontend-Web-Applications | develop              | 5103988e | Merge branch 'feature/base-service' into develop                                                | 12/05/2025 |
+| Frontend-Web-Applications | develop              | 30a436aa | fix: update base service                                                                        | 12/05/2025 |
+| Frontend-Web-Applications | develop              | 16bbb640 | feat: review entity                                                                             | 12/05/2025 |
+| Frontend-Web-Applications | develop              | 0e8092b4 | fix: conflic problem                                                                            | 12/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | ef84fb9f | feat: add appointments                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | e0bc3174 | feat: add toolbar client                                                                        | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | dda90ea3 | feat: add changes sidebar client                                                                | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | da8e2d70 | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | d9bba23e | feat: add changes appointment                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | d85f9e5c | Merge branch 'feature/schedule-bounded' into develop                                            | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | d5a2c2a6 | feat: add appointment api service                                                               | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | c79ef121 | fix: solving merging problems                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | c324f685 | feat: calendar and reservation components                                                       | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | c13c70be | feat: add toolbar                                                                               | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | b7e86dba | feat:add assembler component                                                                    | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | b3713c9b | feat: update class diagram                                                                      | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | b11ec840 | feat: add routes client                                                                         | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | ac1592b2 | feat: add language switcher                                                                     | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | a1a7407d | Merge branch 'feature/schedule' into develop                                                    | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 935bb199 | fix: solving merging problems                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 83306e27 | feat: add provider layout and initial language switcher                                         | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 7b85fd37 | feat: add base service                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 6c99d291 | feat: clien layout                                                                              | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 6355f457 | feat: add client page components                                                                | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 62adf78b | feat: add reservation assembler and api service                                                 | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 5bb964e6 | feat: schedule files                                                                            | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 56431aed | Merge branch 'feature/sidebar-provider' into develop                                            | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 374b8466 | feat: add base-service                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 2a95deca | fix: troll changes                                                                              | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 25d39a71 | feat: add sidebar client and layout                                                             | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | ef84fb9f | feat: add appointments                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | e0bc3174 | feat: add toolbar client                                                                        | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | dda90ea3 | feat: add changes sidebar client                                                                | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | da8e2d70 | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | d9bba23e | feat: add changes appointment                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | d85f9e5c | Merge branch 'feature/schedule-bounded' into develop                                            | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | d5a2c2a6 | feat: add appointment api service                                                               | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | c79ef121 | fix: solving merging problems                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | c324f685 | feat: calendar and reservation components                                                       | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | c13c70be | feat: add toolbar                                                                               | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | b7e86dba | feat:add assembler component                                                                    | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | b3713c9b | feat: update class diagram                                                                      | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | b11ec840 | feat: add routes client                                                                         | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | ac1592b2 | feat: add language switcher                                                                     | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | a1a7407d | Merge branch 'feature/schedule' into develop                                                    | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 935bb199 | fix: solving merging problems                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 83306e27 | feat: add provider layout and initial language switcher                                         | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 7b85fd37 | feat: add base service                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 6c99d291 | feat: clien layout                                                                              | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 6355f457 | feat: add client page components                                                                | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 62adf78b | feat: add reservation assembler and api service                                                 | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 5bb964e6 | feat: schedule files                                                                            | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 56431aed | Merge branch 'feature/sidebar-provider' into develop                                            | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 2a95deca | fix: troll changes                                                                              | 11/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 25d39a71 | feat: add sidebar client and layout                                                             | 11/05/2025 |
+| Frontend-Web-Applications | develop              | ef84fb9f | feat: add appointments                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | develop              | e0bc3174 | feat: add toolbar client                                                                        | 11/05/2025 |
+| Frontend-Web-Applications | develop              | dda90ea3 | feat: add changes sidebar client                                                                | 11/05/2025 |
+| Frontend-Web-Applications | develop              | da8e2d70 | Merge branch 'develop' of https://github.com/PaxTech-UPC/Frontend-Web-Applications into develop | 11/05/2025 |
+| Frontend-Web-Applications | develop              | d9bba23e | feat: add changes appointment                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | develop              | d85f9e5c | Merge branch 'feature/schedule-bounded' into develop                                            | 11/05/2025 |
+| Frontend-Web-Applications | develop              | d5a2c2a6 | feat: add appointment api service                                                               | 11/05/2025 |
+| Frontend-Web-Applications | develop              | c79ef121 | fix: solving merging problems                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | develop              | c324f685 | feat: calendar and reservation components                                                       | 11/05/2025 |
+| Frontend-Web-Applications | develop              | c13c70be | feat: add toolbar                                                                               | 11/05/2025 |
+| Frontend-Web-Applications | develop              | b7e86dba | feat:add assembler component                                                                    | 11/05/2025 |
+| Frontend-Web-Applications | develop              | b3713c9b | feat: update class diagram                                                                      | 11/05/2025 |
+| Frontend-Web-Applications | develop              | b11ec840 | feat: add routes client                                                                         | 11/05/2025 |
+| Frontend-Web-Applications | develop              | ac1592b2 | feat: add language switcher                                                                     | 11/05/2025 |
+| Frontend-Web-Applications | develop              | a1a7407d | Merge branch 'feature/schedule' into develop                                                    | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 935bb199 | fix: solving merging problems                                                                   | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 83306e27 | feat: add provider layout and initial language switcher                                         | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 7b85fd37 | feat: add base service                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 6c99d291 | feat: clien layout                                                                              | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 6355f457 | feat: add client page components                                                                | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 62adf78b | feat: add reservation assembler and api service                                                 | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 5bb964e6 | feat: schedule files                                                                            | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 56431aed | Merge branch 'feature/sidebar-provider' into develop                                            | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 374b8466 | feat: add base-service                                                                          | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 2a95deca | fix: troll changes                                                                              | 11/05/2025 |
+| Frontend-Web-Applications | develop              | 25d39a71 | feat: add sidebar client and layout                                                             | 11/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | fe82ca5a | feat: add routes and login page finish                                                          | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | fbd9a8db | Merge branch 'feature/iam-bounded' into develop                                                 | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | d5bfb938 | feat: add register form provider component                                                      | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | ca1197ac | feat: add register page                                                                         | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | a796a623 | feat: add locales directory, end and es json's and update main.js                               | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 9c57d3c1 | feat: add login page with toolbar                                                               | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 83650202 | feat: add login form and register form client compoenents                                       | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | fe82ca5a | feat: add routes and login page finish                                                          | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | fbd9a8db | Merge branch 'feature/iam-bounded' into develop                                                 | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | d5bfb938 | feat: add register form provider component                                                      | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | ca1197ac | feat: add register page                                                                         | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | a796a623 | feat: add locales directory, end and es json's and update main.js                               | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 9c57d3c1 | feat: add login page with toolbar                                                               | 10/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 83650202 | feat: add login form and register form client compoenents                                       | 10/05/2025 |
+| Frontend-Web-Applications | develop              | fe82ca5a | feat: add routes and login page finish                                                          | 10/05/2025 |
+| Frontend-Web-Applications | develop              | fbd9a8db | Merge branch 'feature/iam-bounded' into develop                                                 | 10/05/2025 |
+| Frontend-Web-Applications | develop              | d5bfb938 | feat: add register form provider component                                                      | 10/05/2025 |
+| Frontend-Web-Applications | develop              | ca1197ac | feat: add register page                                                                         | 10/05/2025 |
+| Frontend-Web-Applications | develop              | a796a623 | feat: add locales directory, end and es json's and update main.js                               | 10/05/2025 |
+| Frontend-Web-Applications | develop              | 9c57d3c1 | feat: add login page with toolbar                                                               | 10/05/2025 |
+| Frontend-Web-Applications | develop              | 83650202 | feat: add login form and register form client compoenents                                       | 10/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | ad447ec3 | feat: add db file far the fake api                                                              | 09/05/2025 |
+| Frontend-Web-Applications | feature/appointments | ad447ec3 | feat: add db file far the fake api                                                              | 09/05/2025 |
+| Frontend-Web-Applications | develop              | ad447ec3 | feat: add db file far the fake api                                                              | 09/05/2025 |
+| Frontend-Web-Applications | feature/appointments | e7cd1657 | Initial commit                                                                                  | 07/05/2025 |
+| Frontend-Web-Applications | develop              | e7cd1657 | Initial commit                                                                                  | 07/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | e7cd1657 | Initial commit                                                                                  | 07/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | e0ad68a2 | chore: add .vscode/ to .gitignore                                                               | 07/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 6ac03b3a | chore: remove .vscode folder from repository                                                    | 07/05/2025 |
+| Frontend-Web-Applications | feature/deploy       | 1699ebe6 | feat: add base project setup with Vite and Vue                                                  | 07/05/2025 |
+| Frontend-Web-Applications | feature/appointments | e0ad68a2 | chore: add .vscode/ to .gitignore                                                               | 07/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 6ac03b3a | chore: remove .vscode folder from repository                                                    | 07/05/2025 |
+| Frontend-Web-Applications | feature/appointments | 1699ebe6 | feat: add base project setup with Vite and Vue                                                  | 07/05/2025 |
+| Frontend-Web-Applications | develop              | e0ad68a2 | chore: add .vscode/ to .gitignore                                                               | 07/05/2025 |
+| Frontend-Web-Applications | develop              | 6ac03b3a | chore: remove .vscode folder from repository                                                    | 07/05/2025 |
+| Frontend-Web-Applications | develop              | 1699ebe6 | feat: add base project setup with Vite and Vue                                                  | 07/05/2025 |
+
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
 **Seccion de Login:** Muestra el formulario de login .<br>
