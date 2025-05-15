@@ -3101,8 +3101,8 @@ En el segundo sprint backlog, el equipo tuvo la intención de comenzar y complet
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
-| Repo | Branch               | Commit | Message                                                                                         | Date |
-|------|----------------------|--------|-------------------------------------------------------------------------------------------------|------|
+| Repo                      | Branch               | Commit   | Message                                                                                         | Date       |
+|---------------------------|----------------------|----------|-------------------------------------------------------------------------------------------------|------------|
 | Frontend-Web-Applications | feature/deploy       | d69bbccf | feat: add logo and title windows page                                                           | 14/05/2025 |
 | Frontend-Web-Applications | feature/deploy       | bd0ee270 | fear: add home provider page                                                                    | 14/05/2025 |
 | Frontend-Web-Applications | feature/deploy       | 4337a206 | feat: add new functionality for appointments and dashboard                                      | 14/05/2025 |
