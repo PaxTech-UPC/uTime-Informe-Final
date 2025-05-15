@@ -3268,6 +3268,15 @@ Modularización de servicios usando una clase genérica y reusable.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
+Para la entrega del Sprint 2, el FrontWebApplication se desplegó completamente en Firebase Hosting.
+La configuración establecida indica que Firebase tomará como fuente de los archivos estáticos la carpeta dist generada por el build del proyecto.
+Además, se ha configurado que la rama develop del repositorio sea la rama asociada para el despliegue automático.
+Esto permite que cada vez que se haga un push a la rama develop, Firebase actualice el hosting con la última versión del proyecto contenida en dist.
+
+![deployment.png](img/deployment.png)
+
+Enlace para acceder al FrontWebApplication: [FrontWebApplication](https://utime-project.web.app/)
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Durante el Sprint 2, se realizó la segmentación de tareas por features y se asignaron a los miembros del equipo de acuerdo a sus habilidades y experiencia. Esto permitió una mejor distribucion de las tareas y un avance mas fluido en el desarrollo.
