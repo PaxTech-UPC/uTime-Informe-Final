@@ -68,7 +68,7 @@
    
    <br>
    
-   <center><b>Ciclo 2025-01</b></center>
+   <center><b>Ciclo 2025-10</b></center>
    
    <br>
 
@@ -78,31 +78,43 @@
 
 <div align='center'>
 
-| Version | Fecha        | Autor                        | Descripción de modificación                                                                            |
-|---------|--------------|------------------------------|--------------------------------------------------------------------------------------------------------|
-| 1.0     | 01/04/2025   | Julca, Rivera, Varela, Yalán | Creación del documento de trabajo en formato markdown                                                  |
-| 1.1     | 03/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Capitulo I                                                                             |
-| 1.2     | 05/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Competidores y Entrevistas                                                              |
-| 1.3     | 07/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Needfinding                                                                            |
-| 1.4     | 08/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del To-Be y Ubiquitous Language                                                            |
-| 1.5     | 09/04/2025   | Julca, Rivera, Varela, Yalán | Creación de los requisitos funcionales y no funcionales                                                |
-| 1.6     | 11/04/2025   | Julca, Rivera, Varela, Yalán | Culminación del Capitlo III                                                                            |
-| 1.7     | 13/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Style Guidelines y Information Architecture                                             |
-| 1.8     | 16/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
-| 1.9     | 17/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Web Application Prototyping                                                            |
-| 1.10    | 19/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
-| 1.11    | 22/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Capitulo V                                                                             |
-| 1.12    | 23/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Landing Page                                                                           |
-| 2.0     | 27/04/2025   | Julca, Rivera, Varela, Yalán | Corrección de los items mencionados en la primera entrega (TB1)                                        |
-| 2.1     | 29/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Sprint 2                                                                               |
-| 2.2     | 01/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Diagrama de clases                                                                     |
-| 2.3     | 02/04/2025   | Julca, Rivera, Varela, Yalán | Creación del Proyecto en el Repositorio de FrontEnd Web Application                                    |
-| 2.4     | 03/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Sprint Planing                                                                            |
-| 2.5     | 05/04/2025   | Julca, Rivera, Varela, Yalán | Creación del Sprint Backlog                                                                            |
-| 2.6     | 10/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Execution Evidence for Sprint Review.                                                  |
-| 2.6     | 12/04/2025   | Julca, Rivera, Varela, Yalán | Creación del Services Documentation Evidence for Sprint Review.                                        |
-| 2.6     | 14/04/2025   | Julca, Rivera, Varela, Yalán | Elaboración del Software Deployment Evidence for Sprint Review.                                           |
-
+| Version | Fecha       | Autor                           | Descripción de modificación                                                                            |
+|---------|-------------|---------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1.0     | 01/04/2025  | Julca, Rivera, Varela, Yalán    | Creación del documento de trabajo en formato markdown                                                  |
+| 1.1     | 03/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Capitulo I                                                                             |
+| 1.2     | 05/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Competidores y Entrevistas                                                              |
+| 1.3     | 07/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Needfinding                                                                            |
+| 1.4     | 08/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del To-Be y Ubiquitous Language                                                            |
+| 1.5     | 09/04/2025  | Julca, Rivera, Varela, Yalán    | Creación de los requisitos funcionales y no funcionales                                                |
+| 1.6     | 11/04/2025  | Julca, Rivera, Varela, Yalán    | Culminación del Capitlo III                                                                            |
+| 1.7     | 13/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Style Guidelines y Information Architecture                                             |
+| 1.8     | 16/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
+| 1.9     | 17/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Web Application Prototyping                                                            |
+| 1.10    | 19/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
+| 1.11    | 22/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Capitulo V                                                                             |
+| 1.12    | 23/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Landing Page                                                                           |
+| 2.0     | 27/04/2025  | Julca, Rivera, Varela, Yalán    | Corrección de los items mencionados en la primera entrega (TB1)                                        |
+| 2.1     | 29/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Sprint 2                                                                               |
+| 2.2     | 01/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Diagrama de clases                                                                     |
+| 2.3     | 02/04/2025  | Julca, Rivera, Varela, Yalán    | Creación del Proyecto en el Repositorio de FrontEnd Web Application                                    |
+| 2.4     | 03/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Sprint Planing                                                                         |
+| 2.5     | 05/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Sprint Backlog                                                                            |
+| 2.6     | 10/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Execution Evidence for Sprint Review.                                                  |
+| 2.7     | 12/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Services Documentation Evidence for Sprint Review.                                        |
+| 2.8     | 14/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Software Deployment Evidence for Sprint Review.                                        |
+| 3.0     | 27/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Corrección de los items mencionados en la primera entrega (TP1)                                        |
+| 3.1     | 30/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Sprint 3                                                                               |
+| 3.2     | 01/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Diagrama de clases del Backend                                                         |
+| 3.3     | 02/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Proyecto en el Repositorio de Web Application                                             |
+| 3.4     | 03/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Sprint Planing 3                                                                       |
+| 3.5     | 05/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Sprint Backlog 3                                                                          |
+| 3.6     | 10/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Execution Evidence for Sprint Review 3.                                                |
+| 3.7     | 12/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del las Validation Interviews                                                                 |
+| 3.8     | 14/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Diseño de Entrevistas                                                                  |
+| 3.9     | 14/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Registro de Entrevistas.                                                               |
+| 3.10    | 15/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Video About-the-Product.                                                               |
+| 3.11    | 15/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración de las Conclusiones y recomendaciones.                                                     |
+| 3.11    | 16/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Video About-the-Team.                                                                  |
 
 
 </div>
@@ -113,8 +125,7 @@ URL del repositorio para el proyecto: https://github.com/PaxTech-UPC/uTime-Infor
 
 **TB1**
 
-Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
-para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 
 | Integrantes    | Tareas Asignadas                                                                                                                                                                   |
@@ -126,8 +137,7 @@ para cada integrante del equipo:
 
 **TP1**
 
-Para el desarrollo del informe perteneciente a la entrega del TP1, se dividió la implementación de secciones de la siguiente forma
-para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega del TP1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 
 | Integrantes    | Tareas Asignadas                                                                                                                                                                                                                                                |
@@ -136,6 +146,19 @@ para cada integrante del equipo:
 | Gael Rivera    | Correción de los US, Sprint 2, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review.                |
 | Marcelo Varela | Correción del Bibliografía y Anexos, Sprint 2, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review. |
 | Angie Yalán    | Correción del LeanUX, Sprint 2, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review.               |
+
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Renso Julca         | Corrección de los diagramas, Sprint 3, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team.          |
+| Gael Rivera         | Corrección de los US, Sprint 3, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team.                 |
+| Marcelo Varela      | Corrección del Bibliografía y Anexos, Sprint 3, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team. |
+| Angie Yalán         | Corrección del LeanUX, Sprint 3, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team.                |
 
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
@@ -163,8 +186,9 @@ Se explican las ramas más prominentes:
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
 
-![NetworkGraph]()
-![Contributors]()
+![NetworkGraph](./img/network.png)
+![Contributors1](./img/insight1.png)
+![Contributors2](./img/insight2.png)
 
 # Contenido
 
@@ -244,7 +268,24 @@ El proceso de colaboración en el informe se realizó mediante commits constante
    5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)<br>
-
+   5.2.2. [Sprint 2](#522-sprint-2)<br>
+   5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2)<br>
+   5.2.2.2. [Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)<br>
+   5.2.2.3. [Sprint Backlog 2](#5223sprint-backlog-2)<br>
+   5.2.2.4. [Development Evidence for Sprint Review](#5224development-evidence-for-sprint-review)<br>
+   5.2.2.5. [Execution Evidence for Sprint Review](#5225execution-evidence-for-sprint-review)<br>
+   5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226services-documentation-evidence-for-sprint-review)<br>
+   5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227software-deployment-evidence-for-sprint-review)<br>
+   5.2.2.8. [Team Collaboration Insights during Sprint](#5228team-collaboration-insights-during-sprint)<br>
+   5.2.3. [Sprint 3](#523-sprint-3)<br>
+   5.2.3.1. [Sprint Planning 3](#5231-sprint-planning)<br>
+   5.2.3.2. [Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)<br>
+   5.2.3.3. [Sprint Backlog 3](#5223sprint-backlog-2)<br>
+   5.2.3.4. [Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)<br>
+   5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)<br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)<br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)<br>
+   5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during--sprint)<br>
 6. [Conclusiones](#conclusiones)<br>
    6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
 7. [Bibliografía](#bibliografía)<br>
@@ -3424,9 +3465,10 @@ Enlace para acceder al FrontWebApplication: [FrontWebApplication](https://utime-
 
 Durante el Sprint 2, se realizó la segmentación de tareas por features y se asignaron a los miembros del equipo de acuerdo a sus habilidades y experiencia. Esto permitió una mejor distribucion de las tareas y un avance mas fluido en el desarrollo.
 
-![NetworkGraph]()
+![NetworkGraph](./img/networkgraph.png)
 
-![Contributors]()
+![Contributors](./img/contributor1.png)
+![Contributors](./img/contributor2.png)
 
 # Conclusiones
 
@@ -3434,27 +3476,30 @@ Durante el Sprint 2, se realizó la segmentación de tareas por features y se as
 
 ### Conclusiones
 
-- La corrección de los ítems observados en la primera entrega (TB1) permitió al equipo mejorar significativamente la calidad del proyecto, alineándose mejor con los requerimientos del curso.
+- Durante el Sprint 3, el equipo avanzó significativamente en el desarrollo del backend de la plataforma uTime.
 
-- La elaboración del Sprint 2, junto con su planificación y backlog, fortaleció la organización interna del equipo y permitió una gestión más efectiva de las tareas y tiempos.
+- Se logró consolidar la lógica principal del sistema, encargada de gestionar citas y servicios específicos para salones de belleza y barberías.
 
-- La creación del diagrama de clases fue clave para definir de manera clara la estructura y relación entre los componentes del sistema, facilitando su implementación posterior.
+- Este avance fue clave para acercarnos a una versión funcional e integrada de la aplicación, sentando las bases para una implementación completa.
 
-- El repositorio del proyecto FrontEnd en GitHub brindó una base organizada y accesible para el desarrollo colaborativo, asegurando el control de versiones y la trazabilidad del avance.
+- Las entrevistas de validación con usuarios reales proporcionaron retroalimentación valiosa que ayudó a verificar la utilidad y viabilidad del producto, así como a detectar mejoras necesarias desde la perspectiva del cliente.
 
-- La elaboración de evidencias de ejecución, documentación de servicios y despliegue del software validaron el cumplimiento de los objetivos del sprint, reforzando la importancia de documentar cada fase del proceso.
+- La producción del video About The Team facilitó la reflexión crítica del equipo sobre sus fortalezas, debilidades y oportunidades de mejora, promoviendo un ambiente más consciente y colaborativo.
+
+- En el video About The Product, se logró comunicar de manera clara y efectiva las funcionalidades del backend, de la aplicación principal y de la landing page, lo que fortaleció la presentación integral del proyecto frente a diferentes audiencias.
+
 
 ### Recomendaciones
 
-- Continuar con la documentación detallada de cada fase del desarrollo, especialmente en los próximos sprints, para mantener una trazabilidad clara del trabajo realizado.
+- Continuar fortaleciendo la validación con usuarios, incorporando sus comentarios directamente en los próximos sprints para mejorar la experiencia y funcionalidad del sistema.
 
-- Revisar constantemente los entregables previos para asegurar que se han corregido adecuadamente los ítems observados y no repetir los mismos errores en futuras entregas.
+- Documentar con mayor profundidad las rutas y servicios desarrollados en el backend, incluyendo pruebas y ejemplos de uso, para facilitar el mantenimiento y futuras integraciones.
 
-- Mantener el uso activo y ordenado del repositorio de código, asegurando que todos los miembros del equipo sigan buenas prácticas de versionamiento y documentación de commits.
+- Seguir promoviendo espacios de autoevaluación en el equipo, como se hizo en el video About The Team, para identificar a tiempo los aspectos a mejorar en la dinámica grupal.
 
-- Profundizar en la planificación de sprints futuros, identificando claramente las tareas críticas y los posibles riesgos, para mejorar la eficiencia del equipo.
+- Aprovechar los recursos multimedia como los videos explicativos para mejorar la comunicación del proyecto, tanto interna como externamente, asegurando que los avances técnicos sean comprendidos por todos los interesados.
 
-- Validar con los docentes y el sílabo que todas las evidencias generadas (review, services, deployment) cumplan con los criterios de evaluación establecidos, evitando omisiones en la entrega final.
+- Reforzar la conexión entre los módulos del frontend y backend, asegurando una integración fluida y bien documentada que permita escalar el sistema sin mayores fricciones.
 
 
 # Bibliografía
@@ -3489,7 +3534,7 @@ Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024).
 
 **Herramientas y Recursos Utilizados:**<br>
 
-**Repositorio en GitHub - uTime Informe (PaxTech):**<br>
+**Repositorio en GitHub - uTime Informe (uTime):**<br>
 
 https://github.com/PaxTech-UPC/uTime-Informe-Final
 
@@ -3497,13 +3542,21 @@ https://github.com/PaxTech-UPC/uTime-Informe-Final
 
 https://github.com/PaxTech-UPC/Frontend-Web-Applications
 
+**Repositorio en GitHub - uTime (Paxtech) - Web Services**<br>
+
+Url
+
 **URL de la Landing Page Deployada**<br>
 
 https://github.com/UPC-PaxTech/uTime-Landing-Page
 
-**URL de la FrontEnd Web Application**<br>
+**URL de la FrontEnd Web Application Deployada**<br>
 
 https://utime-project.web.app/iam/login
+
+**URL de la Web Services Deployada**<br>
+
+Url
 
 URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
 
