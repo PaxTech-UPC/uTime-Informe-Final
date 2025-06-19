@@ -3470,6 +3470,928 @@ Durante el Sprint 2, se realizó la segmentación de tareas por features y se as
 ![Contributors](./img/contributor1.png)
 ![Contributors](./img/contributor2.png)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y constante en el que el equipo de desarrollo se dedica a cumplir una meta concreta que impulse el avance hacia el objetivo general del producto (Schwaber, K. & Sutherland, J., 2020). En el desarrollo de la plataforma uTime, el Sprint número 2 se inició el 27 de abril de 2025, y tuvo como propósito central la construcción del frontend de la aplicación web, empleando Angular junto con Angular Material. Durante esta etapa, se implementaron funcionalidades fundamentales tanto para los usuarios clientes como para los proveedores. Por un lado, los clientes ahora pueden buscar y explorar diversos salones de belleza y realizar reservas de forma sencilla e intuitiva. Por otro lado, los proveedores disponen de herramientas administrativas que les permiten configurar los precios de sus servicios, gestionar su oferta y visualizar las citas asignadas a cada miembro de su personal, facilitando así la organización y atención a sus clientes.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 3</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-05-27</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Kevin Chi, Gael Rivera, Marcelo Varela y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 3 Review Summary</b></td>
+      <td colspan="1">
+      Durante este Sprint se avanzó significativamente en el desarrollo tanto del frontend como del backend de la aplicación web. En el lado del frontend, se implementó la internacionalización (i18n) y se aplicaron mejoras visuales a la interfaz utilizando Angular y Angular Material. También se corrigieron aspectos pendientes del Sprint 2, como la integración completa del switcher de idioma y el ajuste del renderizado del logo. En cuanto al backend, se estableció la conexión con la base de datos MySQL y se desarrollaron los servicios necesarios para el funcionamiento de las funcionalidades principales de los roles de cliente y proveedor.
+   </td>
+   </tr>
+   <tr>
+   <td colspan="1" align="center"><b>Sprint n - 3 Retrospective Summary</b></td>
+   <td colspan="1">
+      Durante la retrospectiva se destacó la necesidad de reforzar la planificación de tareas y asegurar la integración oportuna de pruebas desde etapas tempranas para evitar retrabajos. Sin embargo, se valoró positivamente la mejora en la comunicación del equipo con respecto al Sprint anterior, lo cual facilitó una mayor claridad en los objetivos y permitió una ejecución más eficiente de los entregables.
+   </td>
+</tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Goal</b></td>
+   <td colspan="1">
+      <b>Our focus is on</b> advancing the backend development by connecting the application to a MySQL database, creating the necessary tables for each entity, and exposing RESTful endpoints tested successfully through Swagger with token-based authentication.<br>
+      <b>We believe it delivers</b> a solid backend foundation that supports secure and reliable data persistence, with properly structured entities and tested endpoints ready for integration.<br>
+      <b>This will be confirmed when</b> the backend consistently handles requests, stores and retrieves data correctly from the MySQL database, and maintains secure access through token-based authentication.
+   </td>
+
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Velocity</b></td>
+      <td colspan="1">35</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1"> 35</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+Para este Sprint, se han identificado los principales aspectos del frontend web application de Utime. Con el fin de mejorar la organización y la comunicación del equipo, se ha elaborado la matriz Leadership and Collaboration Matrix (LACX), donde se define quién asume el rol de Líder (L) y quiénes participan como Colaboradores (C) en cada uno de estos aspectos clave. Esta distribución facilita una ejecución más clara y eficiente de las tareas asignadas.
+
+| **Team Member**                     | **GitHub Username** | **Profiles** | **Reviews** | **Reservation** | **Iam** | **Shared** | **Workers** | **Services** | **TimeSlots** | **Services** | **Payments** |
+|-------------------------------------|---------------------|--------------|-------------|-----------------|---------|------------|-------------|--------------|---------------|--------------|--------------|
+| Julca Cruz , Renso Anthony          | rajc02              | C            | C           | C               | C       | L          | C           | C            | C             | L            | L            |
+| Rivera Sosa, Eduardo Gael           | gael-rs             | C            | C           | C               | L       | C          | L           | C            | C             | C            | C            |
+| Varela Bustinza, Marcelo Alessandro | VarBus              | L            | C           | L               | C       | C          | C           | C            | L             | C            | C            |
+| Yalán Zhang, Angie Christina        | aaaaangie           | C            | L           | C               | C       | C          | C           | L            | C             | C            | C            |
+
+
+#### 5.2.3.3.Sprint Backlog 3.
+En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar en el desarrollo del backend de la aplicación web, abordando los requerimientos esenciales para los roles de cliente y proveedor. Para la organización y gestión de las tareas, se continuó utilizando la herramienta Trello, lo que permitió descomponer las user stories en tareas específicas y asignarlas según las fortalezas técnicas de cada integrante. El objetivo principal del sprint fue establecer una base sólida del backend, incluyendo la creación de las entidades, la conexión con la base de datos MySQL, y la exposición de endpoints RESTful seguros, validados mediante Swagger y autenticación con tokens.
+
+<table border="1" cellspacing="0" cellpadding="5">
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 3</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Title</b></td>
+      <td><b>Id</b></td>
+      <td><b>Title</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status</b></td>
+   </tr>
+
+   <!-- TS01 - Encriptación de contraseñas -->
+   <tr>
+      <td rowspan="2">TS01</td>
+      <td rowspan="2">Encriptación de contraseñas</td>
+      <td>T1</td>
+      <td>Configurar BCrypt en Spring Security</td>
+      <td>Usar PasswordEncoder de Spring Security para hashing + salt.</td>
+      <td>2</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Pruebas de autenticación</td>
+      <td>Verificar que el login compare contraseñas hasheadas correctamente.</td>
+      <td>2</td>
+      <td>Julca Cruz, Renso Anthony</td>
+      <td>In-Process</td>
+   </tr>
+
+   <!-- TS03 - Validaciones de formularios -->
+   <tr>
+      <td rowspan="2">TS03</td>
+      <td rowspan="2">Validaciones de formularios</td>
+      <td>T1</td>
+      <td>Frontend: Validaciones reactivas (Angular)</td>
+      <td>Implementar Validators en FormGroups para campos requeridos, email, teléfono, etc.</td>
+      <td>3</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Backend: Validaciones con Spring</td>
+      <td>Usar anotaciones @Valid, @NotNull, @Pattern en los DTOs.</td>
+      <td>2</td>
+      <td>Yalán Zhang, Angie Christina</td>
+      <td>To-Review</td>
+   </tr>
+
+   <!-- TS07 - Creación de endpoints para consulta de usuarios -->
+   <tr>
+      <td rowspan="3">TS07</td>
+      <td rowspan="3">Creación de endpoints para consulta de usuarios</td>
+      <td>T1</td>
+      <td>Implementación del método GET para listar todos los usuarios</td>
+      <td>Desarrollar la lógica en el controlador y servicio para obtener la lista completa de usuarios registrados (GET /clients)</td>
+      <td>4</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Implementación del método GET para obtener usuario por ID.</td>
+      <td>Desarrollar el endpoint que permita recuperar los datos de un usuario específico según su identificador único (GET /clients/{id})</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Documentación en Swagger de los endpoints GET</td>
+      <td>Agregar documentación con anotaciones `@Tag`, `@Operation`, `@Schema` y ejemplos de request/response para los métodos GET de usuarios.</td>
+      <td>3</td>
+      <td>Julca Cruz, Renso Anthony</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS08 - Implementación de endpoints para gestión de proveedores -->
+   <tr>
+      <td rowspan="3">TS08</td>
+      <td rowspan="3">Implementación de endpoints para gestión de proveedores</td>
+      <td>T1</td>
+      <td>Implementación de endpoints para gestión de proveedores (GET /providers)</td>
+      <td>Implementar la lógica en el controlador y servicio que permita recuperar la lista completa de proveedores registrados.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar un nuevo proveedor (POST /providers)</td>
+      <td>Crear el endpoint que permita registrar nuevos proveedores en el sistema.</td>
+      <td>1</td>
+      <td>Yalán Zhang, Angie Christina</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener proveedor por ID (GET /providers/{id})</td>
+      <td>Implementar la lógica para recuperar los datos de un proveedor específico a partir de su identificador único.</td>
+      <td>1</td>
+      <td>Julca Cruz, Renso Anthony</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS09 - Implementación de endpoints para gestión de perfil de proveedor -->
+   <tr>
+      <td rowspan="2">TS09</td>
+      <td rowspan="2">Implementación de endpoints para gestión de perfil de proveedor</td>
+      <td>T1</td>
+      <td>Desarrollo del método para registrar perfil de proveedor. (POST /providerprofile)</td>
+      <td>Implementar la lógica necesaria en el controlador y servicio para registrar un nuevo perfil de proveedor en la base de datos.</td>
+      <td>2</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para obtener perfil de proveedor por ID (GET /providerprofile/{id})</td>
+      <td>Crear la funcionalidad para consultar un perfil de proveedor específico a partir de su identificador único.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS10 - Implementación de endpoints para gestión de workers -->
+   <tr>
+      <td rowspan="3">TS10</td>
+      <td rowspan="3">Implementación de endpoints para gestión de workers</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los workers (GET /workers)</td>
+      <td>Implementar la lógica en el controlador y servicio que permita recuperar la lista completa de trabajadores registrados en el sistema..</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar un nuevo trabajador (POST /workers)</td>
+      <td>Crear el endpoint necesario para registrar un nuevo trabajador.</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener trabajador por ID (GET /workers/{id})</td>
+      <td>Desarrollar la funcionalidad que permita obtener los datos de un trabajador específico usando su identificador único.</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS11 - Implementación de endpoints para autenticación de usuarios -->
+   <tr>
+      <td rowspan="2">TS11</td>
+      <td rowspan="2">Implementación de endpoints para autenticación de usuarios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para inicio de sesión (POST /authentication/sign-in)</td>
+      <td>Implementar la lógica necesaria para autenticar usuarios registrados mediante sus credenciales y retornar un token JWT válido.</td>
+      <td>2</td>
+      <td>Julca Cruz, Renso Anthony</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registro de nuevos usuarios (POST /authentication/sign-up)</td>
+      <td>Crear la funcionalidad que permita registrar nuevos usuarios en la aplicación, validando sus datos y persistiendo su información en la base de datos.</td>
+      <td>1</td>
+      <td>Yalán Zhang, Angie Christina</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS12 - Implementación de endpoints para gestión de clientes -->
+   <tr>
+      <td rowspan="3">TS12</td>
+      <td rowspan="3">Implementación de endpoints para gestión de clientes</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los clientes (GET /clients)</td>
+      <td>Implementar la lógica en el controlador y servicio que permita recuperar la lista completa de clientes registrados en el sistema.</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar un nuevo cliente</td>
+      <td>Crear la funcionalidad que permita registrar nuevos clientes (POST /clients)</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener cliente por ID (GET /clients/{id})</td>
+      <td>Desarrollar el endpoint que permita consultar los datos de un cliente específico a partir de su identificador único.</td>
+      <td>1</td>
+      <td>Julca Cruz, Renso Anthony</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS13 - Implementación de endpoints para gestión de timeslots -->
+   <tr>
+      <td rowspan="3">TS13</td>
+      <td rowspan="3">Implementación de endpoints para gestión de timeslots</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los timeslots (GET /timeslots)</td>
+      <td>Obtener horarios disponibles.</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar un nuevo timeslot (POST /timeslots)</td>
+      <td>Crear la funcionalidad necesaria para registrar un nuevo timeslot disponible.</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener horario por ID (GET /timeslots/{id})</td>
+      <td>Desarrollar el endpoint que permita consultar los datos de un timeslot específico mediante su identificador único.</td>
+      <td>1</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS14 - Implementación de endpoints para gestión de servicios -->
+   <tr>
+      <td rowspan="2">TS14</td>
+      <td rowspan="2">Implementación de endpoints para gestión de servicios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los servicios (GET /services)</td>
+      <td>Implementar la lógica en el controlador y servicio que permita obtener la lista completa de servicios disponibles.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar un nuevo servicio (POST /services)</td>
+      <td>Crear la funcionalidad necesaria para registrar un nuevo servicio, validando los datos y persistiendo la información en la base de datos.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS15 - Implementación de endpoints para consulta de usuarios -->
+   <tr>
+      <td rowspan="2">TS15</td>
+      <td rowspan="2">Implementación de endpoints para consulta de usuarios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los usuarios (GET /users)</td>
+      <td>Implementar la lógica en el controlador y servicio para recuperar la lista completa de usuarios registrados.</td>
+      <td>1</td>
+      <td>Julca Cruz, Renso Anthony</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para obtener usuario por ID (GET /users/{id})</td>
+      <td>Obtener usuario por ID.</td>
+      <td>1</td>
+      <td>Yalán Zhang, Angie Christina</td>
+      <td>Done</td>
+   </tr>
+
+   <!-- TS16 - Implementación de endpoints para gestión de reviews -->
+   <tr>
+      <td rowspan="3">TS16</td>
+      <td rowspan="3">Implementación de endpoints para gestión de reviews</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todas las reviews (GET /reviews)</td>
+      <td>Implementar la lógica en el controlador y servicio para recuperar la lista completa de reseñas registradas.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar una nueva review (POST /reviews)</td>
+      <td>Crear la funcionalidad que permita registrar una nueva reseña, validando los datos y almacenándolos en la base de datos.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener review por ID (GET /reviews/{id})</td>
+      <td>Desarrollar la funcionalidad para consultar los datos de una reseña específica mediante su identificador único.</td>
+      <td>1</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>In-Process</td>
+   </tr>
+
+   <!-- TS04 - Diseño responsive y accesible -->
+   <tr>
+      <td rowspan="2">TS04</td>
+      <td rowspan="2">Diseño responsive y accesible</td>
+      <td>T1</td>
+      <td>Angular Material Layout</td>
+      <td>Usar FlexLayout y BreakpointObserver para responsividad.</td>
+      <td>4</td>
+      <td>Rivera Sosa, Eduardo Gael</td>
+      <td>To-Review</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>ARIA en componentes</td>
+      <td>Añadir roles, labels y focus management para accesibilidad.</td>
+      <td>3</td>
+      <td>Varela Bustinza, Marcelo Alessandro</td>
+      <td>Done</td>
+   </tr>
+</table>
+
+
+Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/b/RdzY7vOJ)
+
+![Diagrama](img/SprintBacklog3.png)
+
+
+#### 5.2.3.4.Development Evidence for Sprint Review.
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Web-Services</td><td>develop</td><td>4f74620</td><td>feat: add provider profile naming solutions</td><td>18/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>a717fec</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>18/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>51b1406</td><td>feat: added entity to payment</td><td>18/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>7a11e76</td><td>docs: added 4 context diagram</td><td>18/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>4a52de8</td><td>feat: added payment and added to reservation detail resource</td><td>18/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>15f59ea</td><td>Merge branch 'feature/reservationDetails' into develop</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>fd8e7e6</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>8ca0cc3</td><td>feat: reservation details without payment id</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>a1a7c72</td><td>feat: reservation failure</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>18820cd</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>478f417</td><td>docs: add value objects for all the bounded context</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>39d0837</td><td>feat: acl de Worker y validacion terminada</td><td>17/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>96318cd</td><td>feat: added facade but not working yet</td><td>16/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>7d329c6</td><td>feat: added reservations</td><td>16/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>6ab3187</td><td>feat: added workers and reservations bounded context</td><td>16/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>b4e05f2</td><td>readded salonprofilecontroller</td><td>15/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>84c70e9</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>15/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>6ff8ff1</td><td>latest changes</td><td>15/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>798dec8</td><td>latest changes</td><td>15/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>54231ed</td><td>Merge branch 'feature/iam-bounded-context' into develop</td><td>15/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>0715733</td><td>feat: add all packages about iam bounded</td><td>15/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>53fdd12</td><td>feat: add hashing and token about infrastructure package</td><td>14/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>b415029</td><td>feat: add aggregates, commands and queries aboun iam bounded</td><td>14/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>47be603</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>12/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>185f076</td><td>docs: added service class and valueobjects to services</td><td>12/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>6a5c965</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>10/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>d77f946</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>10/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>432a1d3</td><td>feat: service controller</td><td>10/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>7ba69d9</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>10/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>0ec70e7</td><td>docs: changed value objects services</td><td>10/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>4d91e49</td><td>feat: added services</td><td>10/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>0732e5f</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>09/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>39542a0</td><td>feat: add Client Files API</td><td>09/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>ba73b7a</td><td>Merge branch 'feature/salonProfile' into develop</td><td>07/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>3d6fbfb</td><td>feat: added Salon profile update y delete</td><td>07/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>65126ee</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>07/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>8cd1ec0</td><td>corrections</td><td>07/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>7cb813f</td><td>corrections</td><td>07/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>0cf8c7a</td><td>feat: salon profile without update or delete</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>7536cf4</td><td>fix: deleted unneeded file</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>22798e3</td><td>docs: update profile context</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>aed3a23</td><td>docs: remove all ids, it is all in base service</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>3a8ddb6</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>90c8265</td><td>gael xd</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>7401e4f</td><td>feat: new update</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>917a393</td><td>docs: fix id naming standard</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>26a5a3c</td><td>docs: fix class diagram profiles</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>d5c305b</td><td>Merge branch 'feature/class-diagram' into develop</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>749174e</td><td>docs: finish salon and clients</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>c8874ee</td><td>docs: added salon profile classes</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>a78ccad</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>2c5e0b3</td><td>Merge branch 'feature/class-diagram' into develop</td><td>05/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>d9553af</td><td>feat: AccountCommandServiceImplementation</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>d724893</td><td>feat: finished account Query Service and command service</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>0fefb28</td><td>feat: Salon updated</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>23cf8df</td><td>docs: add layer diagram and package diagram</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>a2e3f0e</td><td>docs: finish value objects of profiles</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>85cded1</td><td>feat: added learning center template examples</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>c2af4fa</td><td>docs: fix value objects into used variables</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>4822511</td><td>docs: add value objectos salon</td><td>03/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>cff8afa</td><td>docs: add class diagram new</td><td>02/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>2a40f2f</td><td>docs: add class diagram 0.1</td><td>01/06/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>cd1ffb2</td><td>feat: Add Client module with endpoints for getAll, getById, and Swagger integration</td><td>31/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>c5912c6</td><td>feat: added salons get by id</td><td>29/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>ea13078</td><td>feat: added salons values</td><td>29/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>c809237</td><td>feat: added clients</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>3378702</td><td>feat: initialized Salon</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>39788fc</td><td>Create README.md</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>develop</td><td>dbc3c22</td><td>feat: Spring Boot project setup</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>main</td><td>c809237</td><td>feat: added clients</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>main</td><td>3378702</td><td>feat: initialized Salon</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>main</td><td>39788fc</td><td>Create README.md</td><td>27/05/2025</td></tr>
+    <tr><td>Web-Services</td><td>main</td><td>dbc3c22</td><td>feat: Spring Boot project setup</td><td>27/05/2025</td></tr>
+  </tbody>
+</table>
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+En el Sprint 3 se avanzó en la implementación y despliegue del backend. La cual muestra los diferentes endpoints del sistema del negocio.
+
+#### 1.Provider
+En esta sección se muestra el endpoint de Provider con los diversos métodos para solicitar recursos al servidor respecto a las necesidades del negocio y su interacción con el sistema; asimismo en este contexto tenemos un "GET" el cual devuelve a todos los proveedores del servicio registrados, un "POST" que permite el registro de proveedores al servicio y "GET BY ID" que permite la identificación de provedores mediante el {id} que tienen cada uno.  
+<img src="img/providers_end.png" alt="Providers endpoint" />
+
+#### 2.Provider Profile
+En esta sección se muestra el endpoint de ProviderProfile con los diversos métodos del servicio e interacciones que tiene con el negocio y sistema; asimismo en este contexto tenemos un "GET BY ID" que permite el llamado de todos los provider profiles registrados mediante el {id} que tiene cada uno, asi como un "POST" que permite el registro de nuevos salones de belleza en el sistema.
+<img src="img/Salon_profile_end.png" alt="Providers endpoint"/>
+
+#### 3.Workers
+En esta sección tenemos el endpoint de Workers con los diversos metodos del servidor e implementación de recursos respecto del servicio; en este sentido tenemos un "GET" el cual permite el llamado de todos los workers registrados en el sistema; asi como un "POST" que permite el registro de nuevos workers en el sistema y un "GET BY ID" que permite el llamado de cada worker registrado mediante su {id}.
+<img src="img/workers_end.png" alt="Providers endpoint" />
+
+#### 4.Authentication
+En esta sección se presenta el Authentication que vendria a ser uno de los endpoints más importantes del sistema del negocio ya quie permite el acceso a los endpoint mediante un token de registro; en este sentido tenemos dos "POST" los cuales seria para registrarse en el caso el usuario no tenga una cuenta en el negocio asi como el de iniciar sesión si es que el usuario desea entrar a sus cuenta en el sistema.
+<img src="img/authentication_end.png" alt="Providers endpoint" />
+
+#### 5.Clients
+En esta sección tenemos el Clients con los diversos métodos del servidor e implementaciones dentro del servicio del negocio; en este sentido tenemos un "GET" el cual muestra a todos los clientes registrados en el sistema, un "POST" el cual permite el registro de nuevos clientes en el neogocio y por último un "GET BY ID" el cual permite la identificación de clientes mediante su {id}.
+<img src="img/clients_end.png" alt="Providers endpoint" />
+
+#### 6.Time Slots
+En esta sección podemos visualizar los time slots que son una pieza principal en el sistema del negocio ya que ayuda en el manejo de horarios de las reservaciones; en este sentido tenemos un "GET" el cual devuelve todos los tiem slots registrados por los usuarios, un "POST" que permite la creación de nuevos casialleros de tiempo en la reservación de citas de cada usuario y por último un "GET BY ID" que permite devolver los time slot registrados mediante su {id}.
+<img src="img/time_slots_end.png" alt="Providers endpoint" />
+
+#### 7. Services
+En esta sección tenemos Services el cual forma parte del manejo de negocio y ayuda en la lógica del servicio de cada parametro del sistema; en este sentido tenemos un "GET" que devuelve cada servicio registrado en la estructura del medio y un "POST" que permite registrar el servicio que el usuario desea recibir al momento de reservar sus citas.
+<img src="img/Services_end.png" alt="Providers endpoint" />
+
+#### 8. Users
+En esta sección tenemos a Users el cual contiene a los providers y clients del negocio funciona como un estructura padre que hereda a ambas partes sus caracteristicas dependiendo de las necesaidades que contiene cada uno; en este sentido tenemos dos "GET" uno para devolver a todos los usuarios registrados en el servicio y otro para llamarlos mediante su {id}.
+<img src="img/Users_end.png" alt="Providers endpoint" />
+
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicio dentro del sistema Backend, abarcando desde la configuracion de los endpoints, asi como la lógica de la estructura para los bounded context del negocio:
+### 1. Shared Bounded Context:
+A continuación, se visualiza el "Shared Bounded context" de la parte del Backend de nuetsro negocio uTime; dicho "File" contiene una "File" denominado "Aggregates" el cual tiene como función principal ser la clase base para todos "Aggregates" del proyecto cuales requieran de un servicio de auditoría mediante el "@EntityListeners" el cual registra el "@Id" de cada elemento integrado en el sistema dependiendo del contexto en el que se encuentra; permitiendo que haya un seguimiento de las fechas listadas por hora y fecha en la que fueron creadas ("@CreatedDate") y modificadas("@LastModifiedDate"); las que a su vez se visualizan en el entorno físico de la base de datos en la que estamos creando las tablas "MY SQL". Para realizar este llamado registramos nuestros atributos de @Id, @CreatedDate y @LastModified en un "File" denominado como "AuditableModel" absolvida en "Entities" creando los metodos @Getter para devolver el los registros y las fechas respectivamente con sus diversos parametros. Luego tendriamos un "File" llamado "Infrastucture" el cual contiene un "OpenApiConfiguration", cual permite la documentación automatica de una API REST usando Swagger/OpenApi dentro de la aplicación Spring Boot; asi como también "Flyway" que sirve como herramienta de control de versiones para la base de datos que estamos empleando para la contención de endpoints que estamosm creando y un "SnakeCaseWithPluralize" que permite la modificacion de nombres de atributos en las tablas con guiones bajos y pluralizando los nombres dependiendo del significado.
+<div align="center">
+<img src="img/shared-backend.png" alt="Shared Bounded Context" />
+</div>
+
+#### AuditableAbstractAggregate:
+
+<div align="center">
+<img src="img/entity_listener_shared.png" alt="Shared Bounded Context" />
+</div>
+
+### AuditableModel
+
+<div align="center">
+<img src="img/AuditableModel.png" alt="Shared Bounded Context" />
+</div>
+
+### OpenAPIConfiguration
+
+<div align="center">
+<img src="img/OpenApi.png" alt="Shared Bounded Context" />
+</div>
+
+### Flyway configuration
+
+<div align="center">
+<img src="img/Flyway.png" alt="Shared Bounded Context" />
+</div>
+
+### SnakeCaseWithPluralize
+
+<div align="center">
+<img src="img/pluralize_1.png" alt="Shared Bounded Context" />
+</div>
+
+<div align="center">
+<img src="img/pluralize_2.png" alt="Shared Bounded Context" />
+</div>
+
+### 2. Application properties:
+
+En esta sección tenemos el "Application properties" el cual es el "File" principal que se encarga de la configuración típica de Spring Boot porque establece las bases técnicas para que funciones de forma escalable y segura. En esta sección definimos la conexión con la base de datos, y la gestión de entiedades mediante el esquema JPA y Flyway con su documentación para proteger la API con Swagger y JWT. Asimismo, asegura el buen manejo en la control de versiones de la base de datos, y la personalización de nombres en las tablas para la integracion con el backend y el consumo de servicios.
+<div align="center">
+<img src="img/application_properties.png" alt="Shared Bounded Context" />
+</div>
+<div align="center">
+<img src="img/application_1.png" alt="Shared Bounded Context" />
+</div>
+
+### 3.IAM Bounded Context:
+
+Por último, tenemos la sección de "IAM bounded context" que se encarga del manejo de autorización para el ingreso al servicio del negocio tanto en el "sign-in" como con el "sign-up" este "File" sigue el patrón Command Query Responsibility Segregation(CQRS) el cual permite leer y escribir las operaciones separandolos en modelos de datos permitiendo la escalabilidad y seguridad al momento de acceder a cada endpoint del backend; esta autorización se logra mediante la creación de token JWT(JSON Web Token), los cuales generan automaticamente al momento de registrar un nuevo usuario al servicio. Estos tokens ecapsulan la identidad y permisos al usuario, asegurando un entorno de ejecución confiable y eficiente para cada solicitud del sistema. Además, el uso de hashing seguro con el algoritmo BCrypt garantiza la protección de las contraseñas almacenadas en el sistema del servicio, reforzando asi la seguridad ante diferentes vulnerabilidades.
+<div align="center">
+<img src="img/IAM%20.png" alt="Shared Bounded Context" />
+</div>
+<div align="center">
+<img src="img/tokens.png" alt="Shared Bounded Context" />
+</div>
+<div align="center">
+<img src="img/hashing.png" alt="Shared Bounded Context" />
+</div>
+<div align="center">
+<img src="img/service_confi.png" alt="Shared Bounded Context" />
+</div>
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+Para realizar el deployment del backend de la aplicación, se empleo la plataforma Azure. Se realizaron los sigueintes pasos para llevar a cabo el despligue del proyecto.
+
+### 5.2.3.8. Team Collaboration Insights during  Sprint
+En el Sprint 3, se dividieron las tareas según las funcionalidades del sistema y se asignaron a los integrantes del equipo considerando sus competencias y experiencia. Esta estrategia facilitó una distribución más eficiente del trabajo y contribuyó a un progreso más ágil en el desarrollo.
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+**Segmento Objetivo 1: Dueños de salones de belleza y barberías**
+
+**Objetivo de la entrevista:**
+* Validar la utilidad y adopción de funcionalidades clave: agendamiento de citas, personalización de horarios, notificaciones automáticas, uso del panel administrativo y percepción del valor de los planes de suscripción.
+
+**User Flow a validar:**
+* Registro del salón/barbería.
+* Configuración de horarios de atención.
+* Creación y edición de servicios.
+* Visualización y gestión de citas.
+* Lectura de reseñas de clientes.
+* Selección de un plan de suscripción.
+
+**Segmento Objetivo 2: Clientes de servicios de belleza**
+
+**Objetivo de la entrevista:**
+* Comprobar la facilidad de uso y percepción del valor del sistema de reserva de citas desde la perspectiva del cliente.
+
+**User Flow a validar:**
+* Ingreso desde la landing page.
+* Registro como cliente.
+* Selección de salón y servicio.
+* Elección de fecha y método de pago.
+* Recepción de notificación de cita.
+* Visualización de citas y posibilidad de cancelación.
+
+**PREGUNTAS PARA LA ENTREVISTA**
+
+* ¿Cuál es tu nombre?
+* ¿Has usado alguna herramienta digital para reservas o todo lo haces por WhatsApp, redes u otro método?
+* ¿Qué es lo que más te cuesta gestionar en el tema de reservas?
+
+<i>**SEGMENTO OBJETIVO #1: Dueños de Salones de Belleza o Barberías**</i>
+
+**Preguntas tras mostrar la Landing Page**
+* ¿Sientes que comunica bien la propuesta y beneficios del producto?
+* ¿Qué sección o contenido te pareció más útil o llamativo?
+* ¿Los planes que se ofrecen se ven claros y bien diferenciados?
+* ¿Te animarías a probar una plataforma como esta luego de ver la landing?
+
+**Preguntas tras mostrar la Aplicación Web (Vista del salón)**
+* ¿Fue fácil navegar y entender cómo funciona la gestión de citas?
+* ¿Te resultó intuitiva la configuración de horarios y servicios?
+* ¿Te parecen útiles las funciones de notificación automática y panel de reseñas?
+* ¿Qué tan probable es que uses esta herramienta en tu negocio?
+* ¿Te sentirías cómodo/a pagando por un plan si esto mejora la eficiencia de tu gestión?
+
+<i>**SEGMENTO OBJETIVO #2 Clientes de servicios de belleza**</i>
+
+**Preguntas tras mostrar la Landing Page**
+* ¿Qué tan atractivo te parece el diseño y la organización del sitio?
+* ¿Qué parte de la información te pareció más útil para ti como cliente?
+* ¿Te daría confianza usar este sistema para reservar en lugar de escribir por redes?
+
+**Preguntas tras mostrar la Aplicación Web (Vista cliente)**
+* ¿Fue sencillo registrarte y navegar por la aplicación?
+* ¿Pudiste encontrar fácilmente un estilista y agendar una cita?
+* ¿Qué opinas del flujo para elegir horario y método de pago?
+* ¿Te gustaría recibir notificaciones o recordatorios como los que viste?
+* ¿Te gustaría tener la opción de guardar tus salones favoritos o ver tu historial?
+
+**Preguntas de cierre**
+* ¿Qué es lo que más te gustó de uTime?
+* ¿Qué aspecto te pareció confuso o poco útil?
+* ¿Hay alguna funcionalidad que esperabas ver y no encontraste?
+* En una escala del 1 al 10, ¿qué tan probable es que la uses?
+
+### 5.3.2. Registro de Entrevistas
+
+### Segmento Objetivo 1 (Salones de Belleza y Barberías)
+
+#### Datos del Entrevistado #1
+
+- **Nombre completo:** Maria Ysabel Sosa Rodriguez
+- **Segmento Objetivo:** Dueña de un Salón de belleza
+- **Edad:** 45 años
+- **Distrito:** San Juan de Lurigancho
+- **Inicio de la entrevista:** 0: minutos
+- **Duración:** : minutos
+- **Screenshot del cuadro de video:** ![Entrevista 01](img/)
+
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y actualmente enfrenta retos en la gestión de sus citas. 
+
+#### Datos del Entrevistado #2
+
+- **Nombre completo:** Miguel Alonso Talledo García
+- **Segmento Objetivo:** Dueño de un salón de belleza
+- **Edad:** 28 años
+- **Distrito:** Chorrillos
+- **Inicio de la entrevista:** : minutos
+- **Duración:** : minutos
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 02]()*
+
+**Resumen:**
+Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es propietario de un salón de belleza ubicado en Barranco, con más de cinco años de experiencia en el rubro. 
+
+#### Datos del Entrevistado #3
+
+- **Nombre completo:** Alya Fernandez Ruiz
+- **Segmento Objetivo:** Dueña de un salón de belleza
+- **Edad:** 24 años
+- **Distrito:** Surco
+- **Inicio de la entrevista:** : minutos
+- **Duración:** : minutos
+- **Screenshot del cuadro de video:** *![Entrevista 03](img/)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 03]()*
+
+**Resumen:**
+Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. 
+
+### Segmento Objetivo 2 (Clientes)
+
+#### Datos del Entrevistado #1
+
+- **Nombre completo:** Luis Andrés Alva Abanto
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 19 años
+- **Distrito:** San Borja
+- **Inicio de la entrevista:** : minutos
+- **Screenshot del cuadro de video:** *![interview_1.jpeg](img/2ENTREVISTA1S2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+- **Duración:** : minutos
+
+**Resumen:** Luis visita el salón o barbería una vez al mes, actualmente realiza sus reservas mediante WhatsApp, pero identifica como problemática la demora en recibir respuestas por ese medio. Durante la entrevista de validación, expresó que la landing page de uTime le pareció visualmente atractiva, con un diseño moderno y colores bien seleccionados. También valoró positivamente la interfaz de la aplicación web, destacando su coherencia estética con la página de inicio. Como sugerencia, recomendó ajustar el tamaño de algunas tarjetas (cards) dentro de la plataforma para lograr una presentación más armoniosa. En general, mostró disposición a usar uTime, considerando que le ofrecería una solución más eficiente frente a los tiempos de espera actuales.
+
+#### Datos del Entrevistado #2
+
+- **Nombre completo:** Allison Milagros Rivera Quispe
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20 años
+- **Distrito:** San Martín de Porres
+- **Inicio de la entrevista:** : minutos
+- **Duración:** : minutos
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+Allison Rivera, de 20 años, es una joven universitaria que 
+
+#### Datos del Entrevistado #3
+
+- **Nombre completo:** Allison Naomi Galindo Palomino
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20 años
+- **Distrito:** Cercado De Lima
+- **Screenshot del cuadro de video:** *![interview_3.jpeg](img/)*
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+- **Inicio de la entrevista:** : minutos
+- **Duración:** : minutos
+
+**Resumen:** Allison Galindo, una universitaria de 20 años que vive en el Cercado de Lima, 
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+#### UX Heuristics & Principles Evaluation
+##### Usability – Inclusive Design – Information Architecture
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Aplicaciones Web  
+**SECCIÓN**: 4363  
+**PROFESORES**: Todos  
+**AUDITOR**: Grupo PropGMS – Evaluación UX uTime  
+
+| Nombres y Apellidos             | Código de alumno |
+|---------------------------------|------------------|
+| Andrea Marielena Aponte Cruzado | u202224135       |
+| Fabrizio Amir León Vivas        | u20211b99        |
+| Mario Joaquin Lopez Acuña       | u202116250       | 
+| Alvaro Joaquin Orozco Torres    | u202220783       | 
+| Henry Paolo Reaño Delgadillo    | u20221e247       |
+
+**CLIENTE(S)**: Equipo de desarrollo de PaxTech (uTime)
+
+<hr>
+
+#### SITE O APP A EVALUAR:
+**uTime – Plataforma Web de Gestión de Citas para Salones y Clientes**
+
+#### TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario (cliente y salón)
+2. Inicio de sesión
+3. Visualización de citas programadas
+4. Creación y edición de servicios por parte del salón
+5. Configuración de horarios del salón
+6. Visualización y selección de planes de suscripción
+7. Cancelación o reprogramación de una cita
+8. Recepción de notificaciones de recordatorio
+9. Visualización de beneficios y contacto desde la landing page
+
+**ESCALA DE SEVERIDAD:**
+
+<i>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad. </i>
+
+<table>
+   <tr>
+      <th>Nivel</th>
+      <th>Descripción</th>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+reléase</td>
+   </tr>
+   <tr>
+      <td>3</td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+   </tr>
+   <tr>
+      <td>4</td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+   </tr>
+</table>
+
+**TABLE DE RESUMEN:**
+
+| # | Problema                                                                           | Escala de severidad | Heurística / Principio violado                  |
+|---|------------------------------------------------------------------------------------|---------------------|-------------------------------------------------|
+| 1 | No se confirma visualmente el éxito al iniciar sesión                              | 3                   | Usability: Visibilidad del estado del sistema   |
+| 2 | Iconos sin etiquetas dificultan el reconocimiento de funciones                     | 2                   | Usability: Reconocimiento antes que recuerdo    |
+| 3 | Textos largos en la landing pueden saturar al usuario                              | 1                   | Usability: Diseño estético y minimalista        |
+| 4 | No existe acceso a sección de ayuda o tutorial                                     | 3                   | Usability: Ayuda y documentación                |
+| 5 | No se puede ver el historial completo de citas pasadas desde el perfil del cliente | 2                   | Information Architecture: ¿Es localizable?      |
+| 6 | Falta de confirmación visual al editar servicios                                   | 2                   | Usability: Visibilidad del estado del sistema   |
+| 7 | El salón no puede responder a los reviews que dejan los clientes                   | 2                   | Usability: Libertad y control del usuario       |
+*DESCRIPCIÓN DE PROBLEMAS*
+
+**PROBLEMA #1: No se confirma visualmente el éxito al iniciar sesión**
+- **Severidad**: 3
+- **Heurística violada**: Usability – Visibilidad del estado del sistema
+- **Descripción**:  
+  Al iniciar sesión correctamente, no aparece ningún mensaje, animación o redirección clara que confirme que el proceso fue exitoso. Esto genera incertidumbre y puede llevar al usuario a pensar que hubo un error.
+- **Recomendación**:  
+  Incluir un mensaje de bienvenida visible (“Inicio de sesión exitoso”), transiciones suaves o dashboard de entrada con saludo personalizado.
+
+**PROBLEMA #2: Iconos sin etiquetas dificultan el reconocimiento de funciones**
+- **Severidad**: 2
+- **Heurística violada**: Usability – Reconocimiento antes que recuerdo
+- **Descripción**:  
+  Algunos botones del menú (como el ícono de “Servicios” o “Citas”) carecen de etiquetas al pasar el cursor. Esto puede dificultar el aprendizaje inicial de la plataforma.
+- **Recomendación**:  
+  Incluir tooltips o etiquetas breves al hacer hover sobre los íconos.
+
+**PROBLEMA #3: Textos largos en la landing pueden saturar al usuario**
+- **Severidad**: 1
+- **Heurística violada**: Usability – Diseño estético y minimalista
+- **Descripción**:  
+  Algunas secciones de la landing contienen bloques extensos de texto descriptivo. Esto puede distraer o desmotivar al usuario.
+- **Recomendación**:  
+  Reorganizar los textos usando viñetas, subtítulos o pictogramas para facilitar la lectura.
+
+**PROBLEMA #4: No existe acceso a sección de ayuda o tutorial**
+- **Severidad**: 3
+- **Heurística violada**: Usability – Ayuda y documentación
+- **Descripción**:  
+  Ni la landing ni la aplicación tienen enlaces visibles a preguntas frecuentes, tutoriales o contacto de soporte.
+- **Recomendación**:  
+  Incluir una sección de ayuda accesible desde el menú principal o footer con preguntas frecuentes y guías rápidas.
+
+**PROBLEMA #5: No se puede ver el historial completo de citas pasadas desde el perfil del cliente**
+- **Severidad:** 2
+- **Heurística violada:** Information Architecture – ¿Es localizable?
+- **Descripción:**
+  El cliente no tiene acceso al detalle de sus citas pasadas ni posibilidad de repetirlas fácilmente desde el historial.
+- **Recomendación:**
+  Incluir un módulo de historial con opción de “Repetir cita”.
+
+**PROBLEMA #6: Falta de confirmación visual al editar servicios**
+- **Severidad:** 2
+- **Heurística violada:** Usability – Visibilidad del estado del sistema
+- **Descripción:**
+  Cuando un administrador edita un servicio, al guardar los cambios no se muestra un mensaje visible de confirmación (ni toast ni modal). Esto genera duda sobre si los cambios fueron aplicados correctamente.
+- **Recomendación:**
+  Implementar un mensaje de éxito (“Servicio actualizado correctamente”) que aparezca de forma visible tras guardar.
+
+**PROBLEMA #7: El salón no puede responder a los reviews que dejan los clientes**
+- **Severidad:** 2
+- **Heurística violada:** Usability – Libertad y control del usuario
+- **Descripción:**
+  Actualmente, los administradores de los salones pueden visualizar las reseñas dejadas por los clientes, pero no pueden responder o gestionar esos comentarios. Esto limita la comunicación bidireccional y la construcción de confianza con los usuarios.
+- **Recomendación:**
+  Permitir que los salones respondan públicamente a las reseñas desde el panel de administración, con opción de moderación si es necesario.
+
+## 5.4. Video About-the-Product
+
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
