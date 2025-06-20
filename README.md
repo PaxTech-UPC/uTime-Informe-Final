@@ -4280,46 +4280,32 @@ En el Sprint 3, se dividieron las tareas según las funcionalidades del sistema 
 
 #### Datos del Entrevistado #1
 
-- **Nombre completo:** Maria Ysabel Sosa Rodriguez
+- **Nombre completo:** Vianka Aracelli Graciel Diaz Dueñas
 - **Segmento Objetivo:** Dueña de un Salón de belleza
-- **Edad:** 45 años
+- **Edad:** 19 años
 - **Distrito:** San Juan de Lurigancho
-- **Inicio de la entrevista:** 0: minutos
-- **Duración:** : minutos
-- **Screenshot del cuadro de video:** ![Entrevista 01](img/)
+- **Inicio de la entrevista:** 0:19 minutos
+- **Duración:** 36:09 minutos
+- **Screenshot del cuadro de video:** ![Entrevista 01](img/2ENTREVISTA1S1.png)
 
-- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EYZBcaJYZv5GqdHRtG_jMgkBOOAPuLsi8gHYLaTEP-FX2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5D6mcU)*
 
 **Resumen:**
-María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y actualmente enfrenta retos en la gestión de sus citas. 
+Vianka consideró que la landing de uTime comunica bien la propuesta y destacó la explicación del funcionamiento y los testimonios. Le pareció útil y estaría interesada en probar la plataforma. Al usar la app web, le resultó fácil e intuitiva. Valoró especialmente el calendario visual y las notificaciones automáticas, aunque al inicio tuvo dificultad para volver al menú principal. Calificó la herramienta con 8/10 y estaría dispuesta a pagar si mejora la gestión del salón. Sugiere integrar WhatsApp o SMS para facilitar aún más la comunicación con los clientes
 
 #### Datos del Entrevistado #2
 
-- **Nombre completo:** Miguel Alonso Talledo García
+- **Nombre completo:** Victor Otto Reinoso Díaz
 - **Segmento Objetivo:** Dueño de un salón de belleza
-- **Edad:** 28 años
-- **Distrito:** Chorrillos
-- **Inicio de la entrevista:** : minutos
-- **Duración:** : minutos
-- **Screenshot del cuadro de video:** *![Entrevista 02](img/)*
-- **URL del video (Microsoft Stream):**  *[Entrevista 02]()*
+- **Edad:** 25 años
+- **Distrito:** Lurigancho-Chosica
+- **Inicio de la entrevista:** 6:19 minutos
+- **Duración:** 36:09 minutos
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/2ENTREVISTA2S1.png)*
+- **URL del video (Microsoft Stream):**  *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EYZBcaJYZv5GqdHRtG_jMgkBOOAPuLsi8gHYLaTEP-FX2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5D6mcU)*
 
 **Resumen:**
-Miguel Talledo es un joven de 28 años y actualmente reside en Chorrillos. Es propietario de un salón de belleza ubicado en Barranco, con más de cinco años de experiencia en el rubro. 
-
-#### Datos del Entrevistado #3
-
-- **Nombre completo:** Alya Fernandez Ruiz
-- **Segmento Objetivo:** Dueña de un salón de belleza
-- **Edad:** 24 años
-- **Distrito:** Surco
-- **Inicio de la entrevista:** : minutos
-- **Duración:** : minutos
-- **Screenshot del cuadro de video:** *![Entrevista 03](img/)*
-- **URL del video (Microsoft Stream):**  *[Entrevista 03]()*
-
-**Resumen:**
-Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde también se ubica su salón de belleza. 
+Víctor Reinoso participó en la entrevista de validación sobre uTime y expresó una impresión general positiva del producto. Señaló que la aplicación le pareció moderna y bien organizada, destacando la paleta de colores como un aspecto que le agradó particularmente por su estilo profesional y atractivo. Como única sugerencia de mejora, mencionó que el logo de uTime podría ser más representativo o refinado para alinearse mejor con el diseño general de la plataforma. Además, indicó que sí implementaría uTime en su negocio, ya que considera que puede facilitar la gestión de citas y mejorar la experiencia de sus clientes.
 
 ### Segmento Objetivo 2 (Clientes)
 
@@ -4329,10 +4315,10 @@ Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde tambi�
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 19 años
 - **Distrito:** San Borja
-- **Inicio de la entrevista:** : minutos
+- **Inicio de la entrevista:** 14:15 minutos
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/2ENTREVISTA1S2.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
-- **Duración:** : minutos
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EYZBcaJYZv5GqdHRtG_jMgkBOOAPuLsi8gHYLaTEP-FX2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5D6mcU)*
+- **Duración:** 36:09 minutos
 
 **Resumen:** Luis visita el salón o barbería una vez al mes, actualmente realiza sus reservas mediante WhatsApp, pero identifica como problemática la demora en recibir respuestas por ese medio. Durante la entrevista de validación, expresó que la landing page de uTime le pareció visualmente atractiva, con un diseño moderno y colores bien seleccionados. También valoró positivamente la interfaz de la aplicación web, destacando su coherencia estética con la página de inicio. Como sugerencia, recomendó ajustar el tamaño de algunas tarjetas (cards) dentro de la plataforma para lograr una presentación más armoniosa. En general, mostró disposición a usar uTime, considerando que le ofrecería una solución más eficiente frente a los tiempos de espera actuales.
 
@@ -4342,13 +4328,13 @@ Alya Fernandez es una joven de 24 años y reside en Surco, distrito donde tambi�
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 20 años
 - **Distrito:** San Martín de Porres
-- **Inicio de la entrevista:** : minutos
-- **Duración:** : minutos
-- **Screenshot del cuadro de video:** *![Entrevista 02](img/)*
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+- **Inicio de la entrevista:** 24:13 minutos
+- **Duración:** 36:09 minutos
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/2ENTREVISTA2S2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EYZBcaJYZv5GqdHRtG_jMgkBOOAPuLsi8gHYLaTEP-FX2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5D6mcU)*
 
 **Resumen:**
-Allison Rivera, de 20 años, es una joven universitaria que 
+Allison Rivera comentó que usualmente reserva citas a través de WhatsApp o redes sociales, aunque señaló que estos métodos pueden resultar ineficientes debido a la demora en recibir respuestas, lo que le obliga a esperar para conocer la disponibilidad de horarios. Durante la entrevista, expresó que la landing page de uTime le pareció bonita, bien organizada y con una paleta de colores moderna y profesional. Manifestó especial interés en conocer con claridad la disponibilidad de los estilistas al momento de agendar. Considera que la plataforma sería útil, ya que le ahorraría tiempo en comparación con sus métodos actuales. Además, calificó como práctico y atractivo el flujo de selección de horarios y método de pago dentro de la aplicación web, y mencionó que le gustaría recibir notificaciones para que le recuerden sus citas programadas.
 
 #### Datos del Entrevistado #3
 
@@ -4356,13 +4342,20 @@ Allison Rivera, de 20 años, es una joven universitaria que
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 20 años
 - **Distrito:** Cercado De Lima
-- **Screenshot del cuadro de video:** *![interview_3.jpeg](img/)*
-- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
-- **Inicio de la entrevista:** : minutos
-- **Duración:** : minutos
+- **Screenshot del cuadro de video:** *![interview_3.jpeg](img/2ENTREVISTA3S2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EYZBcaJYZv5GqdHRtG_jMgkBOOAPuLsi8gHYLaTEP-FX2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5D6mcU)*
+- **Inicio de la entrevista:** 31:37 minutos
+- **Duración:** 36:09 minutos
 
-**Resumen:** Allison Galindo, una universitaria de 20 años que vive en el Cercado de Lima, 
-
+**Resumen:** Allison Galindo es una universitaria de 20 años que vive en el Cercado de Lima. Acude a servicios de belleza de forma ocasional, priorizando encontrar
+disponibilidad en los horarios que se ajusten a su rutina académica. Aunque anteriormente solía reservar citas por WhatsApp o redes sociales, ha manifestado
+interés en utilizar plataformas digitales como uTime, siempre que estas sean claras, organizadas y confiables. Le resulta importante poder filtrar estilistas por zona y
+tipo de servicio, así como evitar el tiempo perdido escribiendo individualmente a cada salón. Allison valora la puntualidad, la seguridad al momento de pagar
+(usando tarjeta o billeteras móviles como Yape o Plin), y considera muy útil recibir notificaciones o recordatorios automáticos de sus citas. Durante su experiencia
+con la aplicación de uTime, destacó positivamente la facilidad para registrarse, navegar, agendar citas y el diseño moderno de la plataforma. Además, le gustaría
+contar con funcionalidades como un chat directo con el estilista y la posibilidad de recibir actualizaciones en tiempo real sobre el estado de su cita. En general,
+considera que las herramientas digitales pueden mejorar notablemente la experiencia del cliente si están bien implementadas y comunican claramente todas sus
+funcionalidades.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
