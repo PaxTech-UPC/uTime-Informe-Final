@@ -121,7 +121,7 @@
 
 # Project Report Collaboration Insights
 
-URL del repositorio para el proyecto: https://github.com/PaxTech-UPC/uTime-Informe-Final
+URL del repositorio para el Informe Final: https://github.com/PaxTech-UPC/uTime-Informe-Final
 
 **TB1**
 
@@ -286,6 +286,16 @@ El proceso de colaboración en el informe se realizó mediante commits constante
    5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)<br>
    5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)<br>
    5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during--sprint)<br>
+   5.3. [Validation Interviews](#53-validation-interviews)<br>
+   5.3.1 [Diseño de Entrevistas](#531-diseño-de-entrevistas)<br>
+   5.3.2 [Registro de Entrevistas](#532-registro-de-entrevistas)<br>
+   5.3.3 [Evaluación según heurísticas](#533-evaluaciones-según-heurísticas)<br>
+   5.4. [Video About-the-Product](#54-video-about-the-product)<br>
+6. [Conclusiones](#conclusiones)<br>
+   6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
+   6.2. [Video About-the-Team](#62-video-about-the-team)<br>
+7. [Bibliografía](#bibliografía)<br>
+8. [Anexos](#anexos)<br>
 6. [Conclusiones](#conclusiones)<br>
    6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
 7. [Bibliografía](#bibliografía)<br>
