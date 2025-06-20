@@ -78,43 +78,43 @@
 
 <div align='center'>
 
-| Version | Fecha       | Autor                           | Descripción de modificación                                                                            |
-|---------|-------------|---------------------------------|--------------------------------------------------------------------------------------------------------|
-| 1.0     | 01/04/2025  | Julca, Rivera, Varela, Yalán    | Creación del documento de trabajo en formato markdown                                                  |
-| 1.1     | 03/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Capitulo I                                                                             |
-| 1.2     | 05/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Competidores y Entrevistas                                                              |
-| 1.3     | 07/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Needfinding                                                                            |
-| 1.4     | 08/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del To-Be y Ubiquitous Language                                                            |
-| 1.5     | 09/04/2025  | Julca, Rivera, Varela, Yalán    | Creación de los requisitos funcionales y no funcionales                                                |
-| 1.6     | 11/04/2025  | Julca, Rivera, Varela, Yalán    | Culminación del Capitlo III                                                                            |
-| 1.7     | 13/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Style Guidelines y Information Architecture                                             |
-| 1.8     | 16/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
-| 1.9     | 17/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Web Application Prototyping                                                            |
-| 1.10    | 19/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
-| 1.11    | 22/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Capitulo V                                                                             |
-| 1.12    | 23/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Landing Page                                                                           |
-| 2.0     | 27/04/2025  | Julca, Rivera, Varela, Yalán    | Corrección de los items mencionados en la primera entrega (TB1)                                        |
-| 2.1     | 29/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Sprint 2                                                                               |
-| 2.2     | 01/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Diagrama de clases                                                                     |
-| 2.3     | 02/04/2025  | Julca, Rivera, Varela, Yalán    | Creación del Proyecto en el Repositorio de FrontEnd Web Application                                    |
-| 2.4     | 03/04/2025  | Julca, Rivera, Varela, Yalán    | Elaboración del Sprint Planing                                                                         |
-| 2.5     | 05/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Sprint Backlog                                                                            |
-| 2.6     | 10/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Execution Evidence for Sprint Review.                                                  |
-| 2.7     | 12/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Services Documentation Evidence for Sprint Review.                                        |
-| 2.8     | 14/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Software Deployment Evidence for Sprint Review.                                        |
-| 3.0     | 27/05/2025  | Chi, Rivera, Varela, Yalán, Yum | Corrección de los items mencionados en la primera entrega (TP1)                                        |
-| 3.1     | 30/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Sprint 3                                                                               |
-| 3.2     | 01/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Diagrama de clases del Backend                                                         |
-| 3.3     | 02/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Proyecto en el Repositorio de Web Application                                             |
-| 3.4     | 03/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Sprint Planing 3                                                                       |
-| 3.5     | 05/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del Sprint Backlog 3                                                                          |
-| 3.6     | 10/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Execution Evidence for Sprint Review 3.                                                |
-| 3.7     | 12/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Creación del las Validation Interviews                                                                 |
-| 3.8     | 14/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Diseño de Entrevistas                                                                  |
-| 3.9     | 14/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Registro de Entrevistas.                                                               |
-| 3.10    | 15/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Video About-the-Product.                                                               |
-| 3.11    | 15/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración de las Conclusiones y recomendaciones.                                                     |
-| 3.11    | 16/06/2025  | Chi, Rivera, Varela, Yalán, Yum | Elaboración del Video About-the-Team.                                                                  |
+| Version | Fecha       | Autor                        | Descripción de modificación                                                                            |
+|---------|-------------|------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1.0     | 01/04/2025  | Julca, Rivera, Varela, Yalán | Creación del documento de trabajo en formato markdown                                                  |
+| 1.1     | 03/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Capitulo I                                                                             |
+| 1.2     | 05/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración de Competidores y Entrevistas                                                              |
+| 1.3     | 07/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Needfinding                                                                            |
+| 1.4     | 08/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del To-Be y Ubiquitous Language                                                            |
+| 1.5     | 09/04/2025  | Julca, Rivera, Varela, Yalán | Creación de los requisitos funcionales y no funcionales                                                |
+| 1.6     | 11/04/2025  | Julca, Rivera, Varela, Yalán | Culminación del Capitlo III                                                                            |
+| 1.7     | 13/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración de Style Guidelines y Information Architecture                                             |
+| 1.8     | 16/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración de Landing Page UI Design y Web Application UX/UI Design                                   |
+| 1.9     | 17/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Web Application Prototyping                                                            |
+| 1.10    | 19/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración de Domain Driven Software Architecture, Software Object Oriented Design y Database Diagram |
+| 1.11    | 22/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Capitulo V                                                                             |
+| 1.12    | 23/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Landing Page                                                                           |
+| 2.0     | 27/04/2025  | Julca, Rivera, Varela, Yalán | Corrección de los items mencionados en la primera entrega (TB1)                                        |
+| 2.1     | 29/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Sprint 2                                                                               |
+| 2.2     | 01/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Diagrama de clases                                                                     |
+| 2.3     | 02/04/2025  | Julca, Rivera, Varela, Yalán | Creación del Proyecto en el Repositorio de FrontEnd Web Application                                    |
+| 2.4     | 03/04/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Sprint Planing                                                                         |
+| 2.5     | 05/05/2025  | Julca, Rivera, Varela, Yalán | Creación del Sprint Backlog                                                                            |
+| 2.6     | 10/05/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Execution Evidence for Sprint Review.                                                  |
+| 2.7     | 12/05/2025  | Julca, Rivera, Varela, Yalán | Creación del Services Documentation Evidence for Sprint Review.                                        |
+| 2.8     | 14/05/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Software Deployment Evidence for Sprint Review.                                        |
+| 3.0     | 27/05/2025  | Julca, Rivera, Varela, Yalán | Corrección de los items mencionados en la primera entrega (TP1)                                        |
+| 3.1     | 30/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Sprint 3                                                                               |
+| 3.2     | 01/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Diagrama de clases del Backend                                                         |
+| 3.3     | 02/06/2025  | Julca, Rivera, Varela, Yalán | Creación del Proyecto en el Repositorio de Web Application                                             |
+| 3.4     | 03/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Sprint Planing 3                                                                       |
+| 3.5     | 05/06/2025  | Julca, Rivera, Varela, Yalán | Creación del Sprint Backlog 3                                                                          |
+| 3.6     | 10/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Execution Evidence for Sprint Review 3.                                                |
+| 3.7     | 12/06/2025  | Julca, Rivera, Varela, Yalán | Creación del las Validation Interviews                                                                 |
+| 3.8     | 14/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Diseño de Entrevistas                                                                  |
+| 3.9     | 14/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Registro de Entrevistas.                                                               |
+| 3.10    | 15/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Video About-the-Product.                                                               |
+| 3.11    | 15/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración de las Conclusiones y recomendaciones.                                                     |
+| 3.11    | 16/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Video About-the-Team.                                                                  |
 
 
 </div>
@@ -278,9 +278,9 @@ El proceso de colaboración en el informe se realizó mediante commits constante
    5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227software-deployment-evidence-for-sprint-review)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint](#5228team-collaboration-insights-during-sprint)<br>
    5.2.3. [Sprint 3](#523-sprint-3)<br>
-   5.2.3.1. [Sprint Planning 3](#5231-sprint-planning)<br>
+   5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-3)<br>
    5.2.3.2. [Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)<br>
-   5.2.3.3. [Sprint Backlog 3](#5223sprint-backlog-2)<br>
+   5.2.3.3. [Sprint Backlog 3](#5233-sprint-backlog-3)<br>
    5.2.3.4. [Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)<br>
    5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)<br>
    5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)<br>
@@ -294,10 +294,6 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 6. [Conclusiones](#conclusiones)<br>
    6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
    6.2. [Video About-the-Team](#62-video-about-the-team)<br>
-7. [Bibliografía](#bibliografía)<br>
-8. [Anexos](#anexos)<br>
-6. [Conclusiones](#conclusiones)<br>
-   6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)<br>
 
@@ -1961,16 +1957,53 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 ### 4.6.1. Software Architecture Context Diagram.
 
 <div align="center">
-   <img src="img/c4-context.png" alt="c4-context"/>
+   <img src="img/context-diagram.png" alt="c4-image"/>
 </div>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 <div align="center">
-   <img src="img/c4-container.png" alt="c4-context"/>
+   <img src="img/container-diagram.png" alt="c4-image"/>
 </div>
 
 ### 4.6.3. Software Architecture Components Diagrams.
+
+-Single Page Application diagram:
+
+<div align="center">
+   <img src="img/singlepage-diagram.png" alt="c4-image"/>
+</div>
+
+-Profiles diagram:
+
+<div align="center">
+   <img src="img/profiles-diagram.png" alt="c4-image"/>
+</div>
+
+-Reservation diagram:
+
+<div align="center">
+   <img src="img/reservations.png" alt="c4-image"/>
+</div>
+
+-Reviews diagram:
+
+<div align="center">
+   <img src="img/reviewsdiagram.png" alt="c4-image"/>
+</div>
+
+-Services diagram:
+
+<div align="center">
+   <img src="img/servicesdiagram.png" alt="c4-image"/>
+</div>
+
+-Workers diagram:
+
+<div align="center">
+   <img src="img/workers.png" alt="c4-image"/>
+</div>
+
 
 #### Single Page Application Diagram:
 
@@ -2007,40 +2040,98 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 
 ### 4.7.1. Class Diagrams.
 
-<div align="center">
-   <img src="img/class-diagram-uTime.png" alt="class-diagram"/>
-</div>
+## Diagrama de Clases
+
+### Diagrama completo del Backend
+
+![Diagrama de Clases](diagram/uTime_Backend.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/tLtDajku4Rwxok-WsakyvLhDVSfnTlxiA3KUpOvcTcjFBbf3QxYMH8Max9tTsciU8Cazpv5ptYHFa4S8Vm0I01j0DmXGzix1bYYWlqQZkm5y18blyoBAYlrcFTdV9fjuSXejFyJR-wTFyW_9TXTbqMQoAoz5gtXHFAxZIHOlYsYxMiTFdpnzmdwPV7MTfU-JTPn_DVdrwPD9-TV-SfvkecJRNfT-UvFUnslf9-ddazKgYrTH8OWL_vRhACydP-iatXOvLA3w--PTaXKFR-zBASUix6brvRoyeAdnVhzUNqMRilmhzgc-hYczp-DiTdyykQl_Ltxjr_cjCXlSajA67vFxEDEtPSTAS6jNkDUzQvhAoQOqwbssxghCs1LDXNMwZ8eatNOLBjaLi5dg9LqpAqFbanSlsjwzITFYvKjTe-FIVKgTBwh_u1AxKkgdDAjimJwHpBv8bqcqrXizhtyl_IKwPcMhpoWJoFtwbdUHgN-h0ZEnfyGBcchBz6FNcQMNYryfUgPPyJvT9-dRkhBT3KNtGxWTMgLUPxKPuIpTRABjlJ4VP77fKqsai-Abizt4oz8lNhuqr-ADSQtNTZ2w8ZTvOt4gBdDTMxNVDDRyRXzdYJ6vlewBa_MQfTYg-2D2jwPIcyq8rHZGwUFidb2B8vq-rad2gQODK6V2xwFrFfw_-waS5FElj6PaOyEB5q9nVSRx9YdZQfrkLmuvnXUA3gST4R4exvCiBvhHT55a2GHNbokbOufz0rz_leeBhjgphyqowh9SAqpXoyXUrjunBFcX3RUlKgOp71-fqN3TO4_6F4ktHRGiq52xXtGRN-qtx-BCqjjixATRWSq3_Xpb3tYrX4eaJFF48cpSTnCID4epdxapkPTGRhOq-KHTq12J2uw5YRD52pWeqhg9CBxhWNarFG6BCpKAj3pbSmY_ZmxfHPapqgqjprmenbPhacrDRcmonBgRNRHz98rvowuE6b7uAdnivncBEFkOB86vchW8PlD0LhPKTxOjuknzj8nXPP_FTrNAZzOlsCJhvUIXhB-Edq6Jw6Np_zV6YP6q9g-dL7XjBfEyw6a2p43_MltxDQKvqDGIaW8sHbaKUBEkkjWWs5UUMnCjt5PMRAnCs9sitCemsndVMyACdjnXF9k7whXsjUVGSxpka0vi-GHDHqeOY7umobM4kiGHkDRrrolmKfhIDx84fwvHA1IrPm04JCSOfCeY7Rf5vX2yTOT2JH2wWTLqCJ-hgbXT58YmDY2akOGsBll8_klexDrkdJIhB9WEhzjOgg1bnELE0Waw_NnWjjcjjLEMfi9Dl4lpf4Ypn-DIa7o5EFdNQV1CHUe10PqZTv3YS1F2R4NfADbey41lD1kl8Xfkrxj6D9rUZsTzF03ErO2u2GdAXF3GUpXJwlKPnwIMgOBPfgPnym0cjQaJsAAKOTveLt3W6z-UMZN2sX4rFWFsqn3XucXj7PUaiNtSOMde6jDeM_Gw4p1aPoDmSJU-N_fOArgjHLWluYrlMJC2nhVFtMRRzrcK5zb-MUop69w-NPVjA8qMRvUnVa_3Jxl8kfb127ZhnBVwSt0k4mGeZcum9ZE7ZNKJvuNUIjKjXInThqkBMgtLbRMa4Jd5ebC9aBDuNV4QCRpAzk_IRHvVR8kaU7p1EpvFzrdP3oM0CATzfWi7cv0LZueglAwZuW4hwKzYvTmFFbQAaA9RKOsiBab3ikm95U4fGbdPMT3vb4kG_MK7N1tcCLqaApx3Vy3Q6n2qac-DEtWEh_v3KZnSLvl8uZ8Te1t9hf8lIVLOGVBCdiJMDrlVSVBERec2Tb9uLTCv6_mxKYZilz2lVloOIzRwCoj0xNb0xWgaCmTuEPCopDdHYZgvQqzwpsrv2Phtgiink_EQre-bevb-nebKF5V_uq37bGNt_LRw7UqDMgahYEnrSLf9YAFFqhIaUQn6TkUmSW6IlxRBNgkVWklouqaENJQBaFqnxrySveSCfUT_pNMiwVjILYBlxU1dJMKt_x9eG_8dLLRhH-m7XF_eTlzncVP52YyfR32S_AhVT21C_brgwlUn6ggg4njJBPr1Jl8ythmhmmfja5TP6OfDTxMLTJ7vNAvwF2bIGSocaK9A1y2TWqeIbuhGg2-WKWkGvQ2NqeqkcYaYVEYc-abdUhjIQbqFNQYRuBYefShmvc6Q6VkG7bL4UUbPUEGbMH8MuS-GuFJGoOwW91zcL0OSYlcKgjxCnkIws8bLTJSCo1N-9ZqzrjlTDjhJOwPR5jMVzAnBzrbJE6-adST5b5GcMqZVpPNORi7kYwRu_JvZ6xNFsIUjvlLyyqswZNLSLLv4nRxIi_uVqvCQMqkFGUYjxVif1HX5jhgAfDqMhVIT6oXfdwZKyqGytlbeiCvlPjk2qh3QD_1jOYvrcgRhEB8_AUZXMIzcUj9azsvtJwevz14gdcVKfumCAbRxZffQqED9g8hvwMCNSbO9mxOWoxPqs4V6vQiRoUG-qj-eDaW2Uvko9KtiFUgUD5KPo24Gkz80CJttq8hHQg9t5FiUDy17BdwEQuLrJi91hjBYLRhVtb_yl6mgbDPiFskigQtxh1kNF-SzUM206E_hipBYRVrSlKJaZhn5cqKQ8UAKZWA-4ZUPGD4wjfs7Xxx5m9JmDsj4Im50ztmskoTw_QZcQ0V5m-zYQ8F4Jab36QJrLHmb3SH6Ay4dASsxGYMbc-je7hWdPYyc5YeZpPhfo4dtT5b9CKWZfHLX7IdDT0pCIYlu57BvaDDj3B-iD8r4lyXL_T4lKiETM1X9WW-M2keIccQGXA0qqKtyCOa_7O0bOi1MakXjWdaZIhDth2xRt3ZGbingt6E6_tlXPtYZGs8q5aCZS4CRdtEl-9FjwdYIGFm94nELghuRJ7sqInkxKpgifAg_vvhQpnfBz5PI9FNHp4sZXCD8WguubBTXaKzZNvfATDQ6WP586rW03x70d8_K3GwK3zDNMOFAdOiXV5Gva9CGw1wnqubiZwe9u4LshWSGehgKcUdH2Y0iykoIP2Vxx9-9X9pLI0iq5KHM85Ekk98lm_pUB0ll-qeF0L-9n0iGD-CQU6W8cYrB24EZDkHGn4cpXsFrzxboDwelV17K3OyoAtC3vHxkxIZU1WWjNjyZQyCxGI5jcijOVgCdP2za929ZmvhjHjZq55c90KoYQnHHBLl3z0jCriZe5AxcS1Di35CZjuj2rCWrlV4qKgjTQ1f9W3-MPe1UW02V74trr_PvjEnFqwIPGPKfuv-BLz4okcTJ0nJjK_7JaRmU7f7xwT3rR_n2KpgCQg-ByZcIhYoDLjf5Znkkn7NpMLksI3RnstoTDgMhztuloY_Quf_Ix0DJuuVw8rGIcHYGLDGO955h_w1lPkLT4HAawy6GABplIHZqzzzLVovSKXkdJkCTfVPmLgdBALI6fwtfmYzri0IEo21ZjDr5_VvnefiwtNjhxrx_uuWdGABMeqWKbE8XP1uAK4pdV1X62XO7kgEDKRAAGYzcAHAfl1T69a-8Nmm3fWaY2qlJrfAf6k2oEo7c9p8HKedHgNGYy9LCai6HVQW-y9Sk4CQdfWoxXYvfWohLXQVpapwgly-NiGESxmkXxOJWHt1tcgmfnH-InODZNvBabSyJkgX7whM_uGarIDnUJQXaZgzhkYlH1-crwkKQ8kNN5ohmVftEmSc_dXuq1l3moo8S5zXh9eqGx5Nto0ggHd2Z1bKfFld1OHhgf8JOpIK_-FSGPV5zdzGRQyFmDleGdqLvVFtmc9UJyEhyc6IxMXHPQOvLDPYTLUKCXm5fHh41f6JZfWQbwmVwjAFLflfL-zIVNuwkqGH91YttMLRsLRMtth39Ajga-ss1PAOGt74pnJe0RSo0jVsqhH_wQqePdlRCTt7r-6to2tjshwcmaAvggkuUqY9zMnyZrDIwhYuWpry36uvqYwvHQA9mIpagGqMIhO5_Kb4nhICwjohb-2FUBsDneusc3kC_kk9GHfI52usBR2hHUL06DY9zATdHWRba6YlKYDmx6BvIbGFrCe6b57kDI52gcW1kOASb0I6gJvXfFgq0fmSYXVyEGUz1JcPabPeA8g7qIRdYokSDyrUpBBpFAZq4V2LoTu2_ZslWeQ5ZjYmXV8pQa488w9NFXk9I---BOBTuP5Y9BIXVS0z5qLb0EF3w7aaitWaAVzLSnb8wFI5x8OiG2IlMR3UkggV8IWmw4aEbY6h9AQPVO5vAHgTGKeURZMA8ABbT50vAhkcDVf9QxS8yIGByaKu3z084XA2Q_Z3ve-MlAlE_V_tptvERYykJizb__d5rF3bv_VhculN9xSLYyj-__Nto_SdbtSLaVlgNYxFR1KucVpNRj24PfZMVCEreWobxYtcP0bzEuCBYKdlAJpRsBxavcDg_NFRMzoGh7ixB-bLdM27QrsTZGTGtuQ4QuepIdLuV3eEVseooLzLtQ8JwFUU-XOh7BADKPk-Imyhl3ZScEL1xVY71_E8Pl26XfCDwSQrI3lyZ-oqgAXn1n9Quvjkp-Pit9rVdYydHvBkxYviPoxjT6XwIT3b5DeNEYDCtif_va03gctTH46s-888WdC_airWq-CGj7ARYLqX8vN0g51IheuyfHaLEWTEUV3Y28Bvt1fHd-Vq3cFoucG31oqgdAGL48LbAW71FE-VpDoUpgydYukRxsHdBEVrKv9PxE9Cq1S_brhVHbAqCA4hI8UCezH58oik7dH7rgQY3D1uRZ4S4nHXmuNDnqNXoTIWhAKuYi-Xw77qQ2m6XfZA4RxWrHAuT1gQNRaB3TBbpIAOwkRw-d9sTtCxcGhgQlRc-h7FMpSNrV36xdTSJfwCsXH4Jbt2ROihlI4nbtuUpMSr_IsQHkTcfGCDEVzf5K_M8kp1A4D8gLG4usvBjmCMuMmAh22drkoe1ZmW7j0fM8TemHTR6UdZloDQXwUCoeb9Lqf_3Ewvfa7eu3lgW2j9jHsYG3fvT7JIWpqP28_SdAJHmSAmVmGETj72PGuL7DqsjnaJtC-Cwcr_TtimlBozkcdLXE-iwWjYg8tUkghiVFArk_Kw5ExpjHAUzZmkPmZWj2WYatD_rXqDQ27j2GoKn_rY6jPKdC8XTGgAq4Odr2tWs6XhDnG-nO4Ikn1yaCgi70JGbyi20OkuEWAaZ44bGtQg2vgVmQcHay06nWeIcadtUeSttEx38saDjpUOs7rqx8hHBHvE0tIXMt_Z66qr8tFw1i4P3Wul4e50EVOa3GgrWlUF1T-oSgT75ukBDQJjF5oRdmYwUexB6OdvtSpPuUjxkR6hNsOP3J1rl-ld3L2Mrk_eKIJXmx4cftYVrGtKmc04uPjUOE3fLkiM-Vf-Wy-rIZx3wngkY23sWp847-a5lHaso12_ghIEWxH5OWoYpF4-6GSrV1ClWJt4TkeV3QXV2QQq-UMUzNeYpMMbZ5zeMnYDO1p3CzO3M3NSLToNlMPtKOvhunW9jgyH2jKxwMi1spsgdML0OpWk6nk615nweUqrZK1pn1Oz1WRgtGtB7RAdJqYzBRpmvdzSVkwdQZosFglNJTahSVqE1U6DUhwCIH7qneN5rBrZ0u_Rt8UXXPVwe9oGug518e9760rLV13KoTfS-3e4klLIgYyDwlqWLUDL-aJBechYSpQ6mGzqkrSP4Uzj6accvUIQK5U-V1LThK9eOJo5a_a3SQTEvsxYzDaId0QbkD5qG6V0GkbWIuu5KCkVB0ocbIQFTdU4wcRQpctuIDH5cKY1Bf9dRD6HKQ8MHR5SW7HLdDqQtE99IY7bHHfwv1bT2pwu04j7QqDuwHb0AEQpfDQEzROoWcNvy8onmwoC638xHdE7OQ0MKDIm1VKeMrye-vV8p8hjCnHPObRqww-bjrPlzY2U0Q7NewsiJ3nqmGXBFMyZNZTW6gdC5uK2euSsJ1XBvaAW0me5tQuH1aL-ewzHD8WDGUMNfbFDgsLz-NTnTtfx0yIkCFC0PWrf5J4xi7GFmP1i6jCGZkQf_0CLTGm704xr0ICeiLt55UJ5SFppnO-sGp3SbVqGkyZHd2ufQMnTJwjbt_bLmY9NGu60GMU3LwJzyx60uszFnoT4T65SRzAFWcdB1M0feKWIum9lL0rOrtRnLquDvhQKS3mWeQ0oXO33A6iuNYdt2uGS1bxayOnb7UpzOcCJW7QcN2lGhUbW3SHrjEz1FpidwrRCenpyoOkvgXqGV6OXhCycL1sf122QC3kX32d6M80NQG2r8SnALYLYcMuY9Q7EjTlC0Ar1h0fVMaX7UXRCYvt4H9TM6Xb00pGkil4i_tsVrN264uaLKxCNjYIsdSiIfXye35Ee15gnkusWAYVG7MdqhHEEzmo1q8F88nSjqxC3WLWW0h81Cf0G0q90fRjQo9NXqjnWznW3OstSaLTHdHCSMXDI4OWzK5n0ZmnXHg8P35GTrmTYQKEo1wW9MX5zmZcd35ZyPGJSNfEiQ11sJNFZmexwog1fzUaCIE0Yrt-K-4xcrOLd86ux5mJKuVQgGF7m50L67i90W4AcYeJuhn-cepwFsLf7iExYt9a0TtR8nGi0O-RSsQZe2BeWQJhuTNW5hFaMGOf3_XEy75nqS8Z8ujY5Gny8snw_0IrRHAsyyqOvBqbDQtBqaTeYMmOD2AQIaHwHXC-h1UCH9coiUBfG2e1c29nmQ52xUOIqJifOXPICgUygm7L2FXASGpO7wUvw-8c17M20Yj1XbZJIPJ1hdQHvZdLzntwZUNC-ERj2QbPygL-63PO6dCRhJvK98XuwY2u7J7Lvdm51SG3ulGelMrmm30Hr9GO8mWCYPN3hPnqyh103rn9z001gIRPYrsX04prVJoZUvIH0Sm5SmEFsr8D5Rme0e7XCI19uJYtYenPdsP3HH4ylII3qBAfGQZfuQMW7GXH4go0ibtG5gOVk1heDJV0N6DeRTADZsQ3JDktldaW70HayD2WKSMEOB2JTy-a719mpFUDOXpWyUDXQzencZBn0QFTwwjOpz63Cvv-eMaRASCEY3uaHTH2AE9GiGFUeYqeiMY37NThCMkJvnRxXwQv8Ag6dZqoVVnjlx_MRzVm00)
+
+-Diagrama de clases - Profile Context
+
+![Diagrama de profile-context](diagram/back-context-diagram/svg/profile-context.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/nLl1Sjiu4hsdAl_0ocMTIbc-kxAUaHLDLbEofP7ix375oB3C34LgI2fRhgcvpWVCp7s-Oy_x9_C5ymaBYW09W0sm0OAA3x53elirNpSQ3R3vRLw4MN7OnS7XBjgHu3hS_4YIXvSlyX-ZP1zcuIxOqqlXbgoBvvW46TaKORADoSiNBr-mEy6hPPO-HZ79NmK_ltmHq9_wphjq5qP9VLswTvC-a5Yw9TqURxSPsOQ5e5RysSHXdWUJE299aKC3of_pJr5MF7rye5eksTZhyiexUa4ZyNY8uzjmHyT_n_xI33pa99izN0Rtnz_jGR-K5C5MKxw-H0yaqzkzPoCuioNGidLD8npjA87tMTo8pDWLZK2SRi8YIfD6OCwkM3rMoKGUl7rRUswLfiNLbUuX2GqDQkEq_0MFs5Ej_qcpyjdPNrRshDDD5CPwalFZVHeBuIKRM_uDGi00dAsFt2KcVvO3Pg9dn0iQiKtwfN4UZM3nlpPsfbdncCPH-l4et1rsOhWXmWnjKijPzMoVfBjTc3mOvtf6Q4nLivWDfy6s8XiQ5rTNPYd-CAvojOFHWfpoYd5RN1QwNMA_QDZyuK2oo9WutvDY7CSiVPR3dn6sLK9rzh8GOq3NpxC72ocETFryJ19Eabs0EWe_XF61B3vzfWjU_afBOvNygN9Xk3xZdKTqNiLfidN8CRvGT3XyjKEZF4PPNbGhvRh88WZkE8vgnmmxXw-_sPA2ctRssgpZE9PRXHay3xl7TZk69JyqSOSoPJh3yPKP3TSixjQOapGfmas1Xje_fGcvFUm-aQp3sspjjsU1rG7_2lCdl5c2a17JN4WCEy-R0WIDKjKlzwPm4iRDDgOOE0uqpC4rnyBCgtKDs6jcDOKktjL0tMoVSCNAp0PQBl4SfjiNXtIYr8ZsRCkLYWtPggGrrzOF6_LXTxSFasUhDMxJoA0HXVyAVzPrnPfaNw8DK9k96rfMzx6nrDnPKf3iCTmGsDWtYtsPuiFuBIkqhe8dAX-JCwXetbI_NniB8Mb_VIoXyDRCexneMG9Kd3-L_xwsUHoeb8IqW0-ZR0AyiQjkBYpubMjfIuPhOOLZfK1tOhdMOUOPxosXWhTs6C_cGpcktjqvU8xBzd5WVNwWSQI4WV23KQ-Yr6KUWNjRVrw1jyuslf4rEBb6EJ9HFGCWO1nZq2ghT72BV6RWpHtAKOI56vYa2_rCL65TL8XW6r1INKAJo_valvgZwVq-ZgfT5NoqVNn6QeBsT5js4dWWfwy7Phjzh2rPAe4LsQTvLAJPyoLL95-nBFvr5fofI2qWm3coWvI02oog5SLHCcdmGc-aZOk8nErRroofqzjnriO3u5m9n1KaA0hXfVVhKQctvpIKTfGAPavDw-PNeBJBd84PjLdcZRo22z_f-TIQCIoFgFKPu4zpy2skrfthahIsdtPPwhl7D7ABtcS2H3OSWPkxqyUbZxrY9riM-qKyynrxHe3yxjfjbZncOLvaXqrno0XSlYtfSr3IIB8X-lw4p_kmip51cF2jmjSXaApLsPF3TEOmCIkI5tf6ojS5MHh7bBrEPfgn7Ib3JgVej07a9ouhNhESIlJvzscIasbIHCNpM-xaF3rar0yKGAXVptIXtwLaosT0EPMMOV64rVIDA9pxmSTg4T9nhQhIrIHaI5TtyaH4YZ1M3XPqxkGQv7ZP0rVxHKmpavMOuJUmV0EAjl9hRuV8uUB_ZegdPTdyHMWwG0TIjqc-D1tN1Ql8R6ciOxEE7QVeRBOZw225Tp1DiC7taKhX-8Nk-ebZhbaRpso0hUS1lLlmwB97b3Cj_O8TRQXJkBQqjyAMZx2BNdNhrHsyfhqY3JJJRPnA9NBrDti6hgou7RVIVNGqQBLkeODTbw2Lb3Z6h9sLTX6hqTq4h3p0AbxhBMvdd89xyCiWXowRLSZncBSlzej3XjAAl-ewblgsbgrunkqGPvMmMtnrM6CLJwgkEexO3KJyw3hxkCxkJGeVAJGF1Z_h6mo4ujz5Kj-ZQX1L2nkJb8wGSPwJtISwhT24V9VHgLYvgnRMpSatikXbKAI2cbsbnIeT06y9IarSAyAYjeBIB42NWrsA6rqiKrJui4sDauRwRgDKMGykr1KuBcQfEhn5cAPYx-DHHPKNpy8hhnMJi0f_H8BbeHEFe2OVD2eBZWrzYgWtsfXU5vwOg3inu5dXyKJn7y4_EtxACN__-ST_WzLqFfxC_lVxxMKmVlz-DNq_lfkkWxz-_ItuC9xVJuF5zVVJoTqQfvDFdL7rJTde-FdOgFbARCI_1Ji_lmhWmM9F_wZvlCktPlv5c6-zhG_O413ryGOMfDryEoHAy-NGS1ZDjsm8bEeRDYG2-tJDhrAnnHrbCl_C3QbV_DBDWlRc6pSy_V8NRiD1AT_5OQ3KB-9iunOrAnn1n2TnpRUJnStD-FRTEhW8VhYVhcOixpPfk4_IvH_hZQ1-7Vr3jZCV4a3T6Q4WwdnX2O88FbFCOj7WxWSSfX9NI4YbKG05nMJqSufzQJW2thpx20H1VUjzl6VzxPVXVi9CW53UO0oEOiMK0E6UTjujRiQpss0zNNsOJLZEQQSYjzp3cr96u3SI-cSqPIi3Yf9qh74KUGGI_ER77b6VYXf8Omit7X5KOy25UvJHUB8ub9MK896RZ_Ku-ZGs18IQoX2nuVOWilGmCArqCpHCaplxPAhnSZcVJSPtiuMGhcOto_anPwscoyLwThSu5auNTGgpJ5n2d_Y8juIFvDY7izcnIKoYHMvR6WaTIgFF-t2ajXiDOuH5MhKr0CwsrZmqHvMkJ60DiKhzhaR0Ay9NP0LhaDqoPMrDPoFrYTcniyTbHRKrITyJVLfga7OuBlgW2L87CxH83vvT7IomhqQ6HcuNANRWu5f_WWXqiiAbXXeUtLHQdHBTJyKrMTpUhHRp-NHLxGlhgki2EgswS3-hQhgOHsN3yaZeIwuBdRgJ1AB2M1OD2AJqb_Z3iTe8Uq939J7_M8QzbISmw7G9YLBFI6nSmDNeq6WkSOW5ipmhyGU9pEg309eI-S20OkuU05DtW6W5rUmgxE8KtesS6Bp7N452snxsUOSsl-_08ckRZirqcrkBJmZjucWhOBSZLj_unXTDIDnsmwwHQ72JE2YKWoznGAWTh7Sy-8sTyz7eUZszkQxhTA4u5xfuBgZ4Ud6_clGkp-kUfdgVRMWoTNpfvmzJrLHt4okQSE3OJbRlHNrV6mmq06tGniJHcD9izlLDUCwlIpt2wXzULMNX0QK6xXa7hOhQYWa-r9iZeFO8B25AbUU965Jz8Z23xxBjsyFHoOj5DwtFSsUzNOZUMRkr2ys5iKMsnmdpjoHvEEpY_mC0)
+
+-Diagrama de clases - Reservation Context
+
+![Diagrama de reservation-context](diagram/back-context-diagram/svg/reservation-context-diagram.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/pLZRRfmm47sFb7-m-j9MKVY0A4bBDZIYskrk8KdLfug2kwNbLjlRQbNbtsjW0HiyOB9XKvGBOFlCmJDpOEOjPHvXcpWwFiey_wUtnkY5WoaclpqMfWbzWVuU7o5-rAFNQUo5INrV6bka0Owa8MdONAy9NdiCqywS_F0ZZr8aMbVDoezJFmfnmhw4mHcQ5QTs0CpCmK8V5rFTyXoScv7qTnXWKanUxIxWsTushaYiodDmBWjZ_8L6QJdxbb-v_0AS_YSbFtSqFXMdgfaFygq7ODFllMY3brz_O9_rRNkrZUZyN5XnUGcw82SNfSbwa5XZezx_AOtKhfZIIEF1AQrKlXzbmsKarB02XSiiZMCl2Nf3XM2UmqAUxjPmcWxsKnBa3C67kik2qQiXiXytc8IzQdA3cHb5egRaQxPwLFbYOUNLrWuUlPXURQiCsmUZ4QL15E5IEAstRfUBtRthgF3EFxi5tAITC4o-UJvMH-B9CikNUT6voFqIVUSW4Nu5HezV_dyz6X6CA3NYmy3pbX6Y_xZpa38rCIZuVkL_npyd58uWN2-plk1y2iHsg3u5PYM8C68twXzQtozcbaMXNo2gFs8AVtCdWDynSa8eFr86aiYEimWKSM6LWxEKXYmbspD4LBS1Y5Fr_QVFJ0tKaTdPSgBYidA3cAPwJf0o-xbyy7HoeR7vOoLZcE5ZP6CiggvqZCKTbe_y67oFjXN5JhuHZpAoyTc6OBMeh32Xd2XEV0pNHpyoJwymQeAl_Nvw1FdTQgecpgqocF4iJHX9euW_dHxpPe5ExicgAUMVF3GC9UM-X2IDZ4ncRY3Z2DXAMCYsvvABQBeXt2bdo6_hwYiebhNWDcr1rOLxmnUlvPpu5BBlAuzuCUPHGFVZjUveZIvUEuLhq1Ar9OegLCrweGBM3DPgkjx7-lzJ5fcKulWhpx5nZ_cEf77faHe0Ij8JnV8pnD8kb8QtXhSmXwkWXxb1A3b11U0eXf2RnZ64K1xFK2dq_ESbkhYuGERDZMFTcBSMcYq_e7jpVcUXvTLxQtRhvkF7Hs9-6MM7poYQUKRJipEapjpfwIM2LubD9wFfq4rgHkZkJMf7R0nEQwXfAavgHsn7JcgewMLMWUbQphqzizmyBdaqcjVBufJ_BXRcXsiNVKOVxop7jdhYj2e1Z6u-LKLyFyUgvML0mZ6rNKWEzEtAFOj-ixkccG6K6vCRLHKaXpJQBbiERBjLt1pOkbG2DNbeBrRp8l4SQxNaILVcfRrKfPtGG36gNedHwed0EL6KtHtoSWbb2DMImOiY4KsikoUdjPTC78wGfdue2KbT533S3kkrVJZj8NK7uwAXWC_1PK0OdubIlru-4ob0Hhc2tZhB-Tno2Z6jlsww8jgqNN9-p10QAR8crEqIYEcmb1pKTAkRKbSWhcijhlZ6w6n6NK394W9NgVrU1BvS9oVHHgox3of4RJRZQkGHf3HVQp2pSRNn26Rm--tuw2rEWaqS_GC0)
+
+-Diagrama de clases - Reviews Context
+
+![Diagrama de reviews-context](diagram/back-context-diagram/svg/reviews-context-diagram.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/nLXjRwCu4FvUgV_1sY_NqwhyWAZjBStIYbDIif3sj9zEBdYpxF5snkbjTCf_F_EEmSOcWHwjsWGyCy-Cdnd6yoab49Dz65nUP3y9TF-2EmG-sEZDH_-a7y2_bnU0NlM3pt48_QY-ppnRnnuAc4VCOtstmsW72KfxQxBB3M2QWj8mRq5sNISuVlCzXF_qlGNOb5zCJx3Q3NmKaNpjClyeN8bpkulIVd_HaRrrpAB5zV851djalVv0BXdoiu4ERcvQCdTtGjSpBu8usad1DLOgf-UqKKHCsK8LQ8TWdsUdM0G9VRW0VaI4QY25-Xh70OBH6Tjb_7HHGlmuafFoAIOFyJxoQX7gS_rPxF57WVHL4GdJ-_KC-Ciu367a3O5Vqb0HL80ebrFWDd9Zx6MeXHlxd7XZ18y2Y5_s2Fk3EV-8Y1u4PUPdomzg0AbS8NH_CBrJvDBxGvE79ogeKamgtlhQ-bY7oK7upNSvSMfJiDo6SYsrPaO4uM_GHNp-VRHogi7WfiHx1xvJ-G1TyLZX5lyvV1JhuP64h-SeTglOT7MlLdvAUaWuBFex-plA7GwbX4f4A8JSEbqJIpAUdZwxZfqtjvuaWU_2p77-wpkFEWsAy0tEie_xZXQJrGoJGFXIA0HibCIfJs9yM03SkICGl1RKt8buFwnBdVkT7U9yhMBSpWHfX9cyUTy0dvk2mv4TaOQ3Q4QdefesUJfcbxJ-TpFKZBvXc1AyTyaU8twIRX1EAJmKkKZSQVz8eBIRQNQ-Mt1Fm5rAftpCDag96EmoZWYEWu0w9WNTh9KmdQqz5TlPkuCAcDIgv9cR8nE61Y6XNIOo8kAJmqsr2McynpJi2-2s2jELY9ao9VjMHL9LyXkLszNa_iCdtpSGmn3HFKrF1h9h9x2gbbRUrQeANKrLuUbIR4GhdNAQLIlLki7_ky7MqnI5hpGdbFrwm75OnBoMbPnUAia5875VYyAc38OhqrHfbIFYACXWSNIDmiNPZN6uE0fEnoKvBK2ttwOndK5MAT5FyW1Tw9Mj0RUGqzzVmEtjBT0V7stZKTyQO6azWHTzzMm0w_vtOxbrikUN5wLYhPW0QVcmHsjcEberkRc-lWFSjUt9YDOUtKohkHdqJAktcWnL0LjQwxN-zDd9uzL4JnohwgokyGg644CVhqmzhwoCKbzv-ENPi4r3tS7ofAznsi3ptMifxxQ6CoZdj8ppM65RoPEsoJ7i5tDPxXDb9IMbvO2lsLVdURNL-VbRdJ4qxcH126I8n9FRu31PPeCT9GXDYAawlO4ENUSoqAViZ9OOslQe2CprPfNJqJOsbcDkBVjhJiYIcmmVMtC9hHf1Q9rH0vT0-LkjZPezFscjev96JqHQzzmp1uGJScLkuzmaafXdfX0yjimS-_7sHsVtp7Q5IVykTeTgmNi149G8MXMsjhLQ6NPU88gAOUOlhApTt7RBGpDSqB8vWjOQ5zHPKGy5E007KsWsCvr9mLHMv0t7D1RKAjV4jWRVzjFOKYaCarlgbOBwoEKunlgUPeA4ylNHiowZucCyMvDPFVK0fADdUiiAlQlSfFAWGCtdKLG-4yM8P5B1e3oQK8l4g4Gx4yMedYJx-OGYRny6_m40)
+
+-Diagrama de clases - Services Context
+
+![Diagrama de services-context](diagram/back-context-diagram/svg/services-context-diagram.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/tLZRRkCs47qFa7yWzgKf5b7UZIHTNxI12ZlooacAFd8bhbUfBAeKjLYZoB-NadKXPPAY5Ci5weV4kd3EuSoPuNW-fHGIcksYoui4-d_1BG8VDeZy27sKVW3_N5u0zgcVBF0EXd5zNtYsmW6AX4V2u-bsIz0MKiui__4ZcAQWGfQzaN-k4u9_X04YJZ01pNV5o-d1sW9H64RffB9UNkiNFS8TgbVa5uhNWun06k9u0XRbDoLpPcW2LZX6UnKqXJJBUHR_Zrzw4s-nIuMlNs2K8VVhA_Afpjlhse7WzfPRSt-lz7_8_1xXUDj9ha4HlTv6KW6rOpSCD0-SyTw4oFV4gu9l3DRenebfduqLsZ3VKocf6SOHWX9j6cjgZdSx60SwFSq9OlbTkhvydp7ra8z9a9DKxkev2NgjV5EG_98X4cehp0EYqoYgwap-_jwC8bjOhfhjdM3GmdIsRrAkqm9toNrL5saHLVHbUSNWcDeG-GPz91VDHpV9LGcZsyh-FVZE34JeIXfT__3_rrwMfD6MMthJxEqGFVEjBSEK7fEH2UBl_6-_FSdaeJIZPA8MYioMg129HkoVg22i4aa5yeZfPvp5WVtJFonWtgo_AxofN7lLdCjQljo_fab8aYZqYy8eRpAA6BC0AFiCKV3IHaAJ8CukYPIrj7p7GmbEGuh9VWBIzYt5qclv_TDbMuUr7XdN2fJaid8rdtxTZXQozTn-Vd_gTpYuJ_hh6VKh0PBmT6UP4tyZCAKaysb6a3pHreYaZ2AAVQJkwLyJsDtCDq5hr-W1nClLgPoqXrAgPZl7CIKuYjZEkbatBtVfLAmWjLR5steJGcxK5eIxFGNFF96mke_ic8PqVrk78iKPOSwV09-lBrSgbNQQoVZ2OchcDxPmsoZzZv1-NqF2scuMtNGubwsGWwPs-4IiZHsiSSL1Pism9wsC6eYkUjMiiVpls-rfcgBTLvOZvblxJF3kuFbwiIh1FhQMJW35nsOC8gDtMMwgCjlDIMOX9oOnrekPB2JzcCai36ScBSP5b_aBkBkx0zE71yz-c3xPh8s8mSjq-Mm3T_QxFN_QvCylBwhCiGup8wiO3rdD5CYgEuVhwtiWVvkVOrXhRjnpSkFjqT1O08T9qicjDxEdqnClXr5DwEVkQZLzN6nklZpRdcDl2WKqUj14lveXMDBIfIOaeTy98QrnFI5K8EMOmP8ra2VP1GTmr5QE121fE8TxgsdKhBmdi-epi6_ajOhH0DRbKhfGNbW55lrsC2QJFlum2a7FpD1cbD76pSysmn2ScqaVVnY5eDtl3SrfzKuDsYv3PxSiZO9kKbogusVXhgRE8zZOteipBq-VeoD9UWZLrz9VRYUeGYV3wH2u0aSSYAfXDCVNA23j8snCaEDZZDTEAHhWhDRBGZYUlNOtpfFh_NbJQQYb7MuaQLNJHqkCg2BGnP2hbMJyuCNYPYpMQmARh6ccNAFG6AJjyGbqrbCf1M4AATNF-74Omc50HewEhKdKSs7hytVkFZvvxd9fUqNsrcU0cBBjSuaR_3KAhSTxCdPwGOyArPhwdH3fVHtrk_5wDcr3ySnIQGGqJVACXoPBbvF3TZHaqyt6NisgdFJiZVliiQIi3zIRUZRGbQZ_v_RL0FOCFn0DM9pXDz8d50VPBleN)
+
+-Diagrama de clases - Shared Context
+
+![Diagrama de shared-context](diagram/back-context-diagram/svg/shared-context-diagram.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/XPFBReCm44NtIFo3bKrNzGT4W5AbMKHg7YfIzuCp9KxyY6opG1N_NXjG4XfelB8zH_ZEtCl2EZ2kaYAEx9ch2nYGv0Bi32NchXP83387gXGOHt7KLyWiFuB1mupyn17nwtg_Ljy6h3CLSvN1Qtt0xD5ORXqgDWG6qEa23yMmc01hIQxWZ4kmk3_MbZCGMv1SbRapuB2iIP8i0vTbmmyqjsE_RVxeVzSIk1hNlT475DEALyfnL_yZUgCLrcFbi5vbgCuxw15f9XiPQFW2KU6kE7dFx5CbINA7PzcKCbOPuxtosholViZZ54XTAJSdGeyHq_9lFZGXO2yaJLFokVfuMwvtsrKUZd7KfOrsvj3M1zgDctQjK9gHCUX-7hGVRSyDaqhlGabzzkYpX8KNjIdfaHTebB-ZXTQEolPPrRAXdmMgG_jt_G80)
+
+-Diagrama de clases - Workers Context
+
+![Diagrama de workers-context](diagram/back-context-diagram/svg/workers-context-diagram.svg)
+[Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0)
+
+### Diagrama completo del frontend
+
+![Diagrama de Clases-frontend](img/class-diagram-frontend.png)
+
+-Diagrama de Dashboard y Appointment - frontend
+![Diagrama de Clases-frontend-dash_appo](img/class-diagram-frontend-dash_appo.png)
+
+-Diagrama de Profile y IAM - frontend
+![Diagrama de Clases-frontend-prof_iam](img/class-diagram-frontend-prof_iam.png)
+
+-Diagrama de Provider Settings y Reviews - frontend
+![Diagrama de Clases-frontend-provsett_pub_rev](img/class-diagram-frontend-provsett_pub_rev.png)
+
+-Diagrama de Schedule y Services - frontend
+![Diagrama de Clases-frontend-sched_serv](img/class-diagram-frontend-sched_serv.png)
+
 
 ### 4.7.2. Class Dictionary.
 
-| **Class**        | **Definition**                                                         |
-|------------------|------------------------------------------------------------------------|
-| `AccountId`      | Identificador único para una cuenta de usuario.                        |
-| `ReservationId`  | ID que representa una reserva dentro del sistema.                      |
-| `PaymentId`      | Identificador usado para cada pago.                                    |
-| `Money`          | Representa un monto con su moneda.                                     |
-| `Account`        | Es la cuenta de un usuario, guarda su correo, clave y estado.          |
-| `AuthToken`      | Token que se genera cuando un usuario inicia sesión.                   |
-| `AuthAdapter`    | Conecta el sistema con el servicio de Google para autenticar.          |
-| `User`           | Usuario del sistema, vinculado a una cuenta.                           |
-| `Client`         | Usuario que agenda citas en salones.                                   |
-| `Salon`          | Negocio que ofrece servicios, son los salones de belleza or barberias. |
-| `ContactInfo`    | Guarda los datos de contacto de un salón, como teléfono o redes.       |
-| `Worker`         | Persona que trabaja en el salón y tiene horarios disponibles.          |
-| `Schedule`       | Representa el horario de un trabajador para un día específico.         |
-| `TimeSlot`       | Bloques de tiempo en los que un trabajador está disponible.            |
-| `TimeSlotId`     | Identificador de un bloque horario.                                    |
-| `Reservation`    | Reserva que une a un cliente, un trabajador y un horario.              |
-| `Payment`        | Representa el pago hecho por una reserva.                              |
-| `Invoice`        | Factura que se genera cuando un pago es completado.                    |
-| `PaymentAdapter` | Adaptador que se encarga de procesar el pago con un servicio externo.  |
+| **Class**        | **Definition**                                                        |
+|------------------|-----------------------------------------------------------------------|
+| `AccountId`      | Identificador único para una cuenta de usuario.                       |
+| `ReservationId`  | ID que representa una reserva dentro del sistema.                     |
+| `PaymentId`      | Identificador usado para cada pago.                                   |
+| `Money`          | Representa un monto con su moneda.                                    |
+| `Account`        | Es la cuenta de un usuario, guarda su correo, clave y estado.         |
+| `AuthToken`      | Token que se genera cuando un usuario inicia sesión.                  |
+| `AuthAdapter`    | Conecta el sistema con el servicio de Google para autenticar.         |
+| `User`           | Usuario del sistema, vinculado a una cuenta.                          |
+| `Client`         | Usuario que agenda citas en salones.                                  |
+| `Provider`       | Negocio que ofrece servicios, son los salones de belleza o barberias. |
+| `ContactInfo`    | Guarda los datos de contacto de un salón, como teléfono o redes.      |
+| `Worker`         | Persona que trabaja en el salón y tiene horarios disponibles.         |
+| `Schedule`       | Representa el horario de un trabajador para un día específico.        |
+| `TimeSlot`       | Bloques de tiempo en los que un trabajador está disponible.           |
+| `TimeSlotId`     | Identificador de un bloque horario.                                   |
+| `Reservation`    | Reserva que une a un cliente, un trabajador y un horario.             |
+| `Payment`        | Representa el pago hecho por una reserva.                             |
+| `Invoice`        | Factura que se genera cuando un pago es completado.                   |
+| `PaymentAdapter` | Adaptador que se encarga de procesar el pago con un servicio externo. |
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
 
+- Diagrama de base de datos
+
 <div align="center">
-   <img src="img/Diagrama-ERD.png" alt="erd-diagram"/>
+   <img src="img/erd-diagram.png" alt="erd-diagram"/>
+</div>
+
+- Diagrama de base de datos en Mysql
+
+<div align="center">
+   <img src="img/database-diagram-mysql.png" alt="erd-diagram"/>
 </div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -2067,10 +2158,16 @@ Ruta de referencia: https://www.figma.com
 **UXPressia** complementa el trabajo de UX al permitir la creación y documentación de User Personas, Customer Journey Maps y Empathy Maps. Esto ayuda al equipo a entender mejor a los usuarios finales y alinear las decisiones de diseño con sus necesidades.  
 Ruta de referencia: https://uxpressia.com
 
+**Trello** complementa el trabajo de UX al facilitar la organización visual de tareas, ideas y flujos de trabajo mediante tableros, listas y tarjetas. Esto permite a los equipos de diseño y desarrollo colaborar de forma ágil, priorizar funcionalidades centradas en el usuario y dar seguimiento al progreso de proyectos UX.
+Ruta de referencia: https://trello.com
+
 #### Software Development
 
 **WebStorm** es el entorno de desarrollo integrado (IDE) que utilizan los desarrolladores del equipo para escribir y depurar código en tecnologías web. Su integración con sistemas de control de versiones, linters, y herramientas modernas de desarrollo lo convierten en un entorno robusto.  
 Ruta de referencia: https://www.jetbrains.com/webstorm
+
+**IntelliJ IDEA Ultimate** es el entorno de desarrollo integrado (IDE) utilizado por el equipo para desarrollar aplicaciones complejas en múltiples lenguajes como Java, Kotlin, JavaScript, entre otros. Su soporte avanzado para frameworks modernos, herramientas de base de datos integradas y funcionalidades inteligentes de codificación lo convierten en una plataforma robusta para proyectos de software a gran escala.
+Ruta de referencia: https://www.jetbrains.com/idea
 
 #### Software Deployment
 
@@ -2080,10 +2177,15 @@ Ruta de referencia: https://git-scm.com
 **GitKraken** es un cliente Git con interfaz gráfica que el equipo usa para facilitar la gestión visual de ramas, commits, conflictos y flujos de trabajo. Su interfaz amigable permite trabajar con Git de forma intuitiva y estructurada.  
 Ruta de referencia: https://www.gitkraken.com
 
-#### Software Documentation and Project Management
+**Render** es la plataforma de despliegue que el equipo utiliza para alojar y ejecutar APIs simuladas (fake APIs) durante las etapas de desarrollo y pruebas. Su facilidad de configuración y despliegue continuo lo convierten en una herramienta eficiente para ambientes de testing.
+Ruta de referencia: https://render.com
 
-**GitHub** se utiliza como repositorio remoto centralizado para almacenar y sincronizar el código del proyecto. También se usa para revisar código (pull requests), registrar incidencias, documentar el proyecto y automatizar tareas de despliegue.  
-Ruta de referencia: https://github.com
+**GitHub Pages** es la plataforma de hosting utilizada por el equipo para desplegar la interfaz frontend de la aplicación. Al integrarse directamente con repositorios de GitHub, permite publicar sitios web estáticos de manera rápida, automatizada y gratuita.
+Ruta de referencia: https://pages.github.com
+
+**Azure** es la plataforma en la nube utilizada por el equipo para desplegar y escalar el backend de la aplicación. Gracias a sus servicios gestionados, como App Services y Azure SQL, permite una implementación robusta, segura y de alto rendimiento para aplicaciones en producción.
+Ruta de referencia: https://azure.microsoft.com
+
 
 #### Software Testing
 
@@ -2803,7 +2905,7 @@ Enlace para acceder a la landing page: https://paxtech-upc.github.io/uTime-Landi
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.1. Sprint Planning 2
 
 Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #2 dio inicio el 27/04/2025, y su meta consiste en implementar la aplicación web del lado frontend utilizando Angular y Angular Material. Durante este Sprint, se desarrollaron las funcionalidades esenciales tanto para los clientes como para los proveedores: los clientes pueden explorar diferentes salones de belleza y realizar reservas de manera intuitiva, mientras que los proveedores tienen acceso a herramientas de gestión que les permiten configurar precios, administrar sus servicios y visualizar las citas asignadas a cada trabajador.
 
@@ -3449,7 +3551,6 @@ return appointmentDay === day && appointmentTime === hour && matchesWorker;
 Esta estructura permite al usuario visualizar rápidamente la disponibilidad y ocupación horaria, siendo ideal para servicios donde el manejo eficiente del tiempo es clave.
 
 
-
 **Logros del Sprint**
 
 Navegación completa entre interfaces de cliente y proveedor.
@@ -3481,6 +3582,7 @@ Durante el Sprint 2, se realizó la segmentación de tareas por features y se as
 ![Contributors](./img/contributor2.png)
 
 ### 5.2.3. Sprint 3
+
 #### 5.2.3.1. Sprint Planning 3
 En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y constante en el que el equipo de desarrollo se dedica a cumplir una meta concreta que impulse el avance hacia el objetivo general del producto (Schwaber, K. & Sutherland, J., 2020). En el desarrollo de la plataforma uTime, el Sprint número 2 se inició el 27 de abril de 2025, y tuvo como propósito central la construcción del frontend de la aplicación web, empleando Angular junto con Angular Material. Durante esta etapa, se implementaron funcionalidades fundamentales tanto para los usuarios clientes como para los proveedores. Por un lado, los clientes ahora pueden buscar y explorar diversos salones de belleza y realizar reservas de forma sencilla e intuitiva. Por otro lado, los proveedores disponen de herramientas administrativas que les permiten configurar los precios de sus servicios, gestionar su oferta y visualizar las citas asignadas a cada miembro de su personal, facilitando así la organización y atención a sus clientes.
 
@@ -3538,11 +3640,11 @@ En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y c
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sprint 2 Velocity</b></td>
-      <td colspan="1">35</td>
+      <td colspan="1">38</td>
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sum of Story Points</b></td>
-      <td colspan="1"> 35</td>
+      <td colspan="1"> 38</td>
    </tr>
 
    <tr>
@@ -3561,7 +3663,8 @@ Para este Sprint, se han identificado los principales aspectos del frontend web 
 | Yalán Zhang, Angie Christina        | aaaaangie           | C            | L           | C               | C       | C          | C           | L            | C             | C            | C            |
 
 
-#### 5.2.3.3.Sprint Backlog 3.
+#### 5.2.3.3. Sprint Backlog 3
+
 En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar en el desarrollo del backend de la aplicación web, abordando los requerimientos esenciales para los roles de cliente y proveedor. Para la organización y gestión de las tareas, se continuó utilizando la herramienta Trello, lo que permitió descomponer las user stories en tareas específicas y asignarlas según las fortalezas técnicas de cada integrante. El objetivo principal del sprint fue establecer una base sólida del backend, incluyendo la creación de las entidades, la conexión con la base de datos MySQL, y la exposición de endpoints RESTful seguros, validados mediante Swagger y autenticación con tokens.
 
 <table border="1" cellspacing="0" cellpadding="5">
@@ -3899,7 +4002,7 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/b/Rd
 ![Diagrama](img/SprintBacklog3.png)
 
 
-#### 5.2.3.4.Development Evidence for Sprint Review.
+#### 5.2.3.4. Development Evidence for Sprint Review
 
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
@@ -3988,7 +4091,8 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/b/Rd
   </tbody>
 </table>
 
-#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
 En el Sprint 3 se avanzó en la implementación y despliegue del backend. La cual muestra los diferentes endpoints del sistema del negocio.
 
 #### 1.Provider
@@ -4016,19 +4120,19 @@ En esta sección podemos visualizar los time slots que son una pieza principal e
 <img src="img/time_slots_end.png" alt="Providers endpoint" />
 
 #### 7. Services
-En esta sección tenemos Services el cual forma parte del manejo de negocio y ayuda en la lógica del servicio de cada parametro del sistema; en este sentido tenemos un "GET" que devuelve cada servicio registrado en la estructura del medio y un "POST" que permite registrar el servicio que el usuario desea recibir al momento de reservar sus citas.
+En esta sección tenemos Services el cual forma parte del manejo de negocio y ayuda en la lógica del servicio de cada parámetro del sistema; en este sentido tenemos un "GET" que devuelve cada servicio registrado en la estructura del medio y un "POST" que permite registrar el servicio que el usuario desea recibir al momento de reservar sus citas.
 <img src="img/Services_end.png" alt="Providers endpoint" />
 
 #### 8. Users
-En esta sección tenemos a Users el cual contiene a los providers y clients del negocio funciona como un estructura padre que hereda a ambas partes sus caracteristicas dependiendo de las necesaidades que contiene cada uno; en este sentido tenemos dos "GET" uno para devolver a todos los usuarios registrados en el servicio y otro para llamarlos mediante su {id}.
+En esta sección tenemos a Users el cual contiene a los providers y clients del negocio funciona como un estructura padre que hereda a ambas partes sus características dependiendo de las necesaidades que contiene cada uno; en este sentido tenemos dos "GET" uno para devolver a todos los usuarios registrados en el servicio y otro para llamarlos mediante su {id}.
 <img src="img/Users_end.png" alt="Providers endpoint" />
 
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicio dentro del sistema Backend, abarcando desde la configuracion de los endpoints, asi como la lógica de la estructura para los bounded context del negocio:
+A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios dentro del sistema Backend, abarcando desde la configuración de los endpoints, asi como la lógica de la estructura para los bounded context del negocio:
 ### 1. Shared Bounded Context:
-A continuación, se visualiza el "Shared Bounded context" de la parte del Backend de nuetsro negocio uTime; dicho "File" contiene una "File" denominado "Aggregates" el cual tiene como función principal ser la clase base para todos "Aggregates" del proyecto cuales requieran de un servicio de auditoría mediante el "@EntityListeners" el cual registra el "@Id" de cada elemento integrado en el sistema dependiendo del contexto en el que se encuentra; permitiendo que haya un seguimiento de las fechas listadas por hora y fecha en la que fueron creadas ("@CreatedDate") y modificadas("@LastModifiedDate"); las que a su vez se visualizan en el entorno físico de la base de datos en la que estamos creando las tablas "MY SQL". Para realizar este llamado registramos nuestros atributos de @Id, @CreatedDate y @LastModified en un "File" denominado como "AuditableModel" absolvida en "Entities" creando los metodos @Getter para devolver el los registros y las fechas respectivamente con sus diversos parametros. Luego tendriamos un "File" llamado "Infrastucture" el cual contiene un "OpenApiConfiguration", cual permite la documentación automatica de una API REST usando Swagger/OpenApi dentro de la aplicación Spring Boot; asi como también "Flyway" que sirve como herramienta de control de versiones para la base de datos que estamos empleando para la contención de endpoints que estamosm creando y un "SnakeCaseWithPluralize" que permite la modificacion de nombres de atributos en las tablas con guiones bajos y pluralizando los nombres dependiendo del significado.
+A continuación, se visualiza el "Shared Bounded context" de la parte del Backend de nuestro negocio uTime; dicho "File" contiene una "File" denominado "Aggregates" el cual tiene como función principal ser la clase base para todos "Aggregates" del proyecto cuales requieran de un servicio de auditoría mediante el "@EntityListeners" el cual registra el "@Id" de cada elemento integrado en el sistema dependiendo del contexto en el que se encuentra; permitiendo que haya un seguimiento de las fechas listadas por hora y fecha en la que fueron creadas ("@CreatedDate") y modificadas("@LastModifiedDate"); las que a su vez se visualizan en el entorno físico de la base de datos en la que estamos creando las tablas "MY SQL". Para realizar este llamado registramos nuestros atributos de @Id, @CreatedDate y @LastModified en un "File" denominado como "AuditableModel" absolvida en "Entities" creando los metodos @Getter para devolver el los registros y las fechas respectivamente con sus diversos parametros. Luego tendriamos un "File" llamado "Infrastucture" el cual contiene un "OpenApiConfiguration", cual permite la documentación automatica de una API REST usando Swagger/OpenApi dentro de la aplicación Spring Boot; asi como también "Flyway" que sirve como herramienta de control de versiones para la base de datos que estamos empleando para la contención de endpoints que estamosm creando y un "SnakeCaseWithPluralize" que permite la modificacion de nombres de atributos en las tablas con guiones bajos y pluralizando los nombres dependiendo del significado.
 <div align="center">
 <img src="img/shared-backend.png" alt="Shared Bounded Context" />
 </div>
@@ -4093,13 +4197,14 @@ Por último, tenemos la sección de "IAM bounded context" que se encarga del man
 <img src="img/service_confi.png" alt="Shared Bounded Context" />
 </div>
 
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-Para realizar el deployment del backend de la aplicación, se empleo la plataforma Azure. Se realizaron los sigueintes pasos para llevar a cabo el despligue del proyecto.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Para realizar el deployment del backend de la aplicación, se empleo la plataforma Azure. Se realizaron los siguientes pasos para llevar a cabo el despliégue del proyecto.
 
 ### 5.2.3.8. Team Collaboration Insights during  Sprint
 En el Sprint 3, se dividieron las tareas según las funcionalidades del sistema y se asignaron a los integrantes del equipo considerando sus competencias y experiencia. Esta estrategia facilitó una distribución más eficiente del trabajo y contribuyó a un progreso más ágil en el desarrollo.
 
 ## 5.3. Validation Interviews
+
 ### 5.3.1. Diseño de Entrevistas
 
 **Segmento Objetivo 1: Dueños de salones de belleza y barberías**
@@ -4262,6 +4367,7 @@ Allison Rivera, de 20 años, es una joven universitaria que
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
+
 ##### Usability – Inclusive Design – Information Architecture
 
 **CARRERA**: Ingeniería de Software  
@@ -4283,6 +4389,7 @@ Allison Rivera, de 20 años, es una joven universitaria que
 <hr>
 
 #### SITE O APP A EVALUAR:
+
 **uTime – Plataforma Web de Gestión de Citas para Salones y Clientes**
 
 #### TAREAS A EVALUAR:
@@ -4342,6 +4449,8 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
 | 5 | No se puede ver el historial completo de citas pasadas desde el perfil del cliente | 2                   | Information Architecture: ¿Es localizable?      |
 | 6 | Falta de confirmación visual al editar servicios                                   | 2                   | Usability: Visibilidad del estado del sistema   |
 | 7 | El salón no puede responder a los reviews que dejan los clientes                   | 2                   | Usability: Libertad y control del usuario       |
+
+
 *DESCRIPCIÓN DE PROBLEMAS*
 
 **PROBLEMA #1: No se confirma visualmente el éxito al iniciar sesión**
@@ -4402,6 +4511,14 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
 
 ## 5.4. Video About-the-Product
 
+A continuación, se presenta un video explicativo de uTime, una plataforma que conecta usuarios con estilistas disponibles según su horario y ubicación de preferencia. El objetivo del video es mostrar de manera breve, clara y visual cómo funciona uTime, destacando sus principales funcionalidades, el propósito del proyecto y los beneficios que brinda tanto a clientes como a profesionales de belleza.
+El video está diseñado para captar la atención de potenciales usuarios y estilistas, demostrando cómo reservar una cita en pocos pasos, explorar perfiles con calificaciones y comentarios, y personalizar la búsqueda según necesidades específicas. Además, se incluyen animaciones simples, una narración clara y una simulación del uso real de la aplicación en dispositivos móviles.
+
+<img src="img/video-about-product.jpeg" alt="Video about the product"/>
+
+* Url Video About the product:
+  
+
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
@@ -4434,6 +4551,15 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
 - Reforzar la conexión entre los módulos del frontend y backend, asegurando una integración fluida y bien documentada que permita escalar el sistema sin mayores fricciones.
 
 
+## 6.2. Video About-the-Team
+
+En este video hablamos sobre nuestro equipo de desarrollo de uTime, conformado por Renso Julca, Angie Yalán, Marcelo Varela y yo, Gael Rivera. Cada uno de nosotros aporta habilidades distintas que se complementan muy bien, lo que nos ha permitido desarrollar diferentes partes del proyecto de forma eficiente. Una de nuestras principales fortalezas es justamente esa diversidad de conocimientos. Al inicio tuvimos algunos retos con la organización del tiempo, pero supimos adaptarnos, estableciendo mejor los horarios y dedicando momentos específicos para probar, ajustar y seguir avanzando. En este espacio queremos compartir cómo trabajamos juntos, nuestras fortalezas, debilidades y la forma en que logramos salir adelante como equipo.
+
+Enlace al Video About The Team: 
+
+![Nuestro equipo de desarrollo](img/imagenabouttheteam)
+
+
 # Bibliografía
 
 <div style="text-indent: 30px;">
@@ -4464,33 +4590,61 @@ Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024).
 
 # Anexos
 
-**Herramientas y Recursos Utilizados:**<br>
-
-**Repositorio en GitHub - uTime Informe (uTime):**<br>
+**Repositorio en GitHub - uTime (PaxTech) - Documento:**<br>
 
 https://github.com/PaxTech-UPC/uTime-Informe-Final
+
+**Repositorio en GitHub - uTime (Paxtech) - Landing Page**<br>
+
+https://github.com/PaxTech-UPC/uTime-Landing-Page
+
+**Url Deployment Github Pages - uTime (Paxtech) - Landing Page**<br>
+
+https://paxtech-upc.github.io/uTime-Landing-Page/
 
 **Repositorio en GitHub - uTime (Paxtech) - Frontend Web Applications**<br>
 
 https://github.com/PaxTech-UPC/Frontend-Web-Applications
 
+**Url Deployment using Firebase - uTime (Paxtech) - Frontend Web Applications**<br>
+
+https://frontend-utime-app-web.web.app/
+
+**Repositorio en GitHub - uTime (Paxtech) - Fake Api**<br>
+
+https://github.com/PaxTech-UPC/FakeApi
+
 **Repositorio en GitHub - uTime (Paxtech) - Web Services**<br>
 
-Url
+https://github.com/PaxTech-UPC/Web-Services
 
-**URL de la Landing Page Deployada**<br>
+**Url Deployment Azure - uTime (Paxtech) - Web Services**<br>
 
-https://github.com/UPC-PaxTech/uTime-Landing-Page
 
-**URL de la FrontEnd Web Application Deployada**<br>
 
-https://utime-project.web.app/iam/login
+**Url Video About the product:**
 
-**URL de la Web Services Deployada**<br>
+* Microsoft Teams: 
 
-Url
+* Youtube: 
+
+**Url Video About the team:**
+
+* Microsoft Teams: 
+
+* Youtube: 
+
+**Url Video Exposicion TB2:**
+
+* Microsoft Teams: 
+
+* Youtube: 
+
+**Herramientas y Recursos Utilizados:**<br>
 
 URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
+
+URL del Validation Interviews: 
 
 URL del Prototypes Navigation / Product Navigation: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=0-1&t=NPXJtI3GloAbxeeU-1
 
