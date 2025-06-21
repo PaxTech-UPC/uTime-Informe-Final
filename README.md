@@ -186,9 +186,8 @@ Se explican las ramas más prominentes:
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
 
-![NetworkGraph](./img/network.png)
-![Contributors1](./img/insight1.png)
-![Contributors2](./img/insight2.png)
+![Contributors1](./img/nettb2.png)
+![Contributors2](./img/nettb22.png)
 
 # Contenido
 
