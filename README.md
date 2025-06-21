@@ -4194,7 +4194,7 @@ Con el recurso ya creado, se utilizó la opción **Publish to Azure** en Rider. 
 
 ✅ Al finalizar, el backend quedó desplegado correctamente en Azure y accesible desde el recurso App Service configurado.
 
-
+**URL:** https://utime.azurewebsites.net/swagger/index.html
 
 
 ### 5.2.3.8. Team Collaboration Insights during  Sprint
