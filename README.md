@@ -4533,9 +4533,9 @@ El video está diseñado para captar la atención de potenciales usuarios y esti
 
 En este video hablamos sobre nuestro equipo de desarrollo de uTime, conformado por Renso Julca, Angie Yalán, Marcelo Varela y yo, Gael Rivera. Cada uno de nosotros aporta habilidades distintas que se complementan muy bien, lo que nos ha permitido desarrollar diferentes partes del proyecto de forma eficiente. Una de nuestras principales fortalezas es justamente esa diversidad de conocimientos. Al inicio tuvimos algunos retos con la organización del tiempo, pero supimos adaptarnos, estableciendo mejor los horarios y dedicando momentos específicos para probar, ajustar y seguir avanzando. En este espacio queremos compartir cómo trabajamos juntos, nuestras fortalezas, debilidades y la forma en que logramos salir adelante como equipo.
 
-Enlace al Video About The Team: 
+Enlace al Video About The Team: https://youtu.be/c76i54BmpaA
 
-![Nuestro equipo de desarrollo](img/imagenabouttheteam)
+![Nuestro equipo de desarrollo](img/videoabouttheteam.png)
 
 
 # Bibliografía
@@ -4562,7 +4562,6 @@ Gothelf, J., Seiden, J., & Ries, E. (2014). Lean UX: cómo aplicar los principio
 Hunter-Zinck, H., De Siqueira, A. F., Vásquez, V. N., Barnes, R., & Martinez, C. C. (2021). Ten simple rules on writing clean and reliable open-source scientific software. PLoS Computational Biology, 17(11), e1009481. https://doi.org/10.1371/journal.pcbi.1009481
 
 Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/10495888
-
 
 </div>
 
@@ -4608,15 +4607,11 @@ https://utime.azurewebsites.net/swagger/index.html
 
 **Url Video About the team:**
 
-* Microsoft Teams: 
-
-* Youtube: 
+* Youtube: https://youtu.be/c76i54BmpaA
 
 **Url Video Exposicion TB2:**
 
-* Microsoft Teams: 
-
-* Youtube: 
+* Youtube: https://youtu.be/qcxDu3YL0W0
 
 **Herramientas y Recursos Utilizados:**<br>
 
