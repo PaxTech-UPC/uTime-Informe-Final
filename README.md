@@ -2124,13 +2124,13 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 - Diagrama de base de datos
 
 <div align="center">
-   <img src="img/db.png" alt="erd-diagram"/>
+   <img src="img/erd-diagram.png" alt="erd-diagram"/>
 </div>
 
 - Diagrama de base de datos respectivo al TB2
 
 <div align="center">
-   <img src="img/database-diagram-mysql.png" alt="erd-diagram"/>
+   <img src="img/db.png" alt="erd-diagram"/>
 </div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -4159,6 +4159,11 @@ A continuación, se presentan tres fragmentos de código que evidencian el uso e
 </div>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el deploymen de la BD utilizamos la aplicacion Aiven:
+
+![Aiven](img/Aiven.png)
+
 Para realizar el deployment del backend de la aplicación, se empleo la plataforma Azure. Se realizaron los siguientes pasos para llevar a cabo el despliégue del proyecto.
 
 ### 1. Login en Azure mediante Rider
