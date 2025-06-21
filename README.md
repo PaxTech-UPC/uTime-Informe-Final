@@ -4143,6 +4143,41 @@ Por último, tenemos la sección de "IAM bounded context" que se encarga del man
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Para realizar el deployment del backend de la aplicación, se empleo la plataforma Azure. Se realizaron los siguientes pasos para llevar a cabo el despliégue del proyecto.
 
+### 1. Login en Azure mediante Rider
+
+Se inició sesión en Azure directamente desde el entorno de desarrollo **JetBrains Rider**. Esto permitió autenticar la cuenta y vincularla al entorno para facilitar el despliegue del proyecto.
+
+![Login Azure](img/loggin-ridder-azure.png)
+
+---
+
+### 2. Crear un recurso en Azure
+
+Desde el portal de Azure, se creó un nuevo recurso **App Service** llamado **PaxTech**, el cual funcionará como servidor de backend. Durante la creación se configuraron:
+
+- Grupo de recursos
+- Nombre del recurso
+- Región
+- Sistema operativo (Linux/Windows)
+- Plan de servicio
+  
+![Crear recurso](img/recurso-azure.png)
+
+---
+
+### 3. Hacer el deploy con ayuda de Rider
+
+Con el recurso ya creado, se utilizó la opción **Publish to Azure** en Rider. Se seleccionó el proyecto, se vinculó al App Service **PaxTech**, y se procedió con el despliegue.
+
+![Deploy desde Rider](img/deployment-azure.png)
+
+---
+
+✅ Al finalizar, el backend quedó desplegado correctamente en Azure y accesible desde el recurso App Service configurado.
+
+
+
+
 ### 5.2.3.8. Team Collaboration Insights during  Sprint
 En el Sprint 3, se dividieron las tareas según las funcionalidades del sistema y se asignaron a los integrantes del equipo considerando sus competencias y experiencia. Esta estrategia facilitó una distribución más eficiente del trabajo y contribuyó a un progreso más ágil en el desarrollo.
 
