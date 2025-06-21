@@ -4119,25 +4119,44 @@ A continuación, se presentan tres fragmentos de código que evidencian el uso e
 
 ### 1. Shared Bounded Context:
 
-A continuación, se visualiza el "Shared Bounded context" de la parte del Backend de nuestro negocio uTime; dicho "File" contiene una "File" denominado "Aggregates" el cual tiene como función principal ser la clase base para todos "Aggregates" del proyecto cuales requieran de un servicio de auditoría mediante el "@EntityListeners" el cual registra el "@Id" de cada elemento integrado en el sistema dependiendo del contexto en el que se encuentra; permitiendo que haya un seguimiento de las fechas listadas por hora y fecha en la que fueron creadas ("@CreatedDate") y modificadas("@LastModifiedDate"); las que a su vez se visualizan en el entorno físico de la base de datos en la que estamos creando las tablas "MY SQL". Para realizar este llamado registramos nuestros atributos de @Id, @CreatedDate y @LastModified en un "File" denominado como "AuditableModel" absolvida en "Entities" creando los metodos @Getter para devolver el los registros y las fechas respectivamente con sus diversos parametros. Luego tendriamos un "File" llamado "Infrastucture" el cual contiene un "OpenApiConfiguration", cual permite la documentación automatica de una API REST usando Swagger/OpenApi dentro de la aplicación Spring Boot; asi como también "Flyway" que sirve como herramienta de control de versiones para la base de datos que estamos empleando para la contención de endpoints que estamosm creando y un "SnakeCaseWithPluralize" que permite la modificacion de nombres de atributos en las tablas con guiones bajos y pluralizando los nombres dependiendo del significado.
 <div align="center">
-<img src="img/shared-backend.png" alt="Shared Bounded Context" />
+<img src="img/Sharedboundedtb3.png" alt="Shared Bounded Context" />
 </div>
 
-### 2.IAM Bounded Context:
+### 2. IAM Bounded Context:
 
-Por último, tenemos la sección de "IAM bounded context" que se encarga del manejo de autorización para el ingreso al servicio del negocio tanto en el "sign-in" como con el "sign-up" este "File" sigue el patrón Command Query Responsibility Segregation(CQRS) el cual permite leer y escribir las operaciones separandolos en modelos de datos permitiendo la escalabilidad y seguridad al momento de acceder a cada endpoint del backend; esta autorización se logra mediante la creación de token JWT(JSON Web Token), los cuales generan automaticamente al momento de registrar un nuevo usuario al servicio. Estos tokens ecapsulan la identidad y permisos al usuario, asegurando un entorno de ejecución confiable y eficiente para cada solicitud del sistema. Además, el uso de hashing seguro con el algoritmo BCrypt garantiza la protección de las contraseñas almacenadas en el sistema del servicio, reforzando asi la seguridad ante diferentes vulnerabilidades.
 <div align="center">
-<img src="img/IAM%20.png" alt="Shared Bounded Context" />
+<img src="img/IAMboundedtb3.png" alt="Shared Bounded Context" />
 </div>
+
+### 3. Workers Bounded Context:
+
 <div align="center">
-<img src="img/tokens.png" alt="Shared Bounded Context" />
+<img src="img/Workersboundedtb3.png" alt="Shared Bounded Context" />
 </div>
+
+### 4. Services Bounded Context:
+
 <div align="center">
-<img src="img/hashing.png" alt="Shared Bounded Context" />
+<img src="img/Servicesboundedtb3.png" alt="Shared Bounded Context" />
 </div>
+
+### 5. Reviews Bounded Context:
+
 <div align="center">
-<img src="img/service_confi.png" alt="Shared Bounded Context" />
+<img src="img/Reviewsboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 6. Rservation Bounded Context:
+
+<div align="center">
+<img src="img/Reservationboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 7. Profile Bounded Context:
+
+<div align="center">
+<img src="img/Profileboundedtb3.png" alt="Shared Bounded Context" />
 </div>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
