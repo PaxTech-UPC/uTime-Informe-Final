@@ -4005,31 +4005,99 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/b/Rd
 #### 5.2.3.4. Development Evidence for Sprint Review
 
 <table border="1" cellpadding="5" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Committed on (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Web-Services</td><td>develop</td><td>20a26ba</td><td>docs: fix package diagram</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>3970dd6</td><td>Merge tag '0.1.0' into develop</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>d7da1e2</td><td>Merge branch 'release/0.1.0'</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>b315a1a</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>5e3982f</td><td>docs: add class diagram</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>83c88e0</td><td>feat: fixed providerProfile</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>97a97b9</td><td>feat: added put and delete to worker and services</td><td>19/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>6d1a0c8</td><td>docs: add final class diagram</td><td>18/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>4f74620</td><td>feat: add provider profile naming solutions</td><td>18/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>a717fec</td><td>Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td>18/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>51b1406</td><td>feat: added entity to payment</td><td>18/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>7a11e76</td><td>docs: added 4 context diagram</td><td>18/06/2025</td></tr>
-    <tr><td>Web-Services</td><td>develop</td><td>4a52de8</td><td>feat: added payment and added to reservation detail resource</td><td>18/06/2025</td></tr>
-  </tbody>
-</table>
+            <thead>
+                <tr>
+                    <th>Repository</th>
+                    <th>Branch</th>
+                    <th>Commit Id</th>
+                    <th>Commit Message</th>
+                    <th>Committed on (Date)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">20a26ba</span></td><td class="commit-message">docs: fix package diagram</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">3970dd6</span></td><td class="commit-message">Merge tag '0.1.0' into develop</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">d7da1e2</span></td><td class="commit-message">Merge branch 'release/0.1.0'</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">b315a1a</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">5e3982f</span></td><td class="commit-message">docs: add class diagram</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">83c88e0</span></td><td class="commit-message">feat: fixed providerProfile</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">97a97b9</span></td><td class="commit-message">feat: added put and delete to worker and services</td><td class="date">19/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">6d1a0c8</span></td><td class="commit-message">docs: add final class diagram</td><td class="date">18/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">4f74620</span></td><td class="commit-message">feat: add provider profile naming solutions</td><td class="date">18/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">a717fec</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">18/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">51b1406</span></td><td class="commit-message">feat: added entity to payment</td><td class="date">18/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">7a11e76</span></td><td class="commit-message">docs: added 4 context diagram</td><td class="date">18/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">4a52de8</span></td><td class="commit-message">feat: added payment and added to reservation detail resource</td><td class="date">18/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">15f59ea</span></td><td class="commit-message">Merge branch 'feature/reservationDetails' into develop</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">fd8e7e6</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">8ca0cc3</span></td><td class="commit-message">feat: reservation details without payment id</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">a1a7c72</span></td><td class="commit-message">feat: reservation failure</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">18820cd</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">478f417</span></td><td class="commit-message">docs: add value objects for all the bounded context</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">39d0837</span></td><td class="commit-message">feat: acl de Worker y validacion terminada</td><td class="date">17/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">96318cd</span></td><td class="commit-message">feat: added facade but not working yet</td><td class="date">16/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">7d329c6</span></td><td class="commit-message">feat: added reservations</td><td class="date">16/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">6ab3187</span></td><td class="commit-message">feat: added workers and reservations bounded context</td><td class="date">16/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">b4e05f2</span></td><td class="commit-message">readded salonprofilecontroller</td><td class="date">15/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">84c70e9</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">15/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">6ff8ff1</span></td><td class="commit-message">latest changes</td><td class="date">15/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">798dec8</span></td><td class="commit-message">latest changes</td><td class="date">15/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">54231ed</span></td><td class="commit-message">Merge branch 'feature/iam-bounded-context' into develop</td><td class="date">15/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">0715733</span></td><td class="commit-message">feat: add all packages about iam bounded</td><td class="date">15/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">53fdd12</span></td><td class="commit-message">feat: add hashing and token about infrastructure package</td><td class="date">14/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">b415029</span></td><td class="commit-message">feat: add aggregates, commands and queries aboun iam bounded</td><td class="date">14/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">47be603</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">12/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">185f076</span></td><td class="commit-message">docs: added service class and valueobjects to services</td><td class="date">12/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">6a5c965</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">10/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">d77f946</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">10/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">432a1d3</span></td><td class="commit-message">feat: service controller</td><td class="date">10/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">7ba69d9</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">10/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">0ec70e7</span></td><td class="commit-message">docs: changed value objects services</td><td class="date">10/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">4d91e49</span></td><td class="commit-message">feat: added services</td><td class="date">10/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">0732e5f</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">09/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">39542a0</span></td><td class="commit-message">feat: add Client Files API</td><td class="date">09/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">ba73b7a</span></td><td class="commit-message">Merge branch 'feature/salonProfile' into develop</td><td class="date">07/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">3d6fbfb</span></td><td class="commit-message">feat: added Salon profile update y delete</td><td class="date">07/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">65126ee</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">07/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">8cd1ec0</span></td><td class="commit-message">corrections</td><td class="date">07/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">7cb813f</span></td><td class="commit-message">corrections</td><td class="date">07/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">0cf8c7a</span></td><td class="commit-message">feat: salon profile without update or delete</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">7536cf4</span></td><td class="commit-message">fix: deleted unneeded file</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">22798e3</span></td><td class="commit-message">docs: update profile context</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">aed3a23</span></td><td class="commit-message">docs: remove all ids, it is all in base service</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">3a8ddb6</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">90c8265</span></td><td class="commit-message">gael xd</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">7401e4f</span></td><td class="commit-message">feat: new update</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">917a393</span></td><td class="commit-message">docs: fix id naming standard</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">26a5a3c</span></td><td class="commit-message">docs: fix class diagram profiles</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">d5c305b</span></td><td class="commit-message">Merge branch 'feature/class-diagram' into develop</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">749174e</span></td><td class="commit-message">docs: finish salon and clients</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">c8874ee</span></td><td class="commit-message">docs: added salon profile classes</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">a78ccad</span></td><td class="commit-message">Merge branch 'develop' of https://github.com/UPC-PaxTech/Web-Services into develop</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">2c5e0b3</span></td><td class="commit-message">Merge branch 'feature/class-diagram' into develop</td><td class="date">05/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">d9553af</span></td><td class="commit-message">feat: AccountCommandServiceImplementation</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">d724893</span></td><td class="commit-message">feat: finished account Query Service and command service</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">0fefb28</span></td><td class="commit-message">feat: Salon updated</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">23cf8df</span></td><td class="commit-message">docs: add layer diagram and package diagram</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">a2e3f0e</span></td><td class="commit-message">docs: finish value objects of profiles</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">85cded1</span></td><td class="commit-message">feat: added learning center template examples</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">c2af4fa</span></td><td class="commit-message">docs: fix value objects into used variables</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">4822511</span></td><td class="commit-message">docs: add value objectos salon</td><td class="date">03/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">cff8afa</span></td><td class="commit-message">docs: add class diagram new</td><td class="date">02/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">2a40f2f</span></td><td class="commit-message">docs: add class diagram 0.1</td><td class="date">01/06/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">cd1ffb2</span></td><td class="commit-message">feat: Add Client module with endpoints for getAll, getById, and Swagger integration</td><td class="date">31/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">c5912c6</span></td><td class="commit-message">feat: added salons get by id</td><td class="date">29/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">ea13078</span></td><td class="commit-message">feat: added salons values</td><td class="date">29/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">c809237</span></td><td class="commit-message">feat: added clients</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">3378702</span></td><td class="commit-message">feat: initialized Salon</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">39788fc</span></td><td class="commit-message">Create README.md</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch">develop</span></td><td><span class="commit-id">dbc3c22</span></td><td class="commit-message">feat: Spring Boot project setup</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch main">main</span></td><td><span class="commit-id">c809237</span></td><td class="commit-message">feat: added clients</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch main">main</span></td><td><span class="commit-id">3378702</span></td><td class="commit-message">feat: initialized Salon</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch main">main</span></td><td><span class="commit-id">39788fc</span></td><td class="commit-message">Create README.md</td><td class="date">27/05/2025</td></tr>
+                <tr><td>Web-Services</td><td><span class="branch main">main</span></td><td><span class="commit-id">dbc3c22</span></td><td class="commit-message">feat: Spring Boot project setup</td><td class="date">27/05/2025</td></tr>
+            </tbody>
+        </table>
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
