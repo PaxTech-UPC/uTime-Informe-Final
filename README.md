@@ -2125,10 +2125,10 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 - Diagrama de base de datos
 
 <div align="center">
-   <img src="img/erd-diagram.png" alt="erd-diagram"/>
+   <img src="img/db.png" alt="erd-diagram"/>
 </div>
 
-- Diagrama de base de datos en Mysql
+- Diagrama de base de datos respectivo al TB2
 
 <div align="center">
    <img src="img/database-diagram-mysql.png" alt="erd-diagram"/>
@@ -2186,6 +2186,8 @@ Ruta de referencia: https://pages.github.com
 **Azure** es la plataforma en la nube utilizada por el equipo para desplegar y escalar el backend de la aplicación. Gracias a sus servicios gestionados, como App Services y Azure SQL, permite una implementación robusta, segura y de alto rendimiento para aplicaciones en producción.
 Ruta de referencia: https://azure.microsoft.com
 
+**Aiven** es la plataforma en la nube utilizada por el equipo para alojar y gestionar la base de datos del proyecto. Al ofrecer servicios completamente administrados para tecnologías como PostgreSQL, Kafka y Redis, Aiven garantiza alta disponibilidad, escalabilidad y seguridad sin necesidad de mantenimiento manual, lo que facilita una gestión eficiente de los datos en entornos de producción.
+Ruta de referencia: https://aiven.io
 
 #### Software Testing
 
@@ -3686,8 +3688,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td><b>Assigned To</b></td>
       <td><b>Status</b></td>
    </tr>
-
-   <!-- TS01 - Encriptación de contraseñas -->
    <tr>
       <td rowspan="2">TS01</td>
       <td rowspan="2">Encriptación de contraseñas</td>
@@ -3706,8 +3706,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Julca Cruz, Renso Anthony</td>
       <td>In-Process</td>
    </tr>
-
-   <!-- TS03 - Validaciones de formularios -->
    <tr>
       <td rowspan="2">TS03</td>
       <td rowspan="2">Validaciones de formularios</td>
@@ -3726,8 +3724,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Yalán Zhang, Angie Christina</td>
       <td>To-Review</td>
    </tr>
-
-   <!-- TS07 - Creación de endpoints para consulta de usuarios -->
    <tr>
       <td rowspan="3">TS07</td>
       <td rowspan="3">Creación de endpoints para consulta de usuarios</td>
@@ -3754,8 +3750,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Julca Cruz, Renso Anthony</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS08 - Implementación de endpoints para gestión de proveedores -->
    <tr>
       <td rowspan="3">TS08</td>
       <td rowspan="3">Implementación de endpoints para gestión de proveedores</td>
@@ -3782,8 +3776,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Julca Cruz, Renso Anthony</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS09 - Implementación de endpoints para gestión de perfil de proveedor -->
    <tr>
       <td rowspan="2">TS09</td>
       <td rowspan="2">Implementación de endpoints para gestión de perfil de proveedor</td>
@@ -3802,8 +3794,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Varela Bustinza, Marcelo Alessandro</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS10 - Implementación de endpoints para gestión de workers -->
    <tr>
       <td rowspan="3">TS10</td>
       <td rowspan="3">Implementación de endpoints para gestión de workers</td>
@@ -3830,8 +3820,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Rivera Sosa, Eduardo Gael</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS11 - Implementación de endpoints para autenticación de usuarios -->
    <tr>
       <td rowspan="2">TS11</td>
       <td rowspan="2">Implementación de endpoints para autenticación de usuarios</td>
@@ -3850,8 +3838,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Yalán Zhang, Angie Christina</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS12 - Implementación de endpoints para gestión de clientes -->
    <tr>
       <td rowspan="3">TS12</td>
       <td rowspan="3">Implementación de endpoints para gestión de clientes</td>
@@ -3878,8 +3864,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Julca Cruz, Renso Anthony</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS13 - Implementación de endpoints para gestión de timeslots -->
    <tr>
       <td rowspan="3">TS13</td>
       <td rowspan="3">Implementación de endpoints para gestión de timeslots</td>
@@ -3906,8 +3890,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Rivera Sosa, Eduardo Gael</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS14 - Implementación de endpoints para gestión de servicios -->
    <tr>
       <td rowspan="2">TS14</td>
       <td rowspan="2">Implementación de endpoints para gestión de servicios</td>
@@ -3926,8 +3908,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Varela Bustinza, Marcelo Alessandro</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS15 - Implementación de endpoints para consulta de usuarios -->
    <tr>
       <td rowspan="2">TS15</td>
       <td rowspan="2">Implementación de endpoints para consulta de usuarios</td>
@@ -3946,8 +3926,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Yalán Zhang, Angie Christina</td>
       <td>Done</td>
    </tr>
-
-   <!-- TS16 - Implementación de endpoints para gestión de reviews -->
    <tr>
       <td rowspan="3">TS16</td>
       <td rowspan="3">Implementación de endpoints para gestión de reviews</td>
@@ -3974,8 +3952,6 @@ En el tercer sprint backlog, el equipo tuvo la intención de iniciar y avanzar e
       <td>Varela Bustinza, Marcelo Alessandro</td>
       <td>In-Process</td>
    </tr>
-
-   <!-- TS04 - Diseño responsive y accesible -->
    <tr>
       <td rowspan="2">TS04</td>
       <td rowspan="2">Diseño responsive y accesible</td>
@@ -4622,13 +4598,13 @@ https://github.com/PaxTech-UPC/Web-Services
 
 **Url Deployment Azure - uTime (Paxtech) - Web Services**<br>
 
-
+https://utime.azurewebsites.net/swagger/index.html
 
 **Url Video About the product:**
 
-* Microsoft Teams: 
+* Microsoft Teams: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319668_upc_edu_pe/ERfEtE8S3WdLhoWUYUmMBfoBUBbhrCgm_thuZDMjyRHQHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SQO69q
 
-* Youtube: 
+* Youtube: https://youtu.be/6XoZkCqmiOo
 
 **Url Video About the team:**
 
@@ -4646,7 +4622,7 @@ https://github.com/PaxTech-UPC/Web-Services
 
 URL del Needfinding Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eb0_dXIIVztGj7h_-J6z6IIBxfjUUU4WJPM7v3x5BmOlNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TzxLwv
 
-URL del Validation Interviews: 
+URL del Validation Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EYZBcaJYZv5GqdHRtG_jMgkBOOAPuLsi8gHYLaTEP-FX2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5D6mcU
 
 URL del Prototypes Navigation / Product Navigation: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=0-1&t=NPXJtI3GloAbxeeU-1
 
