@@ -4146,6 +4146,10 @@ Para realizar el deployment del backend de la aplicación, se empleo la platafor
 ### 5.2.3.8. Team Collaboration Insights during  Sprint
 En el Sprint 3, se dividieron las tareas según las funcionalidades del sistema y se asignaron a los integrantes del equipo considerando sus competencias y experiencia. Esta estrategia facilitó una distribución más eficiente del trabajo y contribuyó a un progreso más ágil en el desarrollo.
 
+![Insight 1](img/ingishttb2w.png)
+![Insight 2](img/2ingishttb2w.png)
+![Insight 3](img/3ingishttb2w.png)
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
