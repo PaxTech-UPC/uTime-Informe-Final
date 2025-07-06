@@ -1957,13 +1957,13 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 ### 4.6.1. Software Architecture Context Diagram.
 
 <div align="center">
-   <img src="img/context-diagram.png" alt="c4-image"/>
+   <img src="img/c4/context.png"/>
 </div>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 <div align="center">
-   <img src="img/container-diagram.png" alt="c4-image"/>
+   <img src="img/c4/c2.png" alt="c4-image"/>
 </div>
 
 ### 4.6.3. Software Architecture Components Diagrams.
@@ -1974,66 +1974,52 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
    <img src="img/singlepage-diagram.png" alt="c4-image"/>
 </div>
 
--Profiles diagram:
+-Component diagram: Bounded Contexts
 
 <div align="center">
-   <img src="img/profiles-diagram.png" alt="c4-image"/>
+   <img src="img/c4/c3.png" alt="c3-image"/>
 </div>
 
--Reservation diagram:
+-Profiles Context diagram:
 
 <div align="center">
-   <img src="img/reservations.png" alt="c4-image"/>
+   <img src="img/c4/profiles.png" alt="c4-image"/>
 </div>
 
--Reviews diagram:
+-Reservation Context diagram:
 
 <div align="center">
-   <img src="img/reviewsdiagram.png" alt="c4-image"/>
+   <img src="img/c4/reservations.png" alt="c4-image"/>
 </div>
 
--Services diagram:
+-Reviews Context diagram:
 
 <div align="center">
-   <img src="img/servicesdiagram.png" alt="c4-image"/>
+   <img src="img/c4/reviews.png" alt="c4-image"/>
 </div>
 
--Workers diagram:
+-Services Context diagram:
 
 <div align="center">
-   <img src="img/workers.png" alt="c4-image"/>
+   <img src="img/c4/services.png" alt="c4-image"/>
 </div>
 
-
-#### Single Page Application Diagram:
+-Workers Context diagram:
 
 <div align="center">
-   <img src="img/c4-component-spa.png" alt="c4-context"/>
+   <img src="img/c4/workers.png" alt="c4-image"/>
 </div>
 
-#### User Diagram:
+-Iam Context diagram:
 
 <div align="center">
-   <img src="img/c4-component-user.png" alt="c4-context"/>
+   <img src="img/c4/iam.png" alt="c4-image"/>
 </div>
 
-
-#### Schedule Diagram:
-
-<div align="center">
-   <img src="img/c4-component-schedule.png" alt="c4-context"/>
-</div>
-
-#### Authentication Diagram:
+-Shared Context diagram:
 
 <div align="center">
-   <img src="img/c4-component-authentication.png" alt="c4-context"/>
-</div>
-
-#### Payment Diagram:
-
-<div align="center">
-   <img src="img/c4-component-payment.png" alt="c4-context"/>
+   <img src="img/c4/shared.png" alt="c4-image"/>
 </div>
 
 ### 4.7. Software Object-Oriented Design.
@@ -2043,7 +2029,6 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 ## Diagrama de Clases
 
 ### Diagrama completo del Backend
-
 ![Diagrama de Clases](diagram/uTime_Backend.svg)
 [Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/tLtDajku4Rwxok-WsakyvLhDVSfnTlxiA3KUpOvcTcjFBbf3QxYMH8Max9tTsciU8Cazpv5ptYHFa4S8Vm0I01j0DmXGzix1bYYWlqQZkm5y18blyoBAYlrcFTdV9fjuSXejFyJR-wTFyW_9TXTbqMQoAoz5gtXHFAxZIHOlYsYxMiTFdpnzmdwPV7MTfU-JTPn_DVdrwPD9-TV-SfvkecJRNfT-UvFUnslf9-ddazKgYrTH8OWL_vRhACydP-iatXOvLA3w--PTaXKFR-zBASUix6brvRoyeAdnVhzUNqMRilmhzgc-hYczp-DiTdyykQl_Ltxjr_cjCXlSajA67vFxEDEtPSTAS6jNkDUzQvhAoQOqwbssxghCs1LDXNMwZ8eatNOLBjaLi5dg9LqpAqFbanSlsjwzITFYvKjTe-FIVKgTBwh_u1AxKkgdDAjimJwHpBv8bqcqrXizhtyl_IKwPcMhpoWJoFtwbdUHgN-h0ZEnfyGBcchBz6FNcQMNYryfUgPPyJvT9-dRkhBT3KNtGxWTMgLUPxKPuIpTRABjlJ4VP77fKqsai-Abizt4oz8lNhuqr-ADSQtNTZ2w8ZTvOt4gBdDTMxNVDDRyRXzdYJ6vlewBa_MQfTYg-2D2jwPIcyq8rHZGwUFidb2B8vq-rad2gQODK6V2xwFrFfw_-waS5FElj6PaOyEB5q9nVSRx9YdZQfrkLmuvnXUA3gST4R4exvCiBvhHT55a2GHNbokbOufz0rz_leeBhjgphyqowh9SAqpXoyXUrjunBFcX3RUlKgOp71-fqN3TO4_6F4ktHRGiq52xXtGRN-qtx-BCqjjixATRWSq3_Xpb3tYrX4eaJFF48cpSTnCID4epdxapkPTGRhOq-KHTq12J2uw5YRD52pWeqhg9CBxhWNarFG6BCpKAj3pbSmY_ZmxfHPapqgqjprmenbPhacrDRcmonBgRNRHz98rvowuE6b7uAdnivncBEFkOB86vchW8PlD0LhPKTxOjuknzj8nXPP_FTrNAZzOlsCJhvUIXhB-Edq6Jw6Np_zV6YP6q9g-dL7XjBfEyw6a2p43_MltxDQKvqDGIaW8sHbaKUBEkkjWWs5UUMnCjt5PMRAnCs9sitCemsndVMyACdjnXF9k7whXsjUVGSxpka0vi-GHDHqeOY7umobM4kiGHkDRrrolmKfhIDx84fwvHA1IrPm04JCSOfCeY7Rf5vX2yTOT2JH2wWTLqCJ-hgbXT58YmDY2akOGsBll8_klexDrkdJIhB9WEhzjOgg1bnELE0Waw_NnWjjcjjLEMfi9Dl4lpf4Ypn-DIa7o5EFdNQV1CHUe10PqZTv3YS1F2R4NfADbey41lD1kl8Xfkrxj6D9rUZsTzF03ErO2u2GdAXF3GUpXJwlKPnwIMgOBPfgPnym0cjQaJsAAKOTveLt3W6z-UMZN2sX4rFWFsqn3XucXj7PUaiNtSOMde6jDeM_Gw4p1aPoDmSJU-N_fOArgjHLWluYrlMJC2nhVFtMRRzrcK5zb-MUop69w-NPVjA8qMRvUnVa_3Jxl8kfb127ZhnBVwSt0k4mGeZcum9ZE7ZNKJvuNUIjKjXInThqkBMgtLbRMa4Jd5ebC9aBDuNV4QCRpAzk_IRHvVR8kaU7p1EpvFzrdP3oM0CATzfWi7cv0LZueglAwZuW4hwKzYvTmFFbQAaA9RKOsiBab3ikm95U4fGbdPMT3vb4kG_MK7N1tcCLqaApx3Vy3Q6n2qac-DEtWEh_v3KZnSLvl8uZ8Te1t9hf8lIVLOGVBCdiJMDrlVSVBERec2Tb9uLTCv6_mxKYZilz2lVloOIzRwCoj0xNb0xWgaCmTuEPCopDdHYZgvQqzwpsrv2Phtgiink_EQre-bevb-nebKF5V_uq37bGNt_LRw7UqDMgahYEnrSLf9YAFFqhIaUQn6TkUmSW6IlxRBNgkVWklouqaENJQBaFqnxrySveSCfUT_pNMiwVjILYBlxU1dJMKt_x9eG_8dLLRhH-m7XF_eTlzncVP52YyfR32S_AhVT21C_brgwlUn6ggg4njJBPr1Jl8ythmhmmfja5TP6OfDTxMLTJ7vNAvwF2bIGSocaK9A1y2TWqeIbuhGg2-WKWkGvQ2NqeqkcYaYVEYc-abdUhjIQbqFNQYRuBYefShmvc6Q6VkG7bL4UUbPUEGbMH8MuS-GuFJGoOwW91zcL0OSYlcKgjxCnkIws8bLTJSCo1N-9ZqzrjlTDjhJOwPR5jMVzAnBzrbJE6-adST5b5GcMqZVpPNORi7kYwRu_JvZ6xNFsIUjvlLyyqswZNLSLLv4nRxIi_uVqvCQMqkFGUYjxVif1HX5jhgAfDqMhVIT6oXfdwZKyqGytlbeiCvlPjk2qh3QD_1jOYvrcgRhEB8_AUZXMIzcUj9azsvtJwevz14gdcVKfumCAbRxZffQqED9g8hvwMCNSbO9mxOWoxPqs4V6vQiRoUG-qj-eDaW2Uvko9KtiFUgUD5KPo24Gkz80CJttq8hHQg9t5FiUDy17BdwEQuLrJi91hjBYLRhVtb_yl6mgbDPiFskigQtxh1kNF-SzUM206E_hipBYRVrSlKJaZhn5cqKQ8UAKZWA-4ZUPGD4wjfs7Xxx5m9JmDsj4Im50ztmskoTw_QZcQ0V5m-zYQ8F4Jab36QJrLHmb3SH6Ay4dASsxGYMbc-je7hWdPYyc5YeZpPhfo4dtT5b9CKWZfHLX7IdDT0pCIYlu57BvaDDj3B-iD8r4lyXL_T4lKiETM1X9WW-M2keIccQGXA0qqKtyCOa_7O0bOi1MakXjWdaZIhDth2xRt3ZGbingt6E6_tlXPtYZGs8q5aCZS4CRdtEl-9FjwdYIGFm94nELghuRJ7sqInkxKpgifAg_vvhQpnfBz5PI9FNHp4sZXCD8WguubBTXaKzZNvfATDQ6WP586rW03x70d8_K3GwK3zDNMOFAdOiXV5Gva9CGw1wnqubiZwe9u4LshWSGehgKcUdH2Y0iykoIP2Vxx9-9X9pLI0iq5KHM85Ekk98lm_pUB0ll-qeF0L-9n0iGD-CQU6W8cYrB24EZDkHGn4cpXsFrzxboDwelV17K3OyoAtC3vHxkxIZU1WWjNjyZQyCxGI5jcijOVgCdP2za929ZmvhjHjZq55c90KoYQnHHBLl3z0jCriZe5AxcS1Di35CZjuj2rCWrlV4qKgjTQ1f9W3-MPe1UW02V74trr_PvjEnFqwIPGPKfuv-BLz4okcTJ0nJjK_7JaRmU7f7xwT3rR_n2KpgCQg-ByZcIhYoDLjf5Znkkn7NpMLksI3RnstoTDgMhztuloY_Quf_Ix0DJuuVw8rGIcHYGLDGO955h_w1lPkLT4HAawy6GABplIHZqzzzLVovSKXkdJkCTfVPmLgdBALI6fwtfmYzri0IEo21ZjDr5_VvnefiwtNjhxrx_uuWdGABMeqWKbE8XP1uAK4pdV1X62XO7kgEDKRAAGYzcAHAfl1T69a-8Nmm3fWaY2qlJrfAf6k2oEo7c9p8HKedHgNGYy9LCai6HVQW-y9Sk4CQdfWoxXYvfWohLXQVpapwgly-NiGESxmkXxOJWHt1tcgmfnH-InODZNvBabSyJkgX7whM_uGarIDnUJQXaZgzhkYlH1-crwkKQ8kNN5ohmVftEmSc_dXuq1l3moo8S5zXh9eqGx5Nto0ggHd2Z1bKfFld1OHhgf8JOpIK_-FSGPV5zdzGRQyFmDleGdqLvVFtmc9UJyEhyc6IxMXHPQOvLDPYTLUKCXm5fHh41f6JZfWQbwmVwjAFLflfL-zIVNuwkqGH91YttMLRsLRMtth39Ajga-ss1PAOGt74pnJe0RSo0jVsqhH_wQqePdlRCTt7r-6to2tjshwcmaAvggkuUqY9zMnyZrDIwhYuWpry36uvqYwvHQA9mIpagGqMIhO5_Kb4nhICwjohb-2FUBsDneusc3kC_kk9GHfI52usBR2hHUL06DY9zATdHWRba6YlKYDmx6BvIbGFrCe6b57kDI52gcW1kOASb0I6gJvXfFgq0fmSYXVyEGUz1JcPabPeA8g7qIRdYokSDyrUpBBpFAZq4V2LoTu2_ZslWeQ5ZjYmXV8pQa488w9NFXk9I---BOBTuP5Y9BIXVS0z5qLb0EF3w7aaitWaAVzLSnb8wFI5x8OiG2IlMR3UkggV8IWmw4aEbY6h9AQPVO5vAHgTGKeURZMA8ABbT50vAhkcDVf9QxS8yIGByaKu3z084XA2Q_Z3ve-MlAlE_V_tptvERYykJizb__d5rF3bv_VhculN9xSLYyj-__Nto_SdbtSLaVlgNYxFR1KucVpNRj24PfZMVCEreWobxYtcP0bzEuCBYKdlAJpRsBxavcDg_NFRMzoGh7ixB-bLdM27QrsTZGTGtuQ4QuepIdLuV3eEVseooLzLtQ8JwFUU-XOh7BADKPk-Imyhl3ZScEL1xVY71_E8Pl26XfCDwSQrI3lyZ-oqgAXn1n9Quvjkp-Pit9rVdYydHvBkxYviPoxjT6XwIT3b5DeNEYDCtif_va03gctTH46s-888WdC_airWq-CGj7ARYLqX8vN0g51IheuyfHaLEWTEUV3Y28Bvt1fHd-Vq3cFoucG31oqgdAGL48LbAW71FE-VpDoUpgydYukRxsHdBEVrKv9PxE9Cq1S_brhVHbAqCA4hI8UCezH58oik7dH7rgQY3D1uRZ4S4nHXmuNDnqNXoTIWhAKuYi-Xw77qQ2m6XfZA4RxWrHAuT1gQNRaB3TBbpIAOwkRw-d9sTtCxcGhgQlRc-h7FMpSNrV36xdTSJfwCsXH4Jbt2ROihlI4nbtuUpMSr_IsQHkTcfGCDEVzf5K_M8kp1A4D8gLG4usvBjmCMuMmAh22drkoe1ZmW7j0fM8TemHTR6UdZloDQXwUCoeb9Lqf_3Ewvfa7eu3lgW2j9jHsYG3fvT7JIWpqP28_SdAJHmSAmVmGETj72PGuL7DqsjnaJtC-Cwcr_TtimlBozkcdLXE-iwWjYg8tUkghiVFArk_Kw5ExpjHAUzZmkPmZWj2WYatD_rXqDQ27j2GoKn_rY6jPKdC8XTGgAq4Odr2tWs6XhDnG-nO4Ikn1yaCgi70JGbyi20OkuEWAaZ44bGtQg2vgVmQcHay06nWeIcadtUeSttEx38saDjpUOs7rqx8hHBHvE0tIXMt_Z66qr8tFw1i4P3Wul4e50EVOa3GgrWlUF1T-oSgT75ukBDQJjF5oRdmYwUexB6OdvtSpPuUjxkR6hNsOP3J1rl-ld3L2Mrk_eKIJXmx4cftYVrGtKmc04uPjUOE3fLkiM-Vf-Wy-rIZx3wngkY23sWp847-a5lHaso12_ghIEWxH5OWoYpF4-6GSrV1ClWJt4TkeV3QXV2QQq-UMUzNeYpMMbZ5zeMnYDO1p3CzO3M3NSLToNlMPtKOvhunW9jgyH2jKxwMi1spsgdML0OpWk6nk615nweUqrZK1pn1Oz1WRgtGtB7RAdJqYzBRpmvdzSVkwdQZosFglNJTahSVqE1U6DUhwCIH7qneN5rBrZ0u_Rt8UXXPVwe9oGug518e9760rLV13KoTfS-3e4klLIgYyDwlqWLUDL-aJBechYSpQ6mGzqkrSP4Uzj6accvUIQK5U-V1LThK9eOJo5a_a3SQTEvsxYzDaId0QbkD5qG6V0GkbWIuu5KCkVB0ocbIQFTdU4wcRQpctuIDH5cKY1Bf9dRD6HKQ8MHR5SW7HLdDqQtE99IY7bHHfwv1bT2pwu04j7QqDuwHb0AEQpfDQEzROoWcNvy8onmwoC638xHdE7OQ0MKDIm1VKeMrye-vV8p8hjCnHPObRqww-bjrPlzY2U0Q7NewsiJ3nqmGXBFMyZNZTW6gdC5uK2euSsJ1XBvaAW0me5tQuH1aL-ewzHD8WDGUMNfbFDgsLz-NTnTtfx0yIkCFC0PWrf5J4xi7GFmP1i6jCGZkQf_0CLTGm704xr0ICeiLt55UJ5SFppnO-sGp3SbVqGkyZHd2ufQMnTJwjbt_bLmY9NGu60GMU3LwJzyx60uszFnoT4T65SRzAFWcdB1M0feKWIum9lL0rOrtRnLquDvhQKS3mWeQ0oXO33A6iuNYdt2uGS1bxayOnb7UpzOcCJW7QcN2lGhUbW3SHrjEz1FpidwrRCenpyoOkvgXqGV6OXhCycL1sf122QC3kX32d6M80NQG2r8SnALYLYcMuY9Q7EjTlC0Ar1h0fVMaX7UXRCYvt4H9TM6Xb00pGkil4i_tsVrN264uaLKxCNjYIsdSiIfXye35Ee15gnkusWAYVG7MdqhHEEzmo1q8F88nSjqxC3WLWW0h81Cf0G0q90fRjQo9NXqjnWznW3OstSaLTHdHCSMXDI4OWzK5n0ZmnXHg8P35GTrmTYQKEo1wW9MX5zmZcd35ZyPGJSNfEiQ11sJNFZmexwog1fzUaCIE0Yrt-K-4xcrOLd86ux5mJKuVQgGF7m50L67i90W4AcYeJuhn-cepwFsLf7iExYt9a0TtR8nGi0O-RSsQZe2BeWQJhuTNW5hFaMGOf3_XEy75nqS8Z8ujY5Gny8snw_0IrRHAsyyqOvBqbDQtBqaTeYMmOD2AQIaHwHXC-h1UCH9coiUBfG2e1c29nmQ52xUOIqJifOXPICgUygm7L2FXASGpO7wUvw-8c17M20Yj1XbZJIPJ1hdQHvZdLzntwZUNC-ERj2QbPygL-63PO6dCRhJvK98XuwY2u7J7Lvdm51SG3ulGelMrmm30Hr9GO8mWCYPN3hPnqyh103rn9z001gIRPYrsX04prVJoZUvIH0Sm5SmEFsr8D5Rme0e7XCI19uJYtYenPdsP3HH4ylII3qBAfGQZfuQMW7GXH4go0ibtG5gOVk1heDJV0N6DeRTADZsQ3JDktldaW70HayD2WKSMEOB2JTy-a719mpFUDOXpWyUDXQzencZBn0QFTwwjOpz63Cvv-eMaRASCEY3uaHTH2AE9GiGFUeYqeiMY37NThCMkJvnRxXwQv8Ag6dZqoVVnjlx_MRzVm00)
 
@@ -2077,8 +2062,7 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 ![Diagrama de workers-context](diagram/back-context-diagram/svg/workers-context-diagram.svg)
 [Link a vista amplia del diagrama](https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0)
 
-### Diagrama completo del frontend
-
+**-Diagrama completo del frontend**
 ![Diagrama de Clases-frontend](img/class-diagram-frontend.png)
 
 -Diagrama de Dashboard y Appointment - frontend
@@ -2092,7 +2076,6 @@ Web Applications Prototyping Mobile view: *[Web Applications Prototyping](https:
 
 -Diagrama de Schedule y Services - frontend
 ![Diagrama de Clases-frontend-sched_serv](img/class-diagram-frontend-sched_serv.png)
-
 
 ### 4.7.2. Class Dictionary.
 
