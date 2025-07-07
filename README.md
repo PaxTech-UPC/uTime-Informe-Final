@@ -115,6 +115,13 @@
 | 3.10    | 15/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Video About-the-Product.                                                               |
 | 3.11    | 15/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración de las Conclusiones y recomendaciones.                                                     |
 | 3.11    | 16/06/2025  | Julca, Rivera, Varela, Yalán | Elaboración del Video About-the-Team.                                                                  |
+| 4.0     | 20/06/2025 |  Julca, Rivera, Varela, Yalán | Corrección de los items mencionados en la primera entrega (TB2)                                        |
+| 4.1     | 22/06/2025 |  Julca, Rivera, Varela, Yalán  | Elaboración del Sprint 4                                                                               |
+| 4.2     | 24/06/2025 |  Julca, Rivera, Varela, Yalán  | Elaboración del Diagrama de clases del Backend                                                         |
+| 4.3     | 25/06/2025 |  Julca, Rivera, Varela, Yalán  | Creación del Proyecto en el Repositorio de Web Application                                             |
+| 4.4     | 26/06/2025 |  Julca, Rivera, Varela, Yalán  | Elaboración del Sprint Planing 4                                                                       |
+| 4.5     | 01/06/2025 |  Julca, Rivera, Varela, Yalán  | Creación del Sprint Backlog 4                                                                          |
+| 4.6     | 02/06/2025 |  Julca, Rivera, Varela, Yalán  | Elaboración del Execution Evidence for Sprint Review 4.                                                |
 
 
 </div>
