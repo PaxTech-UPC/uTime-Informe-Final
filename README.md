@@ -168,6 +168,19 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 | Angie Yalán         | Corrección del LeanUX, Sprint 3, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team.                |
 
 
+**TF**
+
+Para el desarrollo del informe perteneciente a la entrega del TF, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+
+| Integrantes                                      | Tareas Asignadas                                                                                                                                                                                                                                                                                                                             |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Julca Cruz, Renso Anthony (U202121579)           | Corrección de los diagramas, Sprint 4, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Video About-the-Product, Video About-the-Team.          |
+| Rivera Sosa, Eduardo Gael (U202312222)           | Corrección de los US, Sprint 4, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Video About-the-Product, Video About-the-Team.                 |
+| Varela Bustinza, Marcelo Alessandro (U202319668) | Corrección del Bibliografía y Anexos, Sprint 4, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Video About-the-Product, Video About-the-Team. |
+| Yalán Zhang, Angie Christina (U202312504)        | Corrección del LeanUX, Sprint 4, Sprint Backlog, Sprint Planning, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Validation Interviews, Video About-the-Product, Video About-the-Team.                |
+
+
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
 
 **Github Collaboration Insights**
@@ -4498,42 +4511,82 @@ A continuación, se presentan evidencias gráficas que demuestran la correcta ej
 <img src="img/evidence_register.png" alt="Register Frontend" /> **Figura 1**: Formulario de registro de usuario. El frontend envía una solicitud `POST` al endpoint `/api/v1/auth/register`. Si el registro es exitoso, el backend responde con un token JWT para iniciar sesión automáticamente. <img src="img/access_evidence.png" alt="Access Frontend" /> **Figura 2**: Formulario de inicio de sesión. El backend valida las credenciales mediante el endpoint `/api/v1/auth/authenticate` y, si son válidas, retorna un JWT para acceder al sistema. <img src="img/evidence_client_home.png" alt="Home Client" /> **Figura 3**: Pantalla principal del cliente autenticado. Se accede a esta vista solo si el token JWT es válido, confirmando el correcto control de sesiones por parte del IAM Bounded Context. <img src="img/reservar-client.png" alt="Make Reservation" /> **Figura 4**: Pantalla para agendar una cita. Permite seleccionar un horario disponible y registrar la reserva mediante los endpoints de `ReservationController` y `TimeSlotController`. <img src="img/favorites_evidence.png" alt="Favorites Client" /> **Figura 5**: Servicios marcados como favoritos por el cliente. Se observa el consumo exitoso de datos protegidos por token JWT. <img src="img/staff%20cleintes.png" alt="Staff View" /> **Figura 6**: Vista de gestión del personal de servicio. Muestra la integración con el `WorkersController` para visualizar trabajadores. <img src="img/home-client.png" alt="Dashboard Client" /> **Figura 7**: Panel general del cliente, con accesos directos a funcionalidades como historial de citas, favoritos y búsqueda de servicios. <img src="img/metodo%20de%20pago.png" alt="External Payment View" /> **Figura 8**: Vista de un método de pago proveniente de una API externa. Esta funcionalidad no se gestiona directamente desde el backend propio, sino que se muestra como integración visual con un servicio de terceros.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
-Durante el Sprint 4 se implementaron y documentaron servicios clave que habilitan la funcionalidad del IAM Bounded Context dentro del sistema. Estos servicios permiten la autenticación, registro y consulta de usuarios, y su correcta integración fue esencial para garantizar el funcionamiento de las operaciones del sistema a nivel de identidad y acceso. A continuación, se describen tres de los servicios más representativos que se desarrollaron durante este sprint:
+Durante el Sprint 4 se implementaron y documentaron servicios clave que habilitan la funcionalidad del IAM Bounded Context dentro del sistema. Estos servicios permiten la autenticación, registro y consulta de usuarios, y su correcta integración fue esencial para garantizar el funcionamiento de las operaciones del sistema a nivel de identidad y acceso. A continuación, se describen tres de los servicios más representativos desarrollados en este sprint:
 
-1. AuthenticationController (Backend - Spring Boot)
-   Este controlador REST gestiona las operaciones de autenticación en el sistema. Define dos endpoints fundamentales: sign-in y sign-up.
+1. AuthService (Frontend – JavaScript con Axios)
+   Este servicio centraliza la lógica de autenticación desde el frontend utilizando Axios para comunicarse con el backend a través de los endpoints expuestos por el AuthenticationController. Provee métodos reutilizables para iniciar sesión, registrar nuevos usuarios y gestionar el token JWT.
 
-POST /api/v1/authentication/sign-in: Recibe credenciales de usuario y las valida a través del servicio de dominio UserCommandService. Si las credenciales son correctas, retorna un objeto AuthenticatedUserResource que contiene la información del usuario autenticado junto con el token JWT correspondiente.
+signUp(userData): Envía los datos del usuario al endpoint /sign-up y retorna el cuerpo de la respuesta con el ID y correo del nuevo usuario.
 
-POST /api/v1/authentication/sign-up: Permite registrar nuevos usuarios. El recurso SignUpResource es transformado a un comando de dominio y procesado. Si el usuario se crea correctamente, se devuelve un UserResource con su información.
+signIn(credentials): Envía las credenciales al endpoint /sign-in. Si la autenticación es exitosa, guarda el token y el user_id en localStorage.
 
-Este servicio es crítico para establecer la seguridad inicial del sistema y permitir el acceso a funcionalidades protegidas.
+getToken(): Recupera el token JWT del almacenamiento local.
 
-2. UsersController (Backend - Spring Boot)
-   Este controlador REST está enfocado en la gestión de usuarios registrados y permite consultar información mediante dos endpoints:
+logout(): Elimina el token de localStorage.
 
-GET /api/v1/users: Devuelve una lista de todos los usuarios registrados en el sistema. Internamente se invoca el UserQueryService con el GetAllUsersQuery y se transforman los resultados en recursos de tipo UserResource.
 
-GET /api/v1/users/{userId}: Recupera la información de un usuario específico mediante su identificador único. En caso de no encontrar al usuario, se retorna una respuesta 404.
+import axios from "axios";
 
-Ambos endpoints son clave para administrar y verificar la existencia de usuarios desde el frontend o desde servicios externos.
+const API_URL = "http://localhost:5245/api/v1/authentication";
 
-3. BaseService<R> (Frontend - Angular)
-   Este servicio abstracto en el frontend (Angular) actúa como una clase base para consumir recursos RESTful de manera estandarizada. Facilita la conexión con los endpoints definidos en el backend y aplica buenas prácticas como la gestión de errores y reintentos.
+export const signUp = (userData) => {
+return axios.post(`${API_URL}/sign-up`, userData)
+.then((res) => res.data); // 👈 devuelve el body { id, email }
+};
 
-Incluye métodos reutilizables como:
+export const signIn = (credentials) => {
+return axios.post(`${API_URL}/sign-in`, credentials).then((res) => {
+if (res.data.token) {
+localStorage.setItem("jwt_token", res.data.token);
+localStorage.setItem("user_id", res.data.id); // 👈 Guarda el id también
+}
+return res.data;
+});
+};
 
-getAll(): Obtiene todos los recursos de una entidad.
+export const getToken = () => {
+return localStorage.getItem("jwt_token");
+};
 
-getById(id): Recupera un recurso por su ID.
+export const logout = () => {
+localStorage.removeItem("jwt_token");
+};
+<img src="img/base_new.png" alt="AuthService - Frontend" /> <p><strong>Figura 1</strong>: Servicio de autenticación del frontend. Gestiona la comunicación con el backend y el almacenamiento del token JWT.</p>
+2. AuthenticationController (Backend – Spring Boot / ASP.NET Core)
+   Este controlador se encarga de manejar las operaciones de autenticación desde el backend. Expone los endpoints REST:
 
-create(id, resource): Crea un nuevo recurso con un ID específico.
+POST /api/v1/authentication/sign-in: Recibe las credenciales del usuario y, si son válidas, devuelve un token JWT junto con la información del usuario.
 
-post(resource): Crea un nuevo recurso sin ID asociado.
+POST /api/v1/authentication/sign-up: Permite registrar nuevos usuarios y devuelve su información si el proceso fue exitoso.
 
-update(id, resource), partialUpdate(id, resource), delete(id): Manipulación avanzada de recursos.
+Ambos endpoints son esenciales para establecer la seguridad del sistema, habilitar el control de sesiones y permitir el acceso a zonas protegidas de la aplicación.
 
-Este servicio es fundamental para mantener una capa de integración limpia entre la interfaz de usuario y la lógica del backend. Utiliza el entorno de configuración (environment.serverBaseUrl) para apuntar dinámicamente al servidor.
+<img src="img/auauauau.png" alt="AuthenticationController" /> <p><strong>Figura 2</strong>: Vista del controlador de autenticación del backend que maneja los endpoints de login y registro.</p>
+3. UsersController (Backend – ASP.NET Core)
+Este controlador REST permite consultar información de los usuarios registrados en el sistema. Cuenta con los siguientes endpoints:
+
+GET /api/v1/users: Devuelve una lista completa de usuarios registrados utilizando el servicio UserQueryService.
+
+GET /api/v1/users/{id}: Recupera los datos de un usuario específico según su ID. Retorna un 404 si no se encuentra.
+
+Estos servicios son fundamentales para funcionalidades administrativas o para recuperar datos de usuario desde otros módulos.
+
+[HttpGet("{id}")]
+public async Task<IActionResult> GetUserById(int id) {
+var getUserByIdQuery = new GetUserByIdQuery(id);
+var user = await userQueryService.Handle(getUserByIdQuery);
+var userResource = UserResourceFromEntityAssembler.ToResourceFromEntity(user!);
+return Ok(userResource);
+}
+
+[HttpGet]
+public async Task<IActionResult> GetAllUsers() {
+var getAllUsersQuery = new GetAllUsersQuery();
+var users = await userQueryService.Handle(getAllUsersQuery);
+var userResources = users.Select(UserResourceFromEntityAssembler.ToResourceFromEntity);
+return Ok(userResources);
+}
+<img src="img/serserser.png" alt="UsersController" /> <p><strong>Figura 3</strong>: Controlador REST para la gestión de usuarios. Permite consultar todos los usuarios o uno específico por ID.</p>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 Durante el Sprint 4 se logró la integración completa entre el backend y el frontend de la aplicación, consumiendo correctamente los endpoints definidos en los distintos Bounded Contexts del sistema. Esta integración permitió validar funcionalidades clave como autenticación, registro, gestión de perfiles, reservas, servicios y trabajadores, garantizando una experiencia funcional y segura para el usuario final.
@@ -5027,13 +5080,13 @@ https://utime.azurewebsites.net/swagger/index.html
 
 * Youtube: https://youtu.be/c76i54BmpaA
 
-* Microsoft Teams:
+* Microsoft Teams: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319668_upc_edu_pe/EV0eveaQnidKpreyOU_GlUwBCKi76JnAhIZMclEHXbDUeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8UH3eC
 
 **Url Video Exposicion TF:**
 
-* Youtube: 
+* Youtube: https://youtu.be/CtFpDAXqtuk
 
-* Microsoft Teams:
+* Microsoft Teams: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319668_upc_edu_pe/Ea7fE0lr2MJGhSf31u6xylsBmCKMfQ5pyddHmpIEnYoCmw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eN9bsb
 
 **Herramientas y Recursos Utilizados:**<br>
 
