@@ -5009,7 +5009,9 @@ El video está diseñado para captar la atención de potenciales usuarios y esti
 
 ### Conclusiones
 
-- Durante el Sprint 3, el equipo avanzó significativamente en el desarrollo del backend de la plataforma uTime.
+### Conclusiones
+
+- Durante el Sprint 4, el equipo avanzó significativamente en el desarrollo del backend de la plataforma uTime.
 
 - Se logró consolidar la lógica principal del sistema, encargada de gestionar citas y servicios específicos para salones de belleza y barberías.
 
@@ -5033,7 +5035,6 @@ El video está diseñado para captar la atención de potenciales usuarios y esti
 - Aprovechar los recursos multimedia como los videos explicativos para mejorar la comunicación del proyecto, tanto interna como externamente, asegurando que los avances técnicos sean comprendidos por todos los interesados.
 
 - Reforzar la conexión entre los módulos del frontend y backend, asegurando una integración fluida y bien documentada que permita escalar el sistema sin mayores fricciones.
-
 
 ## 6.2. Video About-the-Team
 
