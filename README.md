@@ -4574,10 +4574,12 @@ A continuación, se presentan las evidencias tanto del funcionamiento integrado 
 
 <img src="img/azure_deployment4.png" alt="Backend Deployed" />
 <p><strong>Figura 12</strong>: Backend desplegado y accesible desde la web a través del App Service.</p>
+
 URL del backend desplegado:
-https://utime-web-service.azurewebsites.net/swagger-ui/index.html
+https://utime.azurewebsites.net/swagger/index.html
+
 URL del frontend desplegado:
-https://github.com/UPC-PaxTech/Frontend-Web-Applications
+https://frontend-utime-app-web.web.app/
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
