@@ -4682,7 +4682,8 @@ https://frontend-utime-app-web.web.app/
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 Durante el Sprint 4, las tareas se organizaron de acuerdo con las funcionalidades del sistema y se asignaron a los miembros del equipo en función de sus habilidades y experiencia. Esta metodología permitió una distribución del trabajo más efectiva y favoreció un avance más dinámico en el desarrollo.
- Frontend Section:
+ 
+Frontend Section:
 
 <img src="img/front_contributors.png" alt="home_section_salons" width="600" />
 <img src="img/network_front_contributors.png" alt="home_section_salons" width="600" />
