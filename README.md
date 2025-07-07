@@ -311,6 +311,15 @@ El proceso de colaboración en el informe se realizó mediante commits constante
    5.3.2 [Registro de Entrevistas](#532-registro-de-entrevistas)<br>
    5.3.3 [Evaluación según heurísticas](#533-evaluaciones-según-heurísticas)<br>
    5.4. [Video About-the-Product](#54-video-about-the-product)<br>
+   5.2.4. [Sprint 4](#524-sprint-4)<br>
+   5.2.4.1. [Sprint Planning 4](#5241-sprint-planning)<br>
+   5.2.4.2. [Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)<br>
+   5.2.4.3. [Sprint Backlog 4](#5243-sprint-backlog-4)<br>
+   5.2.4.4. [Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)<br>
+   5.2.4.5. [Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)<br>
+   5.2.4.6. [Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)<br>
+   5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)<br>
+   5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)<br>
 6. [Conclusiones](#conclusiones)<br>
    6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
    6.2. [Video About-the-Team](#62-video-about-the-team)<br>
