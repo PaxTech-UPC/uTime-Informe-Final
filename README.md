@@ -4568,20 +4568,33 @@ A continuación, se presentan las evidencias tanto del funcionamiento integrado 
 <img src="img/metodo%20de%20pago.png" alt="External Payment View" />
 <p><strong>Figura 8</strong>: Visualización de método de pago a través de una API externa. La funcionalidad aún no está conectada a un controlador propio, pero se demuestra como una integración futura.</p>
 
-#### Evidencias del Deployment en Azure
+#### Evidencias del Deployment de Backend
+Para realizar el deployment del backend de la aplicación, se empleó la plataforma Azure. Se realizaron los siguientes pasos para llevar a cabo el despliegue del proyecto.
 
-<img src="img/azure_deployment2.png" alt="Docker Build" />
-<p><strong>Figura 9</strong>: Proceso de construcción de la imagen Docker a partir del .jar del backend.</p>
+1. Login en Azure mediante Rider
+   Se inició sesión en Azure directamente desde el entorno de desarrollo JetBrains Rider. Esto permitió autenticar la cuenta y vincularla al entorno para facilitar el despliegue del proyecto.
 
-<img src="img/azure_deployment1.png" alt="Azure Container Registry" />
-<p><strong>Figura 10</strong>: Imagen del backend subida exitosamente a Azure Container Registry (ACR).</p>
+<img src="img/loggin-ridder-azure.png" alt="Login Azure" /> <p><strong>Figura 1</strong>: Inicio de sesión en Azure desde JetBrains Rider para autenticar la cuenta.</p>
+2. Crear un recurso en Azure
+Desde el portal de Azure, se creó un nuevo recurso App Service llamado PaxTech, el cual funcionará como servidor de backend. Durante la creación se configuraron:
 
-<img src="img/azure_deployment3.png" alt="App Service Configuration" />
-<p><strong>Figura 11</strong>: Configuración del App Service en Azure, incluyendo el enlace con ACR y variables de entorno.</p>
+Grupo de recursos
 
-<img src="img/azure_deployment4.png" alt="Backend Deployed" />
-<p><strong>Figura 12</strong>: Backend desplegado y accesible desde la web a través del App Service.</p>
+Nombre del recurso
 
+Región
+
+Sistema operativo (Linux/Windows)
+
+Plan de servicio
+
+<img src="img/recurso-azure.png" alt="Crear recurso" /> <p><strong>Figura 2</strong>: Creación del recurso App Service desde el portal de Azure.</p>
+3. Hacer el deploy con ayuda de Rider
+Con el recurso ya creado, se utilizó la opción Publish to Azure en Rider. Se seleccionó el proyecto, se vinculó al App Service PaxTech, y se procedió con el despliegue.
+
+<img src="img/deployment-azure.png" alt="Deploy desde Rider" /> <p><strong>Figura 3</strong>: Proceso de despliegue del backend desde Rider hacia el recurso App Service.</p>
+
+✅ Al finalizar, el backend quedó desplegado correctamente en Azure y accesible desde el recurso App Service configurado.
 URL del backend desplegado:
 https://utime.azurewebsites.net/swagger/index.html
 
